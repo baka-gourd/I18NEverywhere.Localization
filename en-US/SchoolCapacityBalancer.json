@@ -1,0 +1,20 @@
+{
+    "Options.SECTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod]": "School Capacity Balancer",
+    "Options.TAB[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Modify School Capacity]": "Main",
+    "Options.GROUP[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Student Capacity]": "Student Capacity",
+    "Options.GROUP[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Additional Options]": "Additional Options",
+    "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ElementarySlider]": "Elementary",
+    "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSchoolSlider]": "High School",
+    "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.CollegeSlider]": "College",
+    "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.UniversitySlider]": "University",
+    "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ElementarySlider]": "Set the student capacity of elementary school buildings relative to their vanilla capacity.",
+    "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSchoolSlider]": "Set the student capacity of high school buildings relative to their vanilla capacity.",
+    "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.CollegeSlider]": "Set the student capacity of college buildings relative to their vanilla capacity.",
+    "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.UniversitySlider]": "Set the student capacity of univesity buildings relative to their vanilla capacity.",
+    "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ScaleUpkeepWithCapacity]": "Scale upkeep with capacity",
+    "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ScaleUpkeepWithCapacity]": "If enabled, school upkeep costs will be scaled with the capacity setting. Changing this value requires restarting the game.",
+    "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToVanilla]": "Reset to Vanilla",
+    "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToVanilla]": "Resets all capacities to 100%.",
+    "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToModDefault]": "Reset to Balanced Defaults",
+    "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToModDefault]": "Resets all capacities to the mod's balanced defaults."
+}
