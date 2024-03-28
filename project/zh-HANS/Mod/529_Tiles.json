@@ -1,5 +1,4 @@
 {
-  "Options.SECTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod]": "529 Tiles",
   "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.UnlockAll]": "解锁全部地块",
   "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.UnlockAll]": "当您开始一个新的存档（或加载一个现有存档）时，将自动解锁地图上的所有地块。",
   "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.ExtraTilesAtStart]": "在新建地图时提供额外的地块",

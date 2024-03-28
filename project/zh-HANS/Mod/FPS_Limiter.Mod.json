@@ -1,5 +1,4 @@
 {
-  "Options.SECTION[FPS_Limiter.FPS_Limiter.Mod]": "FPS Limiter",
   "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Menu]": "主菜单和选项",
   "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.MenuLimitEnabled]": "开启主菜单和选项内的帧数限制",
   "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGame]": "游戏内",

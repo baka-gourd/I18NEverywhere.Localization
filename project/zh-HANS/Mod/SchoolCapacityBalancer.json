@@ -1,5 +1,4 @@
 {
-  "Options.SECTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod]": "School Capacity Balancer",
   "Options.TAB[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Modify School Capacity]": "选项设置",
   "Options.GROUP[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Student Capacity]": "学生容量",
   "Options.GROUP[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Additional Options]": "其他选项",

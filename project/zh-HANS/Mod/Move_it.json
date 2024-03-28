@@ -1,5 +1,4 @@
 {
-  "Options.SECTION[MoveIt.MoveIt.Mod]": "Move It",
   "Options.GROUP[MoveIt.MoveIt.Mod.General Settings]": "通用设置",
   "Options.OPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "反向旋转",
   "Options.OPTION[MoveIt.MoveIt.Mod.Settings.Marquee]": "框选选择",
