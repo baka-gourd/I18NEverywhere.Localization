@@ -1,0 +1,8 @@
+{
+  "Options.SECTION[MoveIt.MoveIt.Mod]": "Move It",
+  "Options.GROUP[MoveIt.MoveIt.Mod.General Settings]": "通用设置",
+  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "反向旋转",
+  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.Marquee]": "框选选择",
+  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.Marquee]": "通过鼠标单击并拖动选择框来选择对象。快捷键：Ctrl + M",
+  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "将旋转方向设置为天际线2设定的方向。如果未勾选，则使用天际线1里 Move It 模组设定的方向（与游戏设定的相反）。"
+}

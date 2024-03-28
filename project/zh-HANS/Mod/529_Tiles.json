@@ -1,0 +1,18 @@
+{
+  "Options.SECTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod]": "529 Tiles",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.UnlockAll]": "解锁全部地块",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.UnlockAll]": "当您开始一个新的存档（或加载一个现有存档）时，将自动解锁地图上的所有地块。",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.ExtraTilesAtStart]": "在新建地图时提供额外的地块",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.ExtraTilesAtStart]": "当您开始一个新的存档时，会在游戏原先的基础上增加88个待解锁的地块（每个里程碑可解锁的地块数量保持不变）。",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.ExtraTilesAtEnd]": "在最后一级里程碑中解锁额外的地块",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.ExtraTilesAtEnd]": "在最后一级里程碑的奖励中增加88个地块。",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.AssignToMilestones]": "将额外的地块分配给每个等级的里程碑",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.AssignToMilestones]": "将额外的88个地块分配给每个等级的里程碑，分配的数量与原版每个等级可解锁的数量成正比。",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.NoStartingTiles]": "选择起始地块",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.NoStartingTiles]": "如果勾选此选项，在开始新游戏时不会自动解锁起始地块。相反，您可以自己选择起始地块（前九个地块为免费购买）。",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.ResetModSettings]": "重置为默认设置",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.ResetModSettings]": "重置 529 Tiles 模组的设置为默认值。",
+  "Options.WARNING[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.ResetModSettings]": "确定要重置 529 Tiles 模组的设置吗？此操作无法撤销。",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.RelockAllTiles]": "重新锁定所有地块",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.RelockAllTiles]": "重新锁定所有已解锁的地块，之后，您可以重新购买这些地块。"
+}

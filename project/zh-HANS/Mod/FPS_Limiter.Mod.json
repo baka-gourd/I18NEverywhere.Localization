@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[FPS_Limiter.FPS_Limiter.Mod]": "FPS Limiter",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Menu]": "主菜单和选项",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.MenuLimitEnabled]": "开启主菜单和选项内的帧数限制",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGame]": "游戏内",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGameLimitEnabled]": "开启游戏内的帧数限制",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Paused]": "模拟暂停时",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.PausedLimitEnabled]": "开启模拟暂停时的帧数限制",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Menu]": "主菜单和选项内的帧数上限",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.MenuLimitEnabled]": "当垂直同步启用时可能不能正常工作",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGame]": "游戏运行时的帧数上限",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGameLimitEnabled]": "当垂直同步启用时可能不能正常工作",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Paused]": "模拟暂停时的帧数上限",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.PausedLimitEnabled]": "当垂直同步启用时可能不能正常工作"
+}
