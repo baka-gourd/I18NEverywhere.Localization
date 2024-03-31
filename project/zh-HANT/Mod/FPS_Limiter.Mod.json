@@ -1,0 +1,14 @@
+{
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Menu]": "主選單與選項",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.MenuLimitEnabled]": "開啟主選單與選項內的幀數限制",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGame]": "遊戲內",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGameLimitEnabled]": "開啟遊戲內的幀數限制",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Paused]": "模擬暫停時",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.PausedLimitEnabled]": "開啟模擬暫停時的幀數限制",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Menu]": "主選單和選項內的幀數上限",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.MenuLimitEnabled]": "當垂直同步啟用時可能無法正常運作",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGame]": "遊戲運行時的幀數上限",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGameLimitEnabled]": "當垂直同步啟用時可能無法正常運作",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Paused]": "模擬暫停時的幀數上限",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.PausedLimitEnabled]": "當垂直同步啟用時可能無法正常運作"
+}
