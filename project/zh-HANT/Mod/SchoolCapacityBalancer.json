@@ -1,0 +1,19 @@
+{
+  "Options.TAB[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Modify School Capacity]": "選項設定",
+  "Options.GROUP[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Student Capacity]": "學生容量",
+  "Options.GROUP[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Additional Options]": "其他選項",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ElementarySlider]": "小學",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSchoolSlider]": "中學",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.CollegeSlider]": "大專",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.UniversitySlider]": "大學",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ElementarySlider]": "設定小學的容量與原始容量的比例。",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSchoolSlider]": "設定中學的學生容量與原版容量的比例。",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.CollegeSlider]": "設定大專的學生容量與原始容量的比例。",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.UniversitySlider]": "設定大學的學生容量與原版容量的比例。",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ScaleUpkeepWithCapacity]": "依學生容量設定維修費用",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ScaleUpkeepWithCapacity]": "啟用此選項後，學校維護費用將與容量設定成比例增長。更改此選項需要重新啟動遊戲。",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToVanilla]": "重設為預設值",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToVanilla]": "將所有容量比例重設為 100%。",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToModDefault]": "重設為模組的預設平衡值",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToModDefault]": "將所有容量重設為模組的預設平衡值。"
+}
