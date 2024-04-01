@@ -2,7 +2,7 @@
 
 This is where the entire language file is stored, and to keep the repository tidy, please contribute as follows.
 
-## How to contribute
+## How to contribute(optional)
 
 1. Setup cz-git
 
