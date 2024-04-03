@@ -17,6 +17,8 @@ module.exports = {
     scopes: [
       { value: "zh-HANS", name: "简体中文" },
       { value: "en-US", name: "English (United States)" },
+      { value: "fr-FR", name: "French" },
+      { value: "ko-KR", name: "Korean" },
     ],
   },
 };
