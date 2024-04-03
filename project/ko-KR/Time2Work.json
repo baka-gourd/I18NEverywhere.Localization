@@ -1,0 +1,9 @@
+{
+  "Options.GROUP[Time2Work.Time2Work.Mod.WorkPlaceShiftGroup]": "저녁 및 야간 근무시간 조정",
+  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.Button]": "초기화",
+  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.Button]": "기본값으로 초기화",
+  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.evening_share]": "저녁",
+  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.evening_share]": "저녁 근무 시간 비율",
+  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.night_share]": "밤",
+  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.night_share]": "심야 근무 시간 비율"
+}

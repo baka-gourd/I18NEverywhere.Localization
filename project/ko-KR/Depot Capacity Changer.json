@@ -1,0 +1,14 @@
+{
+  "Options.SECTION[DepotCapacityChanger.DepotCapacityChanger.Mod]": "차고지 수용량 변경 모드",
+  "Options.GROUP[DepotCapacityChanger.DepotCapacityChanger.Mod.Student Capacity]": "차고지 수용량",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "버스 차고지",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "버스 차고지 수용량을 기본값 대비 비율로 수정합니다.",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "택시 차고지",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "택시 차고지 수용량을 기본값 대비 비율로 수정합니다.",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "지하철 차고지",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "지하철 차고지 수용량을 기본값 대비 비율로 수정합니다.",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "트램 차고지",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "트램 차고지 수용량을 기본값 대비 비율로 수정합니다.",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "기차 차고지",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "기차 차고지 수용량을 기본값 대비 비율로 수정합니다."
+}

@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[FPS_Limiter.FPS_Limiter.Mod]": "FPS 제한 모드",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Menu]": "메인 및 옵션 메뉴",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.MenuLimitEnabled]": "메인 및 옵션 메뉴 제한 활성화",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGame]": "플레이",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGameLimitEnabled]": "플레이 중 제한 활성화",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Paused]": "일시정지",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.PausedLimitEnabled]": "일시정지 제한 활성화",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Menu]": "메인 및 옵션메뉴화면에서 프레임 제한을 활성화 합니다.",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.MenuLimitEnabled]": "수직동기화 사용시 정확하게 작동 안 할 수 있습니다.",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGame]": "게임 플레이중 프레임 제한을 활성화 합니다.",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGameLimitEnabled]": "수직동기화 사용시 정확하게 작동 안 할 수 있습니다.",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Paused]": "일시정지 화면에서 프레임 제한을 활성화 합니다.",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.PausedLimitEnabled]": "수직동기화 사용시 정확하게 작동 안 할 수 있습니다."
+}

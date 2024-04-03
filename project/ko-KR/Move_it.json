@@ -1,0 +1,7 @@
+{
+  "Options.SECTION[MoveIt.MoveIt.Mod]": "MOVE IT 모드",
+  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "회전 반전",
+  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.Marquee]": "다중 선택",
+  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.Marquee]": "마우스로 다중 선택 클릭후 드래그 하여 개체를 선택합니다. 단축키：Ctrl + M",
+  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "회전 방향을 바닐라 시2에서 설정한 방향으로 설정합니다. 선택 해재시 시1 Move It 설정 방향을 사용합니다."
+}

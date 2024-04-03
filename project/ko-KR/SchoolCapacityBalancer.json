@@ -1,0 +1,20 @@
+{
+  "Options.SECTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod]": "학교 수용량 밸런스 모드",
+  "Options.TAB[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Modify School Capacity]": "옵션 설정",
+  "Options.GROUP[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Student Capacity]": "학생 수용량",
+  "Options.GROUP[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Additional Options]": "추가 설정",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ElementarySlider]": "초등학교",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSchoolSlider]": "고등학교",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.CollegeSlider]": "전문 대학",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.UniversitySlider]": "대학교",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ElementarySlider]": "초등학교 학생 정원을 기본값 대비 비율로 수정합니다.",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSchoolSlider]": "고등학교 학생 정원을 기본값 대비 비율로 수정합니다.",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.CollegeSlider]": "전문 대학 학생 정원을 기본값 대비 비율로 수정합니다.",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.UniversitySlider]": "대학교 학생 정원을 기본값 대비 비율로 수정합니다.",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ScaleUpkeepWithCapacity]": "학생 수용량 비례 유지비 증가",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ScaleUpkeepWithCapacity]": "활성화시, 학생 수용량에 비례하여 유지비가 증가합니다.",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToVanilla]": "기본값으로 초기화",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToVanilla]": "100% 기본값으로 초기화 합니다.",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToModDefault]": "밸런스값으로 초기화",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToModDefault]": "밸런스 모드 설장값으로 초기화 합니다."
+}
