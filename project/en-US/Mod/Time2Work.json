@@ -1,0 +1,11 @@
+{
+    "Options.SECTION[Time2Work.Time2Work.Mod]": "Time2Work",
+    "Options.TAB[Time2Work.Time2Work.Mod.Modify WorkPlace Shift Probability]": "Time2Work",
+    "Options.GROUP[Time2Work.Time2Work.Mod.WorkPlaceShiftGroup]": "Modify the Share of Evening and Night Work Shifts",
+    "Options.OPTION[Time2Work.Time2Work.Mod.Setting.Button]": "Reset",
+    "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.Button]": "Reset percentages to default values",
+    "Options.OPTION[Time2Work.Time2Work.Mod.Setting.evening_share]": "Evening",
+    "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.evening_share]": "Percentage for evening workplaces",
+    "Options.OPTION[Time2Work.Time2Work.Mod.Setting.night_share]": "Night",
+    "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.night_share]": "Percentage for evening workplaces"
+}
