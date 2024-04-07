@@ -1,0 +1,22 @@
+{
+    "Options.SECTION[EmploymentTracker.EmploymentTracker.Mod]": "CIM Route Highlighter",
+    "Options.TAB[EmploymentTracker.EmploymentTracker.Mod.Main]": "Main",
+    "Options.GROUP[EmploymentTracker.EmploymentTracker.Mod.Active Highlighters]": "Highlight Toggles",
+    "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightRoutes]": "Routes",
+    "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightRoutes]": "Display current route of selected vehicle or CIM. Routes can change if the object encounters obstacles.",
+    "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightDestinations]": "Passenger Destinations",
+    "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightDestinations]": "Highlight the destinations of passengers in the selected vehicle (personal vehicles or transit).",
+    "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightWorkplaces]": "Building Residents' Workplaces",
+    "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightWorkplaces]": "Highlight the workplace buildings for every resident of the selected residential building.",
+    "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightEmployeeResidences]": "Employee Residences",
+    "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightEmployeeResidences]": "Highlight residence buildings for all employees of the selected building.",
+    "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightEmployeeCommuters]": "Employee Commuters",
+    "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightEmployeeCommuters]": "Highlight citizens and vehicles in-transit to the selected workplace building.",
+    "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightStudentResidences]": "Student Residences",
+    "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightStudentResidences]": "Highlight residence buildings for all students of the selected building.",
+    "Options.GROUP[EmploymentTracker.EmploymentTracker.Mod.Route Highlight Options]": "Route Highlight Options",
+    "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.vehicleRouteWidth]": "Vehicle Route Segment Line Width",
+    "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.vehicleRouteWidth]": "The width of the route display line for vehicles.",
+    "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.pedestrianRouteWidth]": "Pedestrian Route Segment Line Width",
+    "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.pedestrianRouteWidth]": "The width of the route display line for pedestrians."
+}

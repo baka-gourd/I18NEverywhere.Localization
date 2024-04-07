@@ -1,0 +1,15 @@
+{
+    "Options.SECTION[DepotCapacityChanger.DepotCapacityChanger.Mod]": "Depot Capacity Changer",
+    "Options.TAB[DepotCapacityChanger.DepotCapacityChanger.Mod.Modify Depot Capacity]": "Main",
+    "Options.GROUP[DepotCapacityChanger.DepotCapacityChanger.Mod.Student Capacity]": "Depot Capacity",
+    "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "Bus Depot",
+    "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "Taxi Depot",
+    "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "Subway Depot",
+    "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "Tram Depot",
+    "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "Train Depot",
+    "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "Set the vehicle capacity of bus depot buildings relative to their vanilla capacity.",
+    "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "Set the vehicle capacity of taxi depot buildings relative to their vanilla capacity.",
+    "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "Set the vehicle capacity of subway depot buildings relative to their vanilla capacity.",
+    "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "Set the vehicle capacity of tram depot buildings relative to their vanilla capacity.",
+    "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "Set the vehicle capacity of train depot buildings relative to their vanilla capacity."
+}
