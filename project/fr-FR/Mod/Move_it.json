@@ -1,0 +1,8 @@
+{
+  "Options.SECTION[MoveIt.MoveIt.Mod]": "Move It",
+  "Options.GROUP[MoveIt.MoveIt.Mod.General Settings]": "Options Générales",
+  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "Inverser la Rotation",
+  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.Marquee]": "Boite de sélection",
+  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.Marquee]": "Sélectionnez des objets en cliquant et en faisant glisser une zone de sélection. Raccourci: CTRL+M",
+  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "Définis la direction de la rotation selon la version vanilla dans CS2. Si la case n'est pas cochée vous aller utiliser la direction de rotation de CS1."
+}
