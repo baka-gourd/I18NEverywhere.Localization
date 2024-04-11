@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[DepotCapacityChanger.DepotCapacityChanger.Mod]": "公交总站容量修改",
+  "Options.TAB[DepotCapacityChanger.DepotCapacityChanger.Mod.Modify Depot Capacity]": "主要",
+  "Options.GROUP[DepotCapacityChanger.DepotCapacityChanger.Mod.Student Capacity]": "总站容量",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "公交车总站容量",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "的士总站容量",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "地铁总站容量",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "电车总站容量",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "火车总站容量",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "设置公交车总站相对于原版容量的车辆容量。",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "设置的士总站相对于原版容量的车辆容量。",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "设置地铁总站相对于原版容量的车辆容量。",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "设置电车总站相对于原版容量的车辆容量。",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "设置火车总站相对于原版容量的车辆容量。"
+}

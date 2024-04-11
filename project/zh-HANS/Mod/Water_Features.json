@@ -82,7 +82,6 @@
   "YY_WATER_FEATURES_DESCRIPTION.radius-rate-of-change": "增大或减小半径的速率",
   "YY_WATER_FEATURES.min-depth-rate-of-change": "最小深度变化率",
   "YY_WATER_FEATURES_DESCRIPTION.min-depth-rate-of-change": "增大或减小最小深度的速率",
-  "SubServices.NAME[WaterTool]": "水源工具",
   "Assets.SUB_SERVICE_DESCRIPTION[WaterTool]": "水源工具允许你添加或删除地图上的水源",
   "Assets.NAME[WaterSource Stream]": "溪流 - 固定或可变流量水源",
   "Assets.DESCRIPTION[WaterSource Stream]": "出水量将取决于设置。在禁用季节性溪流的情况下，流量将保持固定。启用 \"季节性溪流 \"后，水流速度将随季节、降水和融雪而变化，具体取决于您的设置。左键单击可将其置于可游玩区域内。悬停并右键单击可移除",

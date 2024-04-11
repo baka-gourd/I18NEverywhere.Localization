@@ -1,11 +1,11 @@
 {
-  "Options.SECTION[Time2Work.Time2Work.Mod]": "工作时间",
-  "Options.TAB[Time2Work.Time2Work.Mod.Modify WorkPlace Shift Probability]": "工作时间",
+  "Options.SECTION[Time2Work.Time2Work.Mod]": "工作时间调整",
+  "Options.TAB[Time2Work.Time2Work.Mod.Modify WorkPlace Shift Probability]": "工作时间调整",
   "Options.GROUP[Time2Work.Time2Work.Mod.WorkPlaceShiftGroup]": "调整晚班和夜班的比例",
   "Options.OPTION[Time2Work.Time2Work.Mod.Setting.Button]": "重置",
   "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.Button]": "重置为默认比例",
-  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.evening_share]": "傍晚",
+  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.evening_share]": "晚上",
   "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.evening_share]": "晚班比例",
-  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.night_share]": "夜间",
+  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.night_share]": "半夜",
   "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.night_share]": "夜班比例"
 }

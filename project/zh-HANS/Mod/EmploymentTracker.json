@@ -1,0 +1,22 @@
+{
+  "Options.SECTION[EmploymentTracker.EmploymentTracker.Mod]": "市民路径查看器",
+  "Options.TAB[EmploymentTracker.EmploymentTracker.Mod.Main]": "主要",
+  "Options.GROUP[EmploymentTracker.EmploymentTracker.Mod.Active Highlighters]": "高亮选项",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightRoutes]": "路径",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightRoutes]": "显示选中车辆或市民的当前路径。如果遇到障碍物，路径可能会改变。",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightDestinations]": "乘客目的地",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightDestinations]": "高亮显示所选载具（私家车或公共交通）中乘客的目的地。",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightWorkplaces]": "居民工作场所",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightWorkplaces]": "高亮显示选中建筑内所有居民的工作场所。",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightEmployeeResidences]": "员工住址",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightEmployeeResidences]": "高亮显示选中建筑内所有员工的住址。",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightEmployeeCommuters]": "通勤员工",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightEmployeeCommuters]": "高亮显示正在前往选中的工作场所的市民和载具。",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightStudentResidences]": "学生住址",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightStudentResidences]": "高亮显示建筑内所有学生的住址。",
+  "Options.GROUP[EmploymentTracker.EmploymentTracker.Mod.Route Highlight Options]": "路径高亮选项",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.vehicleRouteWidth]": "载具路径宽度",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.vehicleRouteWidth]": "载具路径的显示宽度。",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.pedestrianRouteWidth]": "行人路径宽度",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.pedestrianRouteWidth]": "行人路径的显示宽度。"
+}
