@@ -7,5 +7,11 @@
   "Options.OPTION[Time2Work.Time2Work.Mod.Setting.evening_share]": "Soir",
   "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.evening_share]": "Pourcentage pour le travail de soir",
   "Options.OPTION[Time2Work.Time2Work.Mod.Setting.night_share]": "Nuit",
-  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.night_share]": "Pourcentage pour le travail de soir"
+  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.night_share]": "Pourcentage pour le travail de nuit",
+  "Options.GROUP[Time2Work.Time2Work.Mod.WorkPlaceDelayGroup]": "Modifier le moment d'arrivée et de départ des quarts de travail de soir et de nuit",
+  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.delay_factor]": "Retarder/ \"Early factor\"",
+  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.delay_factor]": "Ce facteur ajustera la variation des heures d’arrivée et de départ du travail. Un facteur plus élevé augmentera la variation des arrivées et des départs du travail, ce qui signifie qu'un plus grand nombre de \"Cims\" n'arriveront pas au travail à l'heure ou travailleront plus longtemps. Une valeur de zéro désactivera cette fonctionnalité. Notez que les effets de cette fonctionnalité aux heures de pointe du matin et du soir sont différents : le matin, il y a une probabilité égale d'arriver tôt ou tard, cependant, le soir, la probabilité de partir tard est plus élevée que de partir tôt. Cela a été implémenté de cette façon pour mieux simuler les différences entre les déplacements du matin et du soir par rapport au monde réel.",
+  "Options.GROUP[Time2Work.Time2Work.Mod.LunchBreakGroup]": "",
+  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.lunch_break_percentage]": "",
+  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.lunch_break_percentage]": ""
 }

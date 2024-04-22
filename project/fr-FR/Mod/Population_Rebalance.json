@@ -28,7 +28,7 @@
   "Options.OPTION_DESCRIPTION[RealPop.RealPop.Mod.Setting.CorpseVanishChance]": "Pourcentage de chance pour un défunt de disparaître après le décès ; Le Vanilla n'a pas de fonctionnalité, régler à 0 pour annuler.",
   "Options.OPTION[RealPop.RealPop.Mod.Setting.Education2InDays]": "Lycée (en jours)",
   "Options.OPTION_DESCRIPTION[RealPop.RealPop.Mod.Setting.Education2InDays]": "Combien de temps le lycée devrait-il durer (uniquement pour les adolescents).",
-  "Options.OPTION[RealPop.RealPop.Mod.Setting.Education3InDays]": "Ecole supérieure (en jours)",
+  "Options.OPTION[RealPop.RealPop.Mod.Setting.Education3InDays]": "École supérieure (en jours)",
   "Options.OPTION_DESCRIPTION[RealPop.RealPop.Mod.Setting.Education3InDays]": "Combien de temps l'école supérieure devrait-elle durer (pour les adolescents et les adultes).",
   "Options.OPTION[RealPop.RealPop.Mod.Setting.Education4InDays]": "Université (en jours)",
   "Options.OPTION_DESCRIPTION[RealPop.RealPop.Mod.Setting.Education4InDays]": "Combien de temps l'université devrait-elle durer (uniquement pour les adultes).",

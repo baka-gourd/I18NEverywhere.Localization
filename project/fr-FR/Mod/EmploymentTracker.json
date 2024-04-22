@@ -1,9 +1,6 @@
 {
   "Options.SECTION[EmploymentTracker.EmploymentTracker.Mod]": "CIM Route Highlighter",
   "Options.TAB[EmploymentTracker.EmploymentTracker.Mod.Main]": "Principal",
-  "Options.GROUP[EmploymentTracker.EmploymentTracker.Mod.Active Highlighters]": "Activer ou désactiver la mise en surbrillance",
-  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightRoutes]": "Itinéraires",
-  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightRoutes]": "Affiche l'itinéraire actuel du véhicule ou du \"CIM\" sélectionné. L'itinéraire peut changer si l'objet rencontre des obstacles.",
   "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightDestinations]": "Destinations des passagers",
   "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightDestinations]": "Mets en surbrillance la destination des passagers dans le véhicule sélectionné (véhicules personnels ou ceux en transit).",
   "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightWorkplaces]": "Lieux de travail des résidents du bâtiment",
@@ -18,5 +15,17 @@
   "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.vehicleRouteWidth]": "Largeur du segment de la ligne sur l'itinéraire des véhicules",
   "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.vehicleRouteWidth]": "La largeur de la ligne affiché pour l'itinéraire des véhicules.",
   "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.pedestrianRouteWidth]": "Largeur du segment de la ligne sur l'itinéraire des piétons",
-  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.pedestrianRouteWidth]": "La largeur de la ligne affiché pour l'itinéraire des piétons."
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.pedestrianRouteWidth]": "La largeur de la ligne affiché pour l'itinéraire des piétons.",
+  "Options.GROUP[EmploymentTracker.EmploymentTracker.Mod.Route Highlight Types]": "Activer la surbrillance de la route (EXPERIMENTAL)",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightSelected]": "Route de l'objet sélectionné",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightSelected]": "Affiche la route actuelle du CIM sélectionné ou des véhicules autres que de transport en commun.",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightSelectedTransitVehiclePassengerRoutes]": "Routes des passagers du véhicule sélectionné",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightSelectedTransitVehiclePassengerRoutes]": "Affiche toutes les routes actuelles des CIMS dans le véhicule sélectionné.",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.incomingRoutes]": "Routes actives passant par le bâtiment sélectionné",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.incomingRoutes]": "Affiche les itinéraires de tous les objets en route vers le bâtiment sélectionné. Impacte significativement les performances. ",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.incomingRoutesTransit]": "Inclure le transport en commun en route",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.incomingRoutesTransit]": "Inclus les transports en commun lors de l'élaboration des itinéraires. Cette fonctionnalité est un travail expérimental en cours.",
+  "Options.GROUP[EmploymentTracker.EmploymentTracker.Mod.Object Highlight Types]": "Activer la surbrillance de l'objet",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.routeOpacity]": "Opacité de l'itinéraire",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.routeOpacity]": "Opacité des lignes de superposition d'itinéraires."
 }
