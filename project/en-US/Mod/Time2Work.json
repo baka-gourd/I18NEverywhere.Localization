@@ -1,8 +1,9 @@
 {
     "Options.SECTION[Time2Work.Time2Work.Mod]": "Time2Work",
     "Options.TAB[Time2Work.Time2Work.Mod.Modify WorkPlace Shift Probability]": "Time2Work",
-    "Options.GROUP[Time2Work.Time2Work.Mod.WorkPlaceShiftGroup]": "Modify the Share of Evening and Night Work Shifts",
-    "Options.GROUP[Time2Work.Time2Work.Mod.WorkPlaceDelayGroup]": "Modify the Work Arrival and Departure Times",
+    "Options.GROUP[Time2Work.Time2Work.Mod.WorkPlaceShiftGroup]": "Modify the share of evening and night work Shifts",
+    "Options.GROUP[Time2Work.Time2Work.Mod.WorkPlaceDelayGroup]": "Modify the work arrival and departure times",
+    "Options.GROUP[Time2Work.Time2Work.Mod.LunchBreakGroup]": "Modify the probability of workers taking a lunch break",
     "Options.OPTION[Time2Work.Time2Work.Mod.Setting.Button]": "Reset",
     "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.Button]": "Reset percentages to default values",
     "Options.OPTION[Time2Work.Time2Work.Mod.Setting.evening_share]": "Evening",
@@ -10,5 +11,7 @@
     "Options.OPTION[Time2Work.Time2Work.Mod.Setting.night_share]": "Night",
     "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.night_share]": "Percentage for night workplaces",
     "Options.OPTION[Time2Work.Time2Work.Mod.Setting.delay_factor]": "Delay/Early Factor",
-    "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.delay_factor]": "This factor will adjust the variation in arrival and departure times from work. A higher factor will increase the variation on work arrival and departure - meaning more cims will not arrive to work on time or work for longer hours. A value of zero will disable this feature. Note that the effects of this feature in the morning and evening peak hours is different: in the morning there is an equal probabilty of early or late arrival, however, in the evening the probability of leaving late is higher than of leaving early. This was implemented this way to simulate better the differences of morning and evening commute from the real world."
+    "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.delay_factor]": "This factor will adjust the variation in arrival and departure times from work. A higher factor will increase the variation on work arrival and departure - meaning more cims will not arrive to work on time or work for longer hours. A value of zero will disable this feature. Note that the effects of this feature in the morning and evening peak hours is different: in the morning there is an equal probabilty of early or late arrival, however, in the evening the probability of leaving late is higher than of leaving early. This was implemented this way to simulate better the differences of morning and evening commute from the real world.",
+    "Options.OPTION[Time2Work.Time2Work.Mod.Setting.lunch_break_percentage]": "Lunch Break Probability",
+    "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.lunch_break_percentage]": "Probability of workers that will take a lunch break. During a lunch break, workers might go shopping for food or convenience food, or go for leisure. After that they will return to work."
 }
