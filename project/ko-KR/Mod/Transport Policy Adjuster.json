@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod]": "대중교통 노선별 차량 조절(TransportPolicyAdjuster)",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Bus]": "버스 노선별 최대 차량 수",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Bus]": "노선별 최대 차량 수를 지정합니다.",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Train]": "기차 노선별 최대 차량 수",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Train]": "노선별 최대 차량 수를 지정합니다.",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Tram]": "트램 노선별 최대 차량 수",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Tram]": "노선별 최대 차량 수를 지정합니다.",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Ship]": "배 노선별 최대 차량 수",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Ship]": "노선별 최대 차량 수를 지정합니다.",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Airplane]": "비행기 노선별 최대 차량 수",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Airplane]": "노선별 최대 차량 수를 지정합니다.",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Subway]": "지하철 노선별 최대 차량 수",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Subway]": "노선별 최대 차량 수를 지정합니다."
+}
