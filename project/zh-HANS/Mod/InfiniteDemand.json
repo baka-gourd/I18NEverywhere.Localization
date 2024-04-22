@@ -2,11 +2,11 @@
   "Options.SECTION[InfiniteDemand.InfiniteDemand.Mod]": "无限需求",
   "Options.GROUP[InfiniteDemand.InfiniteDemand.Mod.DemandShiftGroup]": "无限需求设置",
   "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableSuperFastBuild]": "开启超快建造&无限需求",
-  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableSuperFastBuild]": "所有建筑都会立即建成。启用此选项后，所有其他需求设置都将被忽略。关闭以使用原版计算方式",
+  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableSuperFastBuild]": "启用此选项后，所有建筑都会立即建成，并忽略其他需求设置。关闭此选项后，将会使用原版计算方式。",
   "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableSuperFastLeveling]": "开启快速升级",
-  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableSuperFastLeveling]": "建筑升级将会变快。关闭以使用原版计算方式",
+  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableSuperFastLeveling]": "启用此选项后，建筑升级将会变快。改变此选项后，将会使用原版计算方式。",
   "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableCustomResidentialDemand]": "使用自定义住宅需求",
-  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableCustomResidentialDemand]": "关闭以使用原版计算方式",
+  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableCustomResidentialDemand]": "关闭以使用原版计算方式。",
   "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.HomeBuildingDemand]": "住宅需求",
   "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.HomeBuildingDemand]": "调整住宅需求百分比",
   "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableCustomCommercialDemand]": "使用自定义商业需求",
@@ -21,6 +21,6 @@
   "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableCustomOfficeDemand]": "关闭以使用原版计算方式",
   "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.OfficeBuildingDemand]": "办公需求",
   "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.OfficeBuildingDemand]": "调整办公需求百分比",
-  "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.Button]": "重置",
+  "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.Button]": "重置所有设置",
   "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.Button]": "将所有值重置为默认值（100%）"
 }

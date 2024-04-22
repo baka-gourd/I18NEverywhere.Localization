@@ -40,7 +40,7 @@
   "Options.OPTION_DESCRIPTION[RealPop.RealPop.Mod.Setting.GraduationLevel3]": "学院制大学毕业率。原版：90",
   "Options.OPTION[RealPop.RealPop.Mod.Setting.GraduationLevel4]": "综合性大学",
   "Options.OPTION_DESCRIPTION[RealPop.RealPop.Mod.Setting.GraduationLevel4]": "综合性大学毕业率。原版：70",
-  "Options.OPTION[RealPop.RealPop.Mod.Setting.NewAdultsAnyEducation]": "成年人教育水平随机",
+  "Options.OPTION[RealPop.RealPop.Mod.Setting.NewAdultsAnyEducation]": "成年人教育水平随机化",
   "Options.OPTION_DESCRIPTION[RealPop.RealPop.Mod.Setting.NewAdultsAnyEducation]": "允许生成任意教育水平的成年人和老年人。原版仅会生成受教育的成年人。",
   "Options.OPTION[RealPop.RealPop.Mod.Setting.NoChildrenWhenTooOld]": "计划生育",
   "Options.OPTION_DESCRIPTION[RealPop.RealPop.Mod.Setting.NoChildrenWhenTooOld]": "如果成年人在成为老年人之前没有能力抚养子女，就不让其生育。原版没有这个限制。",

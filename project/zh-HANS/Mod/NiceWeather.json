@@ -1,0 +1,14 @@
+{
+  "Options.SECTION[NiceWeather.NiceWeather.Mod]": "好天气",
+  "Options.TAB[NiceWeather.NiceWeather.Mod.Weather]": "天气",
+  "Options.GROUP[NiceWeather.NiceWeather.Mod.Precipitation]": "降水量",
+  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableRainToggle]": "关闭降雨",
+  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableRainToggle]": "勾选以关闭降雨",
+  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnowToggle]": "关闭降雪",
+  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnowToggle]": "勾选以关闭降雪",
+  "Options.GROUP[NiceWeather.NiceWeather.Mod.Clouds and Fog]": "云雾",
+  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableCloudsToggle]": "关闭云",
+  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableCloudsToggle]": "勾选以关闭云",
+  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableFogToggle]": "关闭雾",
+  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableFogToggle]": "勾选以关闭雾"
+}

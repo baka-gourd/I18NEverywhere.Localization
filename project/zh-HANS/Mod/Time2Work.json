@@ -7,5 +7,11 @@
   "Options.OPTION[Time2Work.Time2Work.Mod.Setting.evening_share]": "晚上",
   "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.evening_share]": "晚班比例",
   "Options.OPTION[Time2Work.Time2Work.Mod.Setting.night_share]": "半夜",
-  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.night_share]": "夜班比例"
+  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.night_share]": "夜班比例",
+  "Options.GROUP[Time2Work.Time2Work.Mod.WorkPlaceDelayGroup]": "修改上班和下班时间",
+  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.delay_factor]": "延迟/提早 因子",
+  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.delay_factor]": "该因子将影响上班和下班时间。\n因子越大，上班和下班时间的变化就越大，这意味着更多的市民无法按时上班或工作时间更长。数值为零将禁用此功能。\n注意，该功能在早晚高峰时段的效果是不同的：在早上，早到或晚到的概率相同；但在晚上，晚退的概率要高于早退的概率。采用这种方式是为了更好地模拟现实世界中早晚通勤的差异。",
+  "Options.GROUP[Time2Work.Time2Work.Mod.LunchBreakGroup]": "更改工人午休的概率",
+  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.lunch_break_percentage]": "午休概率",
+  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.lunch_break_percentage]": "工人午休的概率。在午休时间，工人可能会去够买食物或方便食品，或者去休闲。之后，他们将返回工作岗位。"
 }

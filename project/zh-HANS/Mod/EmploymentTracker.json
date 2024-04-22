@@ -1,9 +1,6 @@
 {
   "Options.SECTION[EmploymentTracker.EmploymentTracker.Mod]": "市民路径查看器",
   "Options.TAB[EmploymentTracker.EmploymentTracker.Mod.Main]": "主要",
-  "Options.GROUP[EmploymentTracker.EmploymentTracker.Mod.Active Highlighters]": "高亮选项",
-  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightRoutes]": "路径",
-  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightRoutes]": "显示选中车辆或市民的当前路径。如果遇到障碍物，路径可能会改变。",
   "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightDestinations]": "乘客目的地",
   "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightDestinations]": "高亮显示所选载具（私家车或公共交通）中乘客的目的地。",
   "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightWorkplaces]": "居民工作场所",
@@ -18,5 +15,17 @@
   "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.vehicleRouteWidth]": "载具路径宽度",
   "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.vehicleRouteWidth]": "载具路径的显示宽度。",
   "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.pedestrianRouteWidth]": "行人路径宽度",
-  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.pedestrianRouteWidth]": "行人路径的显示宽度。"
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.pedestrianRouteWidth]": "行人路径的显示宽度。",
+  "Options.GROUP[EmploymentTracker.EmploymentTracker.Mod.Route Highlight Types]": "路径高亮开关（实验性）",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightSelected]": "显示已选对象路径",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightSelected]": "显示所选市民或非公共交通车辆的当前路径。",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightSelectedTransitVehiclePassengerRoutes]": "显示已选载具中所有乘客路径",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.highlightSelectedTransitVehiclePassengerRoutes]": "显示所选载具中所有市民的当前路径",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.incomingRoutes]": "显示已选建筑的活动路径",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.incomingRoutes]": "显示前往所选建筑的所有对象的路径，对性能有一定影响",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.incomingRoutesTransit]": "包括中途的公共交通路径",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.incomingRoutesTransit]": "在显示路径时包含公共交通路径，该功能正在试验",
+  "Options.GROUP[EmploymentTracker.EmploymentTracker.Mod.Object Highlight Types]": "对象高亮开关",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.routeOpacity]": "路径透明度",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.routeOpacity]": "路径线条的透明度"
 }
