@@ -1,5 +1,5 @@
 {
-  "Options.SECTION[DepotCapacityChanger.DepotCapacityChanger.Mod]": "차고지 수용량 변경 모드",
+  "Options.SECTION[DepotCapacityChanger.DepotCapacityChanger.Mod]": "차고지 수용량 변경(Depot Capacity Changer)",
   "Options.GROUP[DepotCapacityChanger.DepotCapacityChanger.Mod.Student Capacity]": "차고지 수용량",
   "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "버스 차고지",
   "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "버스 차고지 수용량을 기본값 대비 비율로 수정합니다.",
