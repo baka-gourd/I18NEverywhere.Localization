@@ -1,5 +1,5 @@
 {
-  "Options.SECTION[ExtendedRadio.ExtendedRadio.Mod]": "라디오 확장 모드",
+  "Options.SECTION[ExtendedRadio.ExtendedRadio.Mod]": "라디오 확장(ExtendedRadio)",
   "Options.GROUP[ExtendedRadio.ExtendedRadio.Mod.QOL]": "삶의 개선",
   "Options.OPTION[ExtendedRadio.ExtendedRadio.Mod.Setting.DisableAdsOnStartup]": "시작시 광고 비활성화",
   "Options.OPTION_DESCRIPTION[ExtendedRadio.ExtendedRadio.Mod.Setting.DisableAdsOnStartup]": "게임 로딩 후 광고를 비활성화합니다.",
