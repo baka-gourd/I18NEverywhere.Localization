@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[ExtendedRadio.ExtendedRadio.Mod]": "电台拓展",
+  "Options.TAB[ExtendedRadio.ExtendedRadio.Mod.Main]": "主要",
+  "Options.GROUP[ExtendedRadio.ExtendedRadio.Mod.QOL]": "生活质量",
+  "Options.GROUP[ExtendedRadio.ExtendedRadio.Mod.Utility]": "实用",
+  "Options.OPTION[ExtendedRadio.ExtendedRadio.Mod.Setting.DisableAdsOnStartup]": "启动时关闭广告",
+  "Options.OPTION_DESCRIPTION[ExtendedRadio.ExtendedRadio.Mod.Setting.DisableAdsOnStartup]": "进入游戏时关闭广告",
+  "Options.OPTION[ExtendedRadio.ExtendedRadio.Mod.Setting.SaveLastRadio]": "进入存档时加载最后使用的电台",
+  "Options.OPTION_DESCRIPTION[ExtendedRadio.ExtendedRadio.Mod.Setting.SaveLastRadio]": "进入存档时加载最后使用的电台。",
+  "Options.OPTION[ExtendedRadio.ExtendedRadio.Mod.Setting.ReloadRadio]": "重新加载电台",
+  "Options.OPTION_DESCRIPTION[ExtendedRadio.ExtendedRadio.Mod.Setting.ReloadRadio]": "重新加载电台。注意：建议只在下载 / 删除电台内容之后再使用此功能，因为此功能可能导致崩溃。",
+  "Options.OPTION[ExtendedRadio.ExtendedRadio.Mod.Setting.ResetSettings]": "重置电台拓展设置",
+  "Options.OPTION_DESCRIPTION[ExtendedRadio.ExtendedRadio.Mod.Setting.ResetSettings]": "重置为默认设置",
+  "Options.WARNING[ExtendedRadio.ExtendedRadio.Mod.Setting.ResetSettings]": "是否重置电台拓展模组的设置？"
+}
