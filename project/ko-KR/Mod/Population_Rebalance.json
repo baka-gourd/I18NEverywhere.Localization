@@ -1,5 +1,5 @@
 {
-  "Options.SECTION[RealPop.RealPop.Mod]": "인구 재밸런스 모드",
+  "Options.SECTION[RealPop.RealPop.Mod]": "인구 재밸런스(Population_Rebalance)",
   "Options.TAB[RealPop.RealPop.Mod.Population]": "인구",
   "Options.TAB[RealPop.RealPop.Mod.Education]": "교육",
   "Options.TAB[RealPop.RealPop.Mod.Misc]": "기타",
