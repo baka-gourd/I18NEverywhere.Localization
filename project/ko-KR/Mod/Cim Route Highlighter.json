@@ -29,5 +29,5 @@
     "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.routeOpacity]": "경로 불투명도",
     "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.routeOpacity]": "경로 선의 불투명도.",
     "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.routeOpacityMultilier]": "경로 중첩 밝기",
-    "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.routeOpacityMultilier]": "여러명의 통근 직원이 있는 구간의 밝기를 증가합니다.",
+    "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.EmploymentTrackerSettings.routeOpacityMultilier]": "여러명의 통근 직원이 있는 구간의 밝기를 증가합니다."
 }
