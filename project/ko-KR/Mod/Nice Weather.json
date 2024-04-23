@@ -1,0 +1,14 @@
+{
+    "Options.SECTION[NiceWeather.NiceWeather.Mod]": "좋은 날씨(Nice Weather)",
+    "Options.TAB[NiceWeather.NiceWeather.Mod.Weather]": "날씨",
+    "Options.GROUP[NiceWeather.NiceWeather.Mod.Precipitation]": "강수량",
+    "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableRainToggle]": "비 비활성화",
+    "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableRainToggle]": "체크시 비 비활성화됨",
+    "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnowToggle]": "눈 비활성화",
+    "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnowToggle]": "체크시 눈 비활성화됨",
+    "Options.GROUP[NiceWeather.NiceWeather.Mod.Clouds and Fog]": "구름과 안개",
+    "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableCloudsToggle]": "구름 비활성화",
+    "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableCloudsToggle]": "체크시 구름 비활성화됨",
+    "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableFogToggle]": "안개 비활성화",
+    "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableFogToggle]": "체크시 안개 비활성화됨"
+}
