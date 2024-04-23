@@ -1,0 +1,8 @@
+{
+    "Options.SECTION[WeatherPlus.WeatherPlus.Mod]": "날씨 플러스(Weather Plus)",
+    "Options.GROUP[WeatherPlus.WeatherPlus.Mod.Button]": "메뉴 설정 더이상 사용하지 않음",
+    "Options.OPTION[WeatherPlus.WeatherPlus.Mod.Setting.Button]": "메뉴 설정 더이상 사용하지 않음",
+    "Options.OPTION_DESCRIPTION[WeatherPlus.WeatherPlus.Mod.Setting.Button]": "게임 내 화면 좌측 상단의 서류가방을 열어서 Weather Plus를 이용해주세요 (체크 안해도 됩니다)."
+	//"tab-labe[WeatherPlus.WeatherPlus.Mod.WeatherAdv]": "날씨 (고급)",
+	// found weatherplus.resources.ui.js  but can't find lang code XD
+}
