@@ -8,7 +8,6 @@
 	"Options.OPTION[AssetPacksManager.AssetImporter.Mod.Setting.DeleteUnusedFiles]": "미사용 파일 삭제",
 	"Options.OPTION_DESCRIPTION[AssetPacksManager.AssetImporter.Mod.Setting.DeleteUnusedFiles]": "폴더에서 사용하지 않는 모든 파일을 삭제합니다.",
 	"Options.GROUP[AssetPacksManager.AssetImporter.Mod.Actions]": "기능",
-	"Options.OPTION[AssetPacksManager.AssetImporter.Mod.Setting.DeleteUnusedFiles]": "미사용 파일 삭제",
 	"Options.OPTION[AssetPacksManager.AssetImporter.Mod.Setting.DeleteImportedAssets]": "불러온 에셋 삭제",
 	"Options.OPTION_DESCRIPTION[AssetPacksManager.AssetImporter.Mod.Setting.DeleteImportedAssets]": "CustomAssets 폴더에 저장된 불러온 에셋 팩을을 전부 삭제합니다. 에셋을 다시 가져오려면 수동으로 동기화하십시오. 에셋을 동기화한 후 게임을 다시 시작해야 합니다. 수동으로 동기화하도록 선택하지 않았다면 게임을 **두번** 다시 시작해야 합니다.",
 	"Options.WARNING[AssetPacksManager.AssetImporter.Mod.Setting.DeleteImportedAssets]": "불러온 모든 에셋 팩들을 정말로 삭제하겠습니까?\n에셋을 다시 가져오려면 수동으로 동기화하십시오. 에셋을 동기화한 후 게임을 다시 시작해야 합니다. 수동으로 동기화하도록 선택하지 않았다면 게임을 **두번** 다시 시작해야 합니다.",
