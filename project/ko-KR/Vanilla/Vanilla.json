@@ -23,5 +23,17 @@
 	"RoadsInfoPanel.TRAFFIC_FLOW": "교통 흐름",
 	"EconomyPanel.TAX_AREA_DESCRIPTION[Industrial]": "산업세는 회사의 월 매출에서 징수합니다.\r\n\r\n세율은 회사에서 제조 및 판매하는 상품에 따라 개별 설정할 수 있습니다.\r\n\r\n산업세가 낮으면 회사가 재정을 확보하여 사업이 성공할 가능성을 올리며, 유지비를 지불한 뒤에도 소득이 많이 남으므로 산업 건물 레벨을 빠르게 올릴 수 있습니다.\r\n\r\n산업세가 높으면 도시 자금을 많이 확보할 수 있지만 회사 재정을 확보하기 어려워져 문제가 발생할 수 있으며, 유지비를 지불한 뒤에 남는 소득이 줄어들기 때문에 산업 건물 레벨이 오르는 속도가 감소합니다.",
 	"EconomyPanel.TAX_AREA_DESCRIPTION[Office]": "사무세는 회사의 월 매출에서 징수합니다.\r\n\r\n세율은 회사에서 제조 및 판매하는 무형 상품의 유형에 따라 개별 설정할 수 있습니다.\r\n\r\n사무세가 낮으면 회사가 재정을 확보하여 사업이 성공할 가능성을 올리며, 유지비를 지불한 뒤에도 소득이 많이 남으므로 산업 건물 레벨을 빠르게 올릴 수 있습니다.\r\n\r\n사무세가 높으면 도시 자금을 많이 확보할 수 있지만 회사 재정을 확보하기 어려워져 문제가 발생할 수 있으며, 유지비를 지불한 뒤에 남는 소득이 줄어들기 때문에 산업 건물 레벨이 오르는 속도가 감소합니다.",
-    "Options.SECTION[Modding]": "모드 개발 프로그램들"
+        "Options.SECTION[Modding]": "모드 개발 프로그램들",
+	"Options.OPTION[ModdingSettings.disclaimer]": "모드를 구독하기 위해 모딩 툴체인이 필요하지 않습니다.\n모드를 개발할 때만 필요합니다.",
+	"Options.OPTION[ModdingSettings.installationDirectory]": "설치 경로",
+	"Options.OPTION[ModdingSettings.downloadDirectory]": "다운로드 경로",
+	"Options.GROUP[Graphics.UpscalersGroup]": "업스케일링",
+	"Options.DYNRESUPSCALEFILTER[DLSS]": "NVIDIA DLSS 초고해상도",
+	"Options.OPTION[GraphicsSettings.dlssQuality]": "NVIDIA DLSS 초고해상도",
+	"Options.OPTION_DESCRIPTION[GraphicsSettings.dlssQuality]": "그래픽카드가 지원한다면 NVIDIA DLSS 초고해상도가 활성화됩니다.\n\n활성화되면 다른 업스케일링, 동적 해상도 스케일, 안티앨리어싱이 비활성화 됩니다.",
+	"Options.OPTION[GraphicsSettings.fsr2Quality]": "AMD FidelityFX Super Resolution 2.0",
+	"Options.OPTION_DESCRIPTION[GraphicsSettings.fsr2Quality]": "AMD FidelityFX Super Resolution 2.0을 활/비활성화 합니다. 활성화되면 다른 업스케일링, 동적 해상도 스케일, 안티앨리어싱이 비활성화 됩니다.",
+	"Options.FSR2QUALITY[Off]": "비활성화",
+	"Options.DLSSQUALITY[Off]": "비활성화",
+	"Options.DLSSQUALITY[Auto]": "자동 감지"
 }
