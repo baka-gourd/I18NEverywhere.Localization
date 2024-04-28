@@ -1,0 +1,7 @@
+{
+    "Options.SECTION[AssetVariationChanger.AssetVariationChanger.Mod]": "Asset Variation Changer",
+    "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "Keybind - Previous Variation",
+    "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "This key will be bound to select the previous asset variation (Restart required)",
+    "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "Keybind - Next Variation",
+    "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "This key will be bound to select the next asset variation (Restart required)"
+}
