@@ -1,0 +1,22 @@
+{
+    "Options.SECTION[AssetPacksManager.AssetPacksManager.Mod]": "에셋 팩 관리자(Asset Packs Manager)",
+    "Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Main]": "메인",
+    "Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Synchronization]": "동기화", 
+    "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.EnableLocalAssetPacks]": "로컬 에셋 활성화",
+    "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.EnableLocalAssetPacks]": "로컬에 설치된 모드(user, Mods폴더) 가져오기를 활성화합니다.",
+    "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.EnableSubscribedAssetPacks]": "구독한 에셋 팩 활성화",
+    "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.EnableSubscribedAssetPacks]": "구독한 에셋 팩을 가져옵니다.",
+    "Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Actions]": "기능",
+    "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteModsCache]": "모드 캐시 삭제",
+    "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteModsCache]": "때때로 CID 파일에서 생긴 이슈를 해결 할 수 있습니다. PDX 모드에서 다운로드한 모드의 캐시를 삭제합니다. 이렇게 하면 게임이 즉시 종료됩니다. 플레이세트는 변경되지 않지만 다음 실행 때 모든 모드를 다시 다운로드 합니다. 이 작업은 시간이 걸릴 수 있으며 모드에 따라 몇 분이 소요됩니다.",
+    "Options.WARNING[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteModsCache]": "**경고, 이 행동 후 게임이 종료됩니다!**\n모드 캐시를 정말로 삭제하시겠습니까?\n이 작업은 취소할 수 없습니다.",
+    "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.OpenLogFIle]": "로그 파일 열기",
+    "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.OpenLogFIle]": "기본 텍스트 편집기에서 모드 로그 파일을 엽니다. 로그에는 불러오는것을 실패한 에셋에 대한 자세한 정보가 기록되어있습니다.",
+    "Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Misc]": "기타",
+    "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.EnableVerboseLogging]": "자세한 로그 기록 활성화",
+    "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.EnableVerboseLogging]": "디버그 목적으로 추가 로그 메세지를 활성화합니다.",
+    "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.AutoHideNotifications]": "알림 자동 숨기기",
+    "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.AutoHideNotifications]": "30초 후 Asset Packs Manager 알림을 자동으로 숨깁니다.",
+    "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.ShowWarningForLocalAssets]": "로컬 에셋 경고 보이기",
+    "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.ShowWarningForLocalAssets]": "Asset Packs Manager가 user/Mods폴더에서 로컬 에셋을 감지하면 경고를 표시합니다. 실수로 로컬 자산을 불러오는것을 방지하기 위한 기능입니다."
+}

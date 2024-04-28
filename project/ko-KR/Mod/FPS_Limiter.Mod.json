@@ -1,5 +1,5 @@
 {
-  "Options.SECTION[FPS_Limiter.FPS_Limiter.Mod]": "FPS 제한 모드",
+  "Options.SECTION[FPS_Limiter.FPS_Limiter.Mod]": "FPS 제한(FPS Limiter)",
   "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Menu]": "메인 및 옵션 메뉴",
   "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.MenuLimitEnabled]": "메인 및 옵션 메뉴 제한 활성화",
   "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGame]": "플레이",
