@@ -7,7 +7,7 @@
     "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.EnableSubscribedAssetPacks]": "Enable Subscribed Asset Packs",
     "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.EnableSubscribedAssetPacks]": "Enables the import of subscribed asset packs.",
     "Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Actions]": "Actions",
-    "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteModsCache]": "Delete Mods Cache"
+    "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteModsCache]": "Delete Mods Cache",
     "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteModsCache]": "Sometimes helps the issue of missing CID-Files. Deletes the cache of downloaded PDX Mods. This will close the game immediately. It will not change your playset, but will require to re-download all mods on the next startup. This might take a few minutes depending on the amount of subscribed mods.",
     "Options.WARNING[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteModsCache]": "**WARNING. This will close your game!** Are you sure you want to delete the mods cache? This cannot be undone.",
     "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.OpenLogFIle]": "Open Log File",
