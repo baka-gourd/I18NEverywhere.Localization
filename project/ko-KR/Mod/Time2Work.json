@@ -42,11 +42,7 @@
   "Options.OPTION[Time2Work.Time2Work.Mod.Setting.school_end_time]": "수업 종료 시간",
   "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.school_end_time]": "학교, 전문대학, 종합대학의 수업 종료 시간입니다.",
   "Options.OPTION[Time2Work.Time2Work.Mod.Setting.dt_simulation]": "요일 유형 시뮬레이션 동작 선택",
-  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.dt_simulation]": "이 옵션은 하루 동안 시뮬레이션이 작동하는 방식을 변경합니다.
-'평일'은 주중과 주말 행동의 조합인 바닐라 행동에 해당합니다. 커스텀 휴가/휴일 설정(쇼핑 및 여가활동 탭)을 사용하면 평균 낮에는 약 30% 시민이 주말처럼 쇼핑과 여가활동을 더 많이 하는 반면, 나머지는 일이나 공부를 합니다.
-'주중(월~금)'은 일과 공부 활동을 늘리고 쇼핑과 여가활동을 줄입니다.
-'주말'은 이와 반대로 학교가 문을 닫습니다.
-'주 7일(월~일)'은 주중과 주말을 거쳐 월요일부터 일요일까지 순환됩니다.",
+  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.dt_simulation]": "이 옵션은 하루 동안 시뮬레이션이 작동하는 방식을 변경합니다.'평일'은 주중과 주말 행동의 조합인 바닐라 행동에 해당합니다. 커스텀 휴가/휴일 설정(쇼핑 및 여가활동 탭)을 사용하면 평균 낮에는 약 30% 시민이 주말처럼 쇼핑과 여가활동을 더 많이 하는 반면, 나머지는 일이나 공부를 합니다.'주중(월~금)'은 일과 공부 활동을 늘리고 쇼핑과 여가활동을 줄입니다.'주말'은 이와 반대로 학교가 문을 닫습니다.'주 7일(월~일)'은 주중과 주말을 거쳐 월요일부터 일요일까지 순환됩니다.",
   "Options.Time2Work.Time2Work.Mod.DTSIMULATIONENUM[AverageDay]": "평일",
   "Options.Time2Work.Time2Work.Mod.DTSIMULATIONENUM[Weekday]": "주중(월~금)",
   "Options.Time2Work.Time2Work.Mod.DTSIMULATIONENUM[Weekend]": "주말",
