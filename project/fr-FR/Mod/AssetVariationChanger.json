@@ -1,1 +1,7 @@
-{}
+{
+  "Options.SECTION[AssetVariationChanger.AssetVariationChanger.Mod]": "Asset Variation Changer",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "Raccourci clavier - Variation précédente",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "Cette touche sera liée à la sélection de la variation précédente de l'objet (redémarrage requis).",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "Raccourci clavier - Variation suivante",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "Cette touche sera liée à la sélection de la variation suivante de l'objet (redémarrage requis)."
+}

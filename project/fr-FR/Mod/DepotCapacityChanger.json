@@ -1,6 +1,6 @@
 {
   "Options.SECTION[DepotCapacityChanger.DepotCapacityChanger.Mod]": "Depot Capacity Changer",
-  "Options.TAB[DepotCapacityChanger.DepotCapacityChanger.Mod.Modify Depot Capacity]": "Principal",
+  "Options.TAB[DepotCapacityChanger.DepotCapacityChanger.Mod.Modify Depot Capacity]": "Général",
   "Options.GROUP[DepotCapacityChanger.DepotCapacityChanger.Mod.Student Capacity]": "Capacité du dépôt",
   "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "Dépôt de bus ",
   "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "Dépôt de taxis",
