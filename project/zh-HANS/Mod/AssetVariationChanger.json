@@ -1,7 +1,7 @@
 {
   "Options.SECTION[AssetVariationChanger.AssetVariationChanger.Mod]": "资产变体更改",
-  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "键位绑定 - 上一变体",
-  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "选择上一资产变体的按键（需要重新启动）",
-  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "键位绑定 - 下一变体",
-  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "选择下一资产变体的按键（需要重新启动）"
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "键位绑定 - 上一个变体",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "此按键为选择上一个资产变体的快捷键（需要重新启动以应用）",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "键位绑定 - 下一个变体",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "此按键为选择下一个资产变体的快捷键（需要重新启动以应用）"
 }

@@ -1,5 +1,5 @@
 {
-  "Options.SECTION[Weather+.SimpleClimateChanger.Mod]": "自定义天气",
+  "Options.SECTION[Weather+.SimpleClimateChanger.Mod]": "天气+",
   "Options.TAB[Weather+.SimpleClimateChanger.Mod.Main]": "天气设置",
   "Options.TAB[Weather+.SimpleClimateChanger.Mod.Time]": "时间设置",
   "Options.GROUP[Weather+.SimpleClimateChanger.Mod.Button]": "按钮",

@@ -6,7 +6,7 @@
   "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableRainToggle]": "勾选以关闭降雨",
   "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnowToggle]": "关闭降雪",
   "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnowToggle]": "勾选以关闭降雪",
-  "Options.GROUP[NiceWeather.NiceWeather.Mod.Clouds and Fog]": "云雾",
+  "Options.GROUP[NiceWeather.NiceWeather.Mod.Clouds and Fog]": "云和雾",
   "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableCloudsToggle]": "关闭云",
   "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableCloudsToggle]": "勾选以关闭云",
   "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableFogToggle]": "关闭雾",
