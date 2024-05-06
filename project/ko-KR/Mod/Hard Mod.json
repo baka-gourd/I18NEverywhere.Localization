@@ -1,0 +1,18 @@
+{
+	"Options.SECTION[HardMode.HardMode.Mod]": "하드 모드(Hard Mod)",
+	"Options.GROUP[HardMode.HardMode.Mod.GAMEPLAY_GROUP]": "게임 플레이 옵션",
+	"Options.OPTION[HardMode.HardMode.Mod.HardModeSettings.EconomyDifficulty]": "경제 난이도",
+	"Options.OPTION_DESCRIPTION[HardMode.HardMode.Mod.HardModeSettings.EconomyDifficulty]": "난이도가 높을수록 보조금과 마일스톤 보상 감소, 수입 및 수출 비용이 증가됩니다.",
+	"Options.OPTION[HardMode.HardMode.Mod.HardModeSettings.BulldozeCostsMoney]": "건물 철거 비용",
+	"Options.OPTION_DESCRIPTION[HardMode.HardMode.Mod.HardModeSettings.BulldozeCostsMoney]": "건물 철거에 대한 월별 유지 관리 비용을 추가합니다. 이 비툥은 퇴거되는 주민수, 토지 가치, 건물 크기에 따라 결정됩니다",
+	"Options.OPTION[HardMode.HardMode.Mod.HardModeSettings.BulldozeCausesDemolition]": "철거 및 구역 해제로 인한 붕괴 발생",
+	"Options.OPTION_DESCRIPTION[HardMode.HardMode.Mod.HardModeSettings.BulldozeCausesDemolition]": "건물을 철거하거나 지역 구역을 해제하면 건물이 사라지는 대신 붕괴될 수 있으며 무너진 건물을 정리하는데 시간이 걸리고 주변 행복도에 영향을 미칠 수 있습니다. 약간의 비용을 지불하여 무너진 건물을 즉시 파괴할 수 있습니다.",
+	"Options.HardMode.HardMode.Mod.ECONOMYDIFFICULTY[Easy]": "쉬움",
+	"Options.HardMode.HardMode.Mod.ECONOMYDIFFICULTY[Medium]": "중간",
+	"Options.HardMode.HardMode.Mod.ECONOMYDIFFICULTY[Hard]": "어려움",
+	"Options.HardMode.HardMode.Mod.ECONOMYDIFFICULTY[GoodLuck]": "행운을 빌어요!",
+	"EconomyPanel.BUDGET_SUB_ITEM[ExportedGoods]": "수출 상품",
+	"EconomyPanel.BUDGET_SUB_ITEM[ImportedGoods]": "수입 상품",
+	"EconomyPanel.BUDGET_SUB_ITEM[BuildingDemolitions]": "건물 철거",
+	"HardMode.BULLDOZECOST_LABEL": "철거 비용"
+}
