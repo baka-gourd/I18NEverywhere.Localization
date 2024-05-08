@@ -1,0 +1,15 @@
+{
+	"Options.SECTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod]": "대중교통 차량 수용량 변경(Transit Capacity Multiplier)",
+	"Options.TAB[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.CapacitySection]": "메인",
+	"Options.GROUP[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.CapacityGroup]": "대중교통 차량 수용량",
+	"Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.BusSlider]": "버스",
+	"Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.BusSlider]": "바닐라 차량 기본값 대비 비율로 수정합니다.",
+	"Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TaxiSlider]": "택시",
+	"Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TaxiSlider]": "바닐라 차량 기본값 대비 비율로 수정합니다.",
+	"Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.SubwaySlider]": "지하철",
+	"Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.SubwaySlider]": "바닐라 차량 기본값 대비 비율로 수정합니다.",
+	"Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TramSlider]": "트램",
+	"Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TramSlider]": "바닐라 차량 기본값 대비 비율로 수정합니다.",
+	"Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TrainSlider]": "기차",
+	"Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TrainSlider]": "바닐라 차량 기본값 대비 비율로 수정합니다."
+}
