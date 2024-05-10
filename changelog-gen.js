@@ -49,6 +49,7 @@ async function generateChangelog(outputFile) {
           if (parts[1].indexOf("project") === -1) return;
           if (parts[2].indexOf("project") === -1) return;
           const language = /project\/([^\/]+)\/.+/.exec(parts[1])[1];
+          if (language === "en-US") return;
           changeGroup.push(
             `- ${language}: mov ${path.basename(
               parts[1],
@@ -61,6 +62,7 @@ async function generateChangelog(outputFile) {
           const filePath = line.substring(2).trim();
           if (filePath.indexOf("project") === -1) return;
           const language = /project\/([^\/]+)\/.+/.exec(filePath)[1];
+          if (language === "en-US") return;
           changeGroup.push(
             `- ${language}: ${type} ${path.basename(
               filePath,
