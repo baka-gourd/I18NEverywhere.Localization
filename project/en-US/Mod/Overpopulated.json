@@ -1,0 +1,15 @@
+{
+    "Options.SECTION[Overpopulated.Overpopulated.Mod]": "Overpopulated Gizmo & Fix 1.2.0.0",
+    "Options.TAB[Overpopulated.Overpopulated.Mod.Main]": "Main",
+    "Options.GROUP[Overpopulated.Overpopulated.Mod.Options]": "Options",
+    "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureGizmo]": "Enable overpopulated gizmo",
+    "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureGizmo]": "Enables gizmo that shows buildings with more households than their capacity.",
+    "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureDumpToLog]": "Enable dump to log",
+    "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureDumpToLog]": "Upon savefile loading, dumps to the log a list of buildings that have more households than their capacity.",
+    "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureLoadingFix]": "Enable loading fix",
+    "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureLoadingFix]": "Patches the savefile loading process so it will not create buildings with more households or companies than their capacity.",
+    "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureRenterFix]": "Enable renter fix",
+    "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureRenterFix]": "Patches the household removal system so it will not create property renters detached from properties.",
+    "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureSeparatedSystems]": "Enable separated removal systems",
+    "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureSeparatedSystems]": "Separates household and citizen removal processes. This prevents a rare race conditon leading to more frequent renter issues. Valid only with the Renter fix enabled."
+}
