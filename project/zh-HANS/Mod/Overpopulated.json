@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[Overpopulated.Overpopulated.Mod]": "多余人口视图&修复",
+  "Options.TAB[Overpopulated.Overpopulated.Mod.Main]": "主要",
+  "Options.GROUP[Overpopulated.Overpopulated.Mod.Options]": "选项",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureGizmo]": "开启多余人口视图",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureGizmo]": "启用显示住户数量超过其容量的建筑的视图",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureDumpToLog]": "启用导出至日志",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureDumpToLog]": "加载存档文件时，将住户数超过容量的建筑物列表打印到日志中。",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureLoadingFix]": "启用加载修复",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureLoadingFix]": "对存档加载过程进行修改，使其在加载时不会让家庭或公司数量超过其建筑物的容量。",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureRenterFix]": "启用搬迁修复",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureRenterFix]": "对家庭系统进行修改，使其不会产生无家可归的家庭。",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureSeparatedSystems]": "启用分离式移除系统",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureSeparatedSystems]": "分离家庭和市民的移除程序。这将可以避免一些罕见的条件竞争问题。仅在启用搬迁修复后生效。"
+}

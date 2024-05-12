@@ -3,5 +3,7 @@
   "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "键位绑定 - 上一个变体",
   "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "此按键为选择上一个资产变体的快捷键（需要重新启动以应用）",
   "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "键位绑定 - 下一个变体",
-  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "此按键为选择下一个资产变体的快捷键（需要重新启动以应用）"
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "此按键为选择下一个资产变体的快捷键（需要重新启动以应用）",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "启用变体选择",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "启用后模组生效，禁用则不会生效。这对想获得原版的随机行为的人很有帮助。"
 }
