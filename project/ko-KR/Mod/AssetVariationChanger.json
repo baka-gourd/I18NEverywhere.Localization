@@ -1,0 +1,9 @@
+{
+    "Options.SECTION[AssetVariationChanger.AssetVariationChanger.Mod]": "에셋 변형 변경(Asset Variation Changer)",
+    "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "단축키 - 이전 변형",
+    "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "해당 키는 이전 에셋 변형을 선택하는데 사용합니다(다시시작 필요함)",
+    "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "단축키 - 다음 변형",
+    "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "해당 키는 다음 에셋 변형을 선택하는데 사용합니다(다시시작 필요함)",
+    "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "변형 선택기 활성화",
+    "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "활성화되면 모드가 작동합니다. 비활성화시 모드가 작동하지 않으며 바닐라의 무작위 변형을 원할경우 유용합니다."
+}
