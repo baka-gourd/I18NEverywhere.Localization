@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[AssetIconLibrary.AssetIconLibrary.Mod]": "에셋 아이콘 라이브러리(Asset Icon Library)",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Main]": "메인",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Settings]": "설정",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "기존 아이콘 덮어쓰기",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "활성화되면 에셋 아이콘 라이브러리는 대체 가능한 아이콘이 있을 경우, 바닐라와 다른 모드의 아이콘을 덮어씁니다.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "커스텀 아이콘 폴더 열기",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "바닐라 또는 '에셋 아이콘 라이브러리' 아이콘에 개인 맞춤형 아이콘을 적용할 폴더를 엽니다."
+}
