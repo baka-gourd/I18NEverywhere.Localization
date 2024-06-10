@@ -1,7 +1,6 @@
 {
     "Options.SECTION[WeatherPlus.WeatherPlus.Mod]": "날씨 플러스(Weather Plus)",
-	"Options.TAB[WeatherPlus.WeatherPlus.Mod.Presets]": "프리셋",
-    "Options.GROUP[WeatherPlus.WeatherPlus.Mod.Button2]": "프리셋",
+    "Options.GROUP[WeatherPlus.WeatherPlus.Mod.Presets]": "프리셋",
     "Options.OPTION[WeatherPlus.WeatherPlus.Mod.Setting.TimeSixAM]": "오전 6시",
     "Options.OPTION_DESCRIPTION[WeatherPlus.WeatherPlus.Mod.Setting.TimeSixAM]": "오전 6시로 설정합니다.",
 	"Options.OPTION[WeatherPlus.WeatherPlus.Mod.Setting.TimeSevenAM]": "오전 7시",
