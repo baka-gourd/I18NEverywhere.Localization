@@ -42,6 +42,7 @@ const watchedMods = [
   "78554",
   "75862",
   "77171",
+  "78903",
 ];
 
 async function checkModUpdate(date) {
