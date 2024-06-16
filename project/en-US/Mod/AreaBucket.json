@@ -1,0 +1,20 @@
+{
+    "AREA_BUCKT_TOOL.Active": "Area Bucket",
+    "AREA_BUCKT_TOOL.DESC.Active": "Enable/Disable Area Bucket Tool",
+    "AREA_BUCKT_TOOL.DetectCrossing": "Detect Boundaries Crossing",
+    "AREA_BUCKT_TOOL.DESC.DetectCrossing": "Detect boundaries crossing and fix some filling gaps (performance issue)",
+    "AREA_BUCKT_TOOL.FillRange": "Fill Range",
+    "AREA_BUCKT_TOOL.DESC.FillRange": "Set Tool Filling Range",
+    "AREA_BUCKT_TOOL.BoundaryMask": "Used Boundaries",
+    "AREA_BUCKT_TOOL.MaskNet": "Road & Net",
+    "AREA_BUCKT_TOOL.MaskLot": "Building Lot",
+    "AREA_BUCKT_TOOL.MaskArea": "Surface & Area",
+    "AREA_BUCKT_TOOL.MaskNetLane": "Net Lane (performance issue)",
+    "AREA_BUCKT_TOOL.MaskSubNet": "Sub Net (performance issue)",
+    "Options.SECTION[AreaBucket.AreaBucket.Mod]": "Area Bucket",
+    "Options.GROUP[AreaBucket.AreaBucket.Mod.Main]": "Area Bucket",
+    "Options.OPTION[AreaBucket.AreaBucket.Mod.Setting.MinGeneratedLineLength]": "Mininal Area Edge Length (meter)",
+    "Options.OPTION_DESCRIPTION[AreaBucket.AreaBucket.Mod.Setting.MinGeneratedLineLength]": "Restrict mininal edge length of generated area polygons, smaller value makes edges smoother and more fragmented",
+    "Options.OPTION[AreaBucket.AreaBucket.Mod.Setting.UseExperientalOption]": "Experimental Options",
+    "Options.OPTION_DESCRIPTION[AreaBucket.AreaBucket.Mod.Setting.UseExperientalOption]": "Use Experimental Options (May have performance or other issue)"
+}
