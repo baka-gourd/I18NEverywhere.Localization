@@ -1,8 +1,16 @@
 {
     "Options.SECTION[MoveIt.MoveIt.Mod]": "Move It",
     "Options.GROUP[MoveIt.MoveIt.Mod.General Settings]": "General Options",
-    "Options.OPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "Invert Rotation",
     "Options.OPTION[MoveIt.MoveIt.Mod.Settings.Marquee]": "Marquee Selection",
     "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.Marquee]": "Select objects by click-and-dragging a selection box. Hot-key: Control+M",
-    "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "Set rotation direction to vanilla CS2 relocate. If unticked, use CS1 Move It's direction."
+    "Options.OPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "Invert Rotation",
+    "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "Set rotation direction to vanilla CS2 relocate. If unticked, use CS1 Move It's direction.",
+    "Options.OPTION[MoveIt.MoveIt.Mod.Settings.ExtraDebugLogging]": "Extended Debug Logging",
+    "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.ExtraDebugLogging]": "If you're having issues with Move It crashing, try hiding the icon. Enable or disable Move It with the M key.",
+    "Options.OPTION[MoveIt.MoveIt.Mod.Settings.HideMoveItIcon]": "Hide Move It Icon",
+    "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.HideMoveItIcon]": "If you're having issues with Move It crashing, try hiding the icon. Enable or disable Move It with the M key.",
+    "Options.OPTION[MoveIt.MoveIt.Mod.Settings.ShowDebugPanel]": "Show Debug Panel",
+    "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.ShowDebugPanel]": "Show a panel with technical output to help track down problems.",
+    "Options.OPTION[MoveIt.MoveIt.Mod.Settings.SaveLogsToDesktopBtn]": "Save Logs To Desktop",
+    "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.SaveLogsToDesktopBtn]": "Save a zip file to your desktop with logs for the game and mods for submitting with bug reports. Note: includes your Windows username, Steam ID, system specifications, and timezone."
 }
