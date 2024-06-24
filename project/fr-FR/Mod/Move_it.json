@@ -4,5 +4,11 @@
   "Options.OPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "Inverser la rotation",
   "Options.OPTION[MoveIt.MoveIt.Mod.Settings.Marquee]": "Boite de sélection",
   "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.Marquee]": "Sélectionnez des objets en cliquant et en faisant glisser une zone de sélection. Raccourci : CTRL+M",
-  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "Définit la direction de la rotation selon la version vanilla dans CS 2. Si la case n'est pas cochée, utilise la direction de rotation de CS 1."
+  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "Définit la direction de la rotation selon la version vanilla dans CS 2. Si la case n'est pas cochée, utilise la direction de rotation de CS 1.",
+  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.ExtraDebugLogging]": "Journalisation du débogage étendu",
+  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.ExtraDebugLogging]": "Si vous avez des plantages avec le mode Move It , essayez de cacher l'icone. Activez ou désactivez Move It avec la touche M.",
+  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.HideMoveItIcon]": "Cacher l'icone de Move it",
+  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.HideMoveItIcon]": "Si vous avez des plantages avec le mode Move It , essayez de cacher l'icone. Activez ou désactivez Move It avec la touche M.",
+  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.ShowDebugPanel]": "Montrer le panneau de débogage",
+  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.ShowDebugPanel]": "Montrer un panneau avec des données techniques pour aider à résoudre les problèmes."
 }
