@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[AssetIconLibrary.AssetIconLibrary.Mod]": "资产图标库",
+  "Options.TAB[AssetIconLibrary.AssetIconLibrary.Mod.Main]": "主要",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Settings]": "设置",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "覆盖已存在的图标",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "启用后，资产图标库将会覆盖原版图标和模组图标。",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "开启自定义缩略图文件夹",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "在原版或 \"资产图标库 \"的基础上添加自定义缩略图。"
+}

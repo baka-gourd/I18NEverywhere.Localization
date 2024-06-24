@@ -1,0 +1,12 @@
+{
+  "AREA_BUCKT_TOOL.Active": "区域油漆桶",
+  "AREA_BUCKT_TOOL.DESC.Active": "启用/禁用 区域油漆桶工具",
+  "AREA_BUCKT_TOOL.DetectCrossing": "检测边界重叠",
+  "AREA_BUCKT_TOOL.DESC.DetectCrossing": "检测边界重叠并修复一些填充间隙问题（可能导致性能问题）",
+  "AREA_BUCKT_TOOL.FillRange": "填充范围",
+  "AREA_BUCKT_TOOL.DESC.FillRange": "设置工具填充范围",
+  "Options.SECTION[AreaBucket.AreaBucket.Mod]": "区域油漆桶",
+  "Options.GROUP[AreaBucket.AreaBucket.Mod.Main]": "区域油漆桶",
+  "Options.OPTION[AreaBucket.AreaBucket.Mod.Setting.UseExperientalOption]": "实验性选项",
+  "Options.OPTION_DESCRIPTION[AreaBucket.AreaBucket.Mod.Setting.UseExperientalOption]": "使用实验性选项（可能导致性能或其他问题）"
+}
