@@ -62,5 +62,6 @@
 	"Progression.MILESTONE_VICTORY_DESCRIPTION_SHORT" : "해냈군요! 당신은 도시를 성공적으로 건설해냈습니다.",
 	"Progression.MILESTONE_VICTORY_DESCRIPTION_LONG" : "해냈군요! 당신은 도시를 성공적으로 건설해냈습니다.\n\n시장으로서 당신의 헌신과 능력이 이 놀라운 성과를 이끌었습니다. 계속 플레이하여 도시 건설 여정을 더 탐험하고 즐길 수 있습니다. 이 시점 이후에는 게임의 안정성이 저하될 수 있으니 주의하시길 바랍니다. 계속하기로 결정했다면 진행 상황을 자주 저장하는것이 좋습니다.\n\n시장으로써 플레이해주셔서 감사합니다!",
 	"Progression.MILESTONE_VICTORY_CONTINUE" : "도시 계속 플레이하기",
-	"Progression.MILESTONE_VICTORY_START_NEW" : "새 도시 플레이하기"
+	"Progression.MILESTONE_VICTORY_START_NEW" : "새 도시 플레이하기",
+	"SelectedInfoPanel.TOOLTIP[PassengersSection]" : "차량 최대 승객 수에 대한 현재 승객 수입니다."
 }
