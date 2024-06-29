@@ -1,9 +1,13 @@
 {
     "Options.SECTION[AssetVariationChanger.AssetVariationChanger.Mod]": "Asset Variation Changer",
-    "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "Keybind - Previous Variation",
-    "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "This key will be bound to select the previous asset variation (Restart required)",
-    "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "Keybind - Next Variation",
-    "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "This key will be bound to select the next asset variation (Restart required)",
+    "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousVariationBinding]": "Previous Variation",
+    "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousVariationBinding]": "This key will be bound to select the previous asset variation",
+    "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "Next Variation",
+    "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "This key will be bound to select the next asset variation",
+    "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "Toggle Variation Chooser",
+    "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "Use this keybind to toggle the mod without having to open the menu",
+	"Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ResetBindings]": "Reset key bindings",
+    "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ResetBindings]": "",
     "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "Enable Variation Chooser",
     "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "If enabled, the mod actually works. If disabled, the mod does nothing. This is useful if you want the vanilla random behavior"
 }
