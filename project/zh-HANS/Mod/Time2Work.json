@@ -116,5 +116,9 @@
   "Options.Time2Work.Time2Work.Mod.DAYOFWEEK[Wednesday]": "周三",
   "Options.Time2Work.Time2Work.Mod.DAYOFWEEK[Thursday]": "周四",
   "Options.Time2Work.Time2Work.Mod.DAYOFWEEK[Friday]": "周五",
-  "Options.Time2Work.Time2Work.Mod.DAYOFWEEK[Saturday]": "周六"
+  "Options.Time2Work.Time2Work.Mod.DAYOFWEEK[Saturday]": "周六",
+  "Options.GROUP[Time2Work.Time2Work.Mod.ExternalGroup]": "外部出行",
+  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.tourism_trips]": "不同日期中旅游人数的变化",
+  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.tourism_trips]": "在周末增加旅游人数，在工作日减少旅游人数。",
+  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.commuter_trips]": "不同日期中通勤人数的变化"
 }
