@@ -36,5 +36,7 @@
 	"Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.ShowWarningForLocalAssets]": "로컬 에셋 경고 보이기",
 	"Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.ShowWarningForLocalAssets]": "Asset Packs Manager가 user/Mods폴더에서 로컬 에셋을 감지하면 경고를 표시합니다. 실수로 로컬 자산을 불러오는것을 방지하기 위한 기능입니다.",
 	"Options.TAB[AssetPacksManager.AssetPacksManager.Mod.Packs]": "에셋 팩",
-	"Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Loaded Asset Packs]": "불러와진 에셋 팩들"
+	"Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Loaded Asset Packs]": "불러와진 에셋 팩들",
+	"Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LoadedAssetPacksText]": "불러와진 에셋 팩들",
+	"Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LoadedAssetPacksText]": "불러와진 에셋 팩들을 표시합니다. 읽기 전용 공간입니다."
 }
