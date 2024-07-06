@@ -2,7 +2,7 @@
     "Options.SECTION[WeatherPlus.WeatherPlus.Mod]": "WeatherPlus",
     "Options.TAB[WeatherPlus.WeatherPlus.Mod.Time]": "Time Settings",
     "Options.TAB[WeatherPlus.WeatherPlus.Mod.Main]": "Weather Settings",
-    "Options.GROUP[WeatherPlus.WeatherPlus.Mod.Dropdown]": "Choose a Custom Time"
+    "Options.GROUP[WeatherPlus.WeatherPlus.Mod.Dropdown]": "Choose a Custom Time",
     "Options.GROUP[WeatherPlus.WeatherPlus.Mod.Slider]": "Change Current Weather",
     "Options.OPTION[WeatherPlus.WeatherPlus.Mod.Setting.TimeOfDay]": "Time of Day Override",
     "Options.OPTION_DESCRIPTION[WeatherPlus.WeatherPlus.Mod.Setting.TimeOfDay]": "Set a preset to override the time of day. Set to off to disable.",
