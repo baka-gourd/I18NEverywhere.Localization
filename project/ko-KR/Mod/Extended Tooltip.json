@@ -43,7 +43,7 @@
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolUnits]": "길이(U) 측정 표시",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolUnits]": "도로 구간 길이를 한 칸당 1U로 표시합니다.",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ToggleShowNetToolUnits]": "단위 측정 표시 전환 단축키",
-  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ToggleShowNetToolUnits]": "단축키를 누르는 동안 바닐라 방식의 단위 측정값을 표기합니다.",
+  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ToggleShowNetToolUnits]": "단축키를 누르면 바닐라 방식의 단위 측정값을 표기하거나 다시 1칸당 1U로 표기합니다.",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolMode]": "도구 모드",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolMode]": "도구 모드(직선, 단곡선 등)을 사용중이라면 표시합니다.",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolElevation]": "고도",
