@@ -19,6 +19,8 @@
   "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.AirPollution]": "Air Pollution",
   "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.AirPollution]": "Allow air pollution or not (checked means pollution is active and when unchecked will remove existing pollution)",
   "Options.GROUP[NoPollution.NoPollution.Mod.WaterPollution]": "Water Pollution Settings",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.WaterSystem]": "Water Pollution Decay Rate",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.WaterSystem]": "Adjust the rate at which water pollution decays. (0 - 100)"
+  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayInstant]": "Instant Decay Rate",
+  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayInstant]": "Turn this on for permanant water pollution removal",
+  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayRate]": "Water Pollution Decay Rate",
+  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayRate]": "Adjust the rate at which water pollution decays. (0 - 100). 10 is defualt and is also vanilla. lower than 10 is slower than vanilla and more 10 is faster than vanilla."
 }
