@@ -1,15 +1,15 @@
 {
-  "Options.SECTION[Overpopulated.Overpopulated.Mod]": "Overpopulated Gizmo & Fix 1.2.0.0",
-  "Options.TAB[Overpopulated.Overpopulated.Mod.Main]": "Général",
-  "Options.GROUP[Overpopulated.Overpopulated.Mod.Options]": "Options",
-  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureGizmo]": "Activer les gizmos de surpopulation",
-  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureGizmo]": "Active les gizmos pointant les bâtiments qui hébergent plus de foyers que leur capacité normale.",
-  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureDumpToLog]": "Activer la journalisation",
-  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureDumpToLog]": "Au chargement d'une sauvegarde, écrire dans les fichiers de journalisation la liste des bâtiments qui hébergent plus de foyers que leur capacité normale.",
-  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureLoadingFix]": "Activer la correction de capacité",
-  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureLoadingFix]": "Corrige le processus de chargement d'une sauvegarde, pour éviter la création de bâtiments avec plus de foyers ou entreprises que leur capacité normale.",
-  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureRenterFix]": "Activer la correction des locataires détachés",
-  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureRenterFix]": "Corrige le système de gestion des foyers pour éviter la création de locataires sans propriété attitrée.",
-  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureSeparatedSystems]": "Activer la séparation des systèmes de nettoyage.",
-  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureSeparatedSystems]": "Sépare le processus de suppression de cims et de foyers. Cela permet d'éviter une rare situation de compétition (« race condition ») qui peut augmenter le risque de problèmes avec les locataires. Valide seulement avec l'activation de la correction des locataires détachés."
+    "Options.SECTION[Overpopulated.Overpopulated.Mod]": "Overpopulated Gizmo & Fix 1.2.0.0",
+    "Options.TAB[Overpopulated.Overpopulated.Mod.Main]": "Général",
+    "Options.GROUP[Overpopulated.Overpopulated.Mod.Options]": "Options",
+    "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureGizmo]": "Activer les gizmos de surpopulation",
+    "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureGizmo]": "Active les gizmos pointant les bâtiments qui hébergent plus de foyers que leur capacité normale.",
+    "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureDumpToLog]": "Activer la journalisation",
+    "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureDumpToLog]": "Au chargement d'une sauvegarde, écrire dans les fichiers de journalisation la liste des bâtiments qui hébergent plus de foyers que leur capacité normale.",
+    "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureLoadingFix]": "Activer la correction de capacité",
+    "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureLoadingFix]": "Corrige le processus de chargement d'une sauvegarde, pour éviter la création de bâtiments avec plus de foyers ou entreprises que leur capacité normale.",
+    "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureRenterFix]": "Activer la correction des locataires détachés",
+    "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureRenterFix]": "Corrige le système de gestion des foyers pour éviter la création de locataires sans propriété attitrée.",
+    "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureSeparatedSystems]": "Activer la séparation des systèmes de nettoyage.",
+    "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureSeparatedSystems]": "Sépare le processus de suppression de cims et de foyers. Cela permet d'éviter une rare situation de compétition (« race condition ») qui peut augmenter le risque de problèmes avec les locataires. Valide seulement avec l'activation de la correction des locataires détachés."
 }

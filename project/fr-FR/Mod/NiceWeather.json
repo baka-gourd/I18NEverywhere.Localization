@@ -1,14 +1,14 @@
 {
-  "Options.SECTION[NiceWeather.NiceWeather.Mod]": "Nice Weather",
-  "Options.TAB[NiceWeather.NiceWeather.Mod.Weather]": "Météo",
-  "Options.GROUP[NiceWeather.NiceWeather.Mod.Precipitation]": "Précipitations",
-  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableRainToggle]": "Désactiver la pluie",
-  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableRainToggle]": "Cochez la case pour désactiver la pluie.",
-  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnowToggle]": "Désactiver la neige",
-  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnowToggle]": "Cochez la case pour désactiver la neige.",
-  "Options.GROUP[NiceWeather.NiceWeather.Mod.Clouds and Fog]": "Nuages et brouillard",
-  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableCloudsToggle]": "Désactiver les nuages",
-  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableCloudsToggle]": "Cochez la case pour désactiver les nuages.",
-  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableFogToggle]": "Désactiver le brouillard",
-  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableFogToggle]": "Cochez la case pour désactiver le brouillard."
+    "Options.SECTION[NiceWeather.NiceWeather.Mod]": "Nice Weather",
+    "Options.TAB[NiceWeather.NiceWeather.Mod.Weather]": "Météo",
+    "Options.GROUP[NiceWeather.NiceWeather.Mod.Precipitation]": "Précipitations",
+    "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableRainToggle]": "Désactiver la pluie",
+    "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableRainToggle]": "Cochez la case pour désactiver la pluie.",
+    "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnowToggle]": "Désactiver la neige",
+    "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnowToggle]": "Cochez la case pour désactiver la neige.",
+    "Options.GROUP[NiceWeather.NiceWeather.Mod.Clouds and Fog]": "Nuages et brouillard",
+    "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableCloudsToggle]": "Désactiver les nuages",
+    "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableCloudsToggle]": "Cochez la case pour désactiver les nuages.",
+    "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableFogToggle]": "Désactiver le brouillard",
+    "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableFogToggle]": "Cochez la case pour désactiver le brouillard."
 }

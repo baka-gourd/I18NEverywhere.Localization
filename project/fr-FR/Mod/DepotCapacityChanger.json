@@ -1,15 +1,15 @@
 {
-  "Options.SECTION[DepotCapacityChanger.DepotCapacityChanger.Mod]": "Depot Capacity Changer",
-  "Options.TAB[DepotCapacityChanger.DepotCapacityChanger.Mod.Modify Depot Capacity]": "Général",
-  "Options.GROUP[DepotCapacityChanger.DepotCapacityChanger.Mod.Student Capacity]": "Capacité du dépôt",
-  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "Dépôt de bus ",
-  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "Dépôt de taxis",
-  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "Dépôt de métros",
-  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "Dépôt de tramways",
-  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "Dépôt de trains",
-  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "Définissez la capacité de véhicule des dépôts de bus par rapport à leur capacité vanilla.",
-  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "Définissez la capacité de véhicule des dépôts de taxis par rapport à leur capacité vanilla.",
-  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "Définissez la capacité de véhicule des dépôts de métros par rapport à leur capacité vanilla.",
-  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "Définissez la capacité de véhicule des dépôts de tramways par rapport à leur capacité vanilla.",
-  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "Définissez la capacité de véhicule des dépôts de trains par rapport à leur capacité vanilla."
+    "Options.SECTION[DepotCapacityChanger.DepotCapacityChanger.Mod]": "Depot Capacity Changer",
+    "Options.TAB[DepotCapacityChanger.DepotCapacityChanger.Mod.Modify Depot Capacity]": "Général",
+    "Options.GROUP[DepotCapacityChanger.DepotCapacityChanger.Mod.Student Capacity]": "Capacité du dépôt",
+    "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "Dépôt de bus ",
+    "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "Dépôt de taxis",
+    "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "Dépôt de métros",
+    "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "Dépôt de tramways",
+    "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "Dépôt de trains",
+    "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "Définissez la capacité de véhicule des dépôts de bus par rapport à leur capacité vanilla.",
+    "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "Définissez la capacité de véhicule des dépôts de taxis par rapport à leur capacité vanilla.",
+    "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "Définissez la capacité de véhicule des dépôts de métros par rapport à leur capacité vanilla.",
+    "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "Définissez la capacité de véhicule des dépôts de tramways par rapport à leur capacité vanilla.",
+    "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "Définissez la capacité de véhicule des dépôts de trains par rapport à leur capacité vanilla."
 }
