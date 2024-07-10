@@ -19,6 +19,8 @@
   "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.AirPollution]": "대기 오염",
   "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.AirPollution]": "대기 오염을 허/비허용 합니다(체크시 오염이 활성화되며 해제하면 기존 오염이 제거됩니다).",
   "Options.GROUP[NoPollution.NoPollution.Mod.WaterPollution]": "수질 오염 설정",
+  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayInstant]": "수질 즉시 제거",
+  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayInstant]": "영구적으로 수질 오염을 제거하려면 이 설정을 체크하세요.",
   "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayRate]": "수질 오염 감소율",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayRate]": "수질 오염이 감소하는 속도를 조정합니다. (0 - 100)"
+  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayRate]": "수질 오염이 감소하는 속도를 조정합니다(0 - 100). 10이 기본인 바닐라 값이며 10보다 낮으면 바닐라보다 느리며 높으면 더 빠릅니다."
 }

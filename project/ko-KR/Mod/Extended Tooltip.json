@@ -2,6 +2,12 @@
     "Options.SECTION[ExtendedTooltip.ExtendedTooltip.Mod]": "툴팁 확장(Extended Tooltip)",
 	"Options.TAB[ExtendedTooltip.ExtendedTooltip.Mod.TAB_GENERAL]": "일반 설정",
 	"Options.TAB[ExtendedTooltip.ExtendedTooltip.Mod.TAB_TOOLTIPS]": "툴팁 설정",
+	
+	"Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeHotkey]": "표시 모드 단축키",
+	"Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeHotkey]": "단축키를 눌렀을때만 툴팁이 표시됩니다.",
+	"Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeDelayOnMoveables]": "이동 물체 지연",
+	"Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeDelayOnMoveables]": "이동중인 차량과 시민 또한 지연하여 표시합니다.",
+	
 	"Options.GROUP[ExtendedTooltip.ExtendedTooltip.Mod.GRP_GENERAL]": "일반",
   "Options.GROUP[ExtendedTooltip.ExtendedTooltip.Mod.GRP_COMPANY]": "회사",
   "Options.GROUP[ExtendedTooltip.ExtendedTooltip.Mod.GRP_TOOLS]": "도구",
@@ -35,7 +41,9 @@
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolSystem]": "넷 도구",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolSystem]": "넷 도구에 대한 툴팁을 활성화합니다.",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolUnits]": "길이(U) 측정 표시",
-  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolUnits]": "도로 구간 길이 단위(U)를 표시합니다.",
+  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolUnits]": "도로 구간 길이를 한 칸당 1U로 표시합니다.",
+  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ToggleShowNetToolUnits]": "단위 측정 표시 전환 단축키",
+  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ToggleShowNetToolUnits]": "단축키를 누르면 바닐라 방식의 단위 측정값을 표기하거나 다시 1칸당 1U로 표기합니다.",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolMode]": "도구 모드",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolMode]": "도구 모드(직선, 단곡선 등)을 사용중이라면 표시합니다.",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolElevation]": "고도",
