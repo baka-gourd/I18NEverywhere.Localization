@@ -20,5 +20,5 @@
   "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.AirPollution]": "Autoriser l'émission de pollution dans l’air (coché signifie que la pollution est active et, lorsque décoché, supprimera la pollution existante).",
   "Options.GROUP[NoPollution.NoPollution.Mod.WaterPollution]": "Paramètres de pollution de l’eau",
   "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayRate]": "Taux de dégradation de la pollution de l’eau",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayRate]": "Ajuster le taux auquel la pollution de l’eau se dégrade. (0 - 100)."
+  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayRate]": "Ajuster le taux auquel la pollution de l’eau se dégrade. (0 - 100). 10 est la valeur par défaut. Moins de 10 signifie que le taux sera plus faible qu'en vanilla et plus de 10 signfiera que le taux sera plus élevé qu'en vanilla."
 }
