@@ -14,7 +14,7 @@
   "Options.SECTION[AreaBucket.AreaBucket.Mod]": "Area Bucket",
   "Options.GROUP[AreaBucket.AreaBucket.Mod.Main]": "Général",
   "Options.OPTION[AreaBucket.AreaBucket.Mod.Setting.MinGeneratedLineLength]": "Longueur minimale de segment surface (en mètres)",
-  "Options.OPTION_DESCRIPTION[AreaBucket.AreaBucket.Mod.Setting.MinGeneratedLineLength]": "Définit la longueur minimale des segments d'un polygone de surface, une plus petite valeur rendra les coins plus doux et plus fragmentés.",
+  "Options.OPTION_DESCRIPTION[AreaBucket.AreaBucket.Mod.Setting.MinGeneratedLineLength]": "Définit la longueur minimale des segments d’un polygone de surface, une plus petite valeur rendra les coins plus doux et plus fragmentés.",
   "Options.OPTION[AreaBucket.AreaBucket.Mod.Setting.UseExperientalOption]": "Paramètres expérimentaux",
   "Options.OPTION_DESCRIPTION[AreaBucket.AreaBucket.Mod.Setting.UseExperientalOption]": "Utiliser les paramètres expérimentaux (peut causer des problèmes de performance ou autres)."
 }
