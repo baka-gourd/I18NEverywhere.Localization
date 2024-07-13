@@ -1,6 +1,6 @@
 {
   "Options.SECTION[InfiniteDemand.InfiniteDemand.Mod]": "Infinite Demand",
-  "Options.GROUP[InfiniteDemand.InfiniteDemand.Mod.DemandShiftGroup]": "Paramètres d'Infinite Demand",
+  "Options.GROUP[InfiniteDemand.InfiniteDemand.Mod.DemandShiftGroup]": "Paramètres d’Infinite Demand",
   "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableSuperFastBuild]": "Utiliser la construction ultra-rapide et la demande infinie.",
   "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableSuperFastBuild]": "Tous les types de propriétés seront construits quasiment instantanément. Tous les autres paramètres de demande sont ignorés lorsque activé. Désactivez pour utiliser la logique du jeu de base.",
   "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableSuperFastLeveling]": "Utiliser une augmentation de niveaux rapide",
@@ -17,10 +17,10 @@
   "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableCustomIndustrialDemand]": "Désactivez pour utiliser la logique du jeu de base.",
   "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.IndustrialBuildingDemand]": "Demande de construction industrielle",
   "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.IndustrialBuildingDemand]": "Ajuster le pourcentage de demande pour les bâtiments industriels",
-  "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableCustomOfficeDemand]": "Utiliser la demande d'immeuble de bureaux personnalisée",
+  "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableCustomOfficeDemand]": "Utiliser la demande d’immeuble de bureaux personnalisée",
   "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableCustomOfficeDemand]": "Désactivez pour utiliser la logique du jeu de base.",
   "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.OfficeBuildingDemand]": "Demande de construction de bureaux",
   "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.OfficeBuildingDemand]": "Ajuster le pourcentage de demande pour les bureaux",
   "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.Button]": "Tout réinitialiser",
-  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.Button]": "Réinitialiser les pourcentages au valeurs par défaut (100%)"
+  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.Button]": "Réinitialiser les pourcentages au valeurs par défaut (100 %)"
 }
