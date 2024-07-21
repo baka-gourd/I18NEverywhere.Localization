@@ -120,5 +120,9 @@
   "Options.GROUP[Time2Work.Time2Work.Mod.ExternalGroup]": "外部出行",
   "Options.OPTION[Time2Work.Time2Work.Mod.Setting.tourism_trips]": "不同日期中旅游人数的变化",
   "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.tourism_trips]": "在周末增加旅游人数，在工作日减少旅游人数。",
-  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.commuter_trips]": "不同日期中通勤人数的变化"
+  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.commuter_trips]": "不同日期中通勤人数的变化",
+  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.commuter_trips]": "增加工作日的通勤人数，减少休息日的通勤人数，同时会提高乘坐飞机的概率。",
+  "Options.GROUP[Time2Work.Time2Work.Mod.ExpensesGroup]": "服务费用",
+  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.service_expenses_night_reduction]": "减少夜间服务费用",
+  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.service_expenses_night_reduction]": "减少晚上 11 点到早晨 6 点间的服务费用。"
 }

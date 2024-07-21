@@ -1,0 +1,10 @@
+{
+  "Options.SECTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod]": "再见了，流浪汉",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ActionDelete]": "以删除代替驱逐",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ActionDelete]": "勾选后，无家可归的人将被删除，而不是被迫迁出城市。",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.TickInterval]": "驱逐间隔",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.TickInterval]": "如果没有在该期限内找到新住所，流浪汉就会被驱逐出城。重启后生效。",
+  "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M45]": "游戏内 45 分钟",
+  "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M90]": "游戏内 90 分钟",
+  "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M180]": "游戏内 180 分钟"
+}
