@@ -1,0 +1,22 @@
+{
+  "Options.SECTION[NoTrafficDespawn.NoTrafficDespawn.Mod]": "No Vehicle Despawn",
+  "Options.TAB[NoTrafficDespawn.NoTrafficDespawn.Mod.Main]": "Main",
+  "Options.GROUP[NoTrafficDespawn.NoTrafficDespawn.Mod.Toggle]": "No Vehicle/Traffic Despawn Settings",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.generalInfo]": "This mod configures the automatic despawn of vehicles the game has detected as 'stuck'. The default non-modded behavior is to check if a chain of cars planning to utilize the same pathing node either results in a circular chain without at least one vehicle moving faster than 6m/s, or a chain exceeding 100 vehicles with none exceeding 6m/s. The recommended usage of this mod disables the vehicle chain length check, and set a deadlock removal frame count. It applies to all objects (cars, cims, transit); it is not recommended to disable despawning completely.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnBehavior]": "Vehicle Despawn Method",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnBehavior]": "The general logic to use to determine whether an object should be considered stuck. 'Vanilla' deactivates this mod and reverts to the non-modded behavior.",
+  "Options.NoTrafficDespawn.NoTrafficDespawn.Mod.DESPAWNBEHAVIOR[Vanilla]": "Vanilla (default)",
+  "Options.NoTrafficDespawn.NoTrafficDespawn.Mod.DESPAWNBEHAVIOR[DespawnDeadlocksOnly]": "Despawn Deadlocks Only (Recommended)",
+  "Options.NoTrafficDespawn.NoTrafficDespawn.Mod.DESPAWNBEHAVIOR[DespawnAny]": "Despawn Deadlocks or Long Chains",
+  "Options.NoTrafficDespawn.NoTrafficDespawn.Mod.DESPAWNBEHAVIOR[NoDespawn]": "Disable Vehicle Despawn (NOT recommended)",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.highlightStuckObjects]": "Highlight Stuck Objects",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.highlightStuckObjects]": "Highlight objects that are detected as stuck.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.deadlockLingerFrames]": "Deadlocked Vehicle Removal Wait Frames",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.deadlockLingerFrames]": "The number of frames the simulation will wait before removing vehicles it detects to be stuck. Increasing this number may allow the simulation to recover on its own, but the vanilla default is 0.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.deadlockSearchDepth]": "Vehicle Chain Search Depth",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.deadlockSearchDepth]": "The number of vehicles the simulation will traverse to find a circular loop. Reaching the limit with 'desawpn explicit deadlocks only' set will do nothing, otherwise the vehicle will be marked as stuck.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectRemovalCount]": "Max Per-frame Stuck Vehicle Removal Count",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectRemovalCount]": "The maximum number of stuck vehicles the game will move per frame. Decreasing this value increases the chance the simulation will recover from deadlocks on its own with fewer vehicles removed.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectSpeed]": "Max Stuck Vehicle Speed",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectSpeed]": "The maximum speed at which the game will consider an object in a blocking path to be fast enough to not cause upstream traffic to be stuck."
+}
