@@ -1,0 +1,22 @@
+{
+  "Options.SECTION[NoTrafficDespawn.NoTrafficDespawn.Mod]": "차량 사라짐 금지(No Vehicle Despawn)",
+  "Options.TAB[NoTrafficDespawn.NoTrafficDespawn.Mod.Main]": "메인",
+  "Options.GROUP[NoTrafficDespawn.NoTrafficDespawn.Mod.Toggle]": "차량/대중교통 사라짐 금지 설정",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.generalInfo]": "이 모드는 '교착'으로 감지된 차량의 자동 사라짐을 구성합니다. 수정되지 않은 기본 동작은 동일한 지정된 노드 경로를 활용하려는 자동차 체인이 6m/s보다 빠르게 움직이는 차량이 하나도 없는 체인인지, 6m/s를 초과하지 않고 100대가 넘는 차량이 대기중인 체인이 있는지 확인하는 것입니다. 이 모드의 권장 사용법은 차량 길이 체인 확인을 비활성화하고 교착 상태를 제거하는 프레임 수를 설정합니다. 이 설정은 모든 객체(자동차, 시민, 대중교통)에 적용되며 모든 사라짐 비활성화는 권장되지 않습니다.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnBehavior]": "사라짐 기준",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnBehavior]": "대상 객체(차량,시민)가 움직이지 못하고 있는 교착 상태를 분류하는 기준입니다. '바닐라'는 이 모드를 비활성화하며 수정하지 않습니다.",
+  "Options.NoTrafficDespawn.NoTrafficDespawn.Mod.DESPAWNBEHAVIOR[Vanilla]": "바닐라 (기본값)",
+  "Options.NoTrafficDespawn.NoTrafficDespawn.Mod.DESPAWNBEHAVIOR[DespawnDeadlocksOnly]": "교착시에만 사라짐 (권장함)",
+  "Options.NoTrafficDespawn.NoTrafficDespawn.Mod.DESPAWNBEHAVIOR[DespawnAny]": "교착 또는 긴 대기열시에만 사라짐",
+  "Options.NoTrafficDespawn.NoTrafficDespawn.Mod.DESPAWNBEHAVIOR[NoDespawn]": "모든차량 사라짐 금지 (비권장함)",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.highlightStuckObjects]": "교착된 오브젝트 강조",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.highlightStuckObjects]": "교착된 오브젝트를 발견하면 강조합니다.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.deadlockLingerFrames]": "교착 차량 제거 대기 프레임",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.deadlockLingerFrames]": "교착된것으로 감지된 차량을 제거하기전에 시뮬레이션이 기다리는 프레임 수입니다. 이 숫자를 늘리면 시뮬레이션이 자체적으로 복구할 때까지 기다릴 수 있지만 바닐라값은 0입니다.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.deadlockSearchDepth]": "차량 체인 검색 깊이",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.deadlockSearchDepth]": "원형 루프를 찾기 위해 시뮬레이션에 통과할 차량 수 입니다. '교착시에만 차량 제거' 설정시 제한에 도달하면 아무런 변화가 없으며 그렇지 않다면 차량이 멈춘것으로 표시 됩니다.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectRemovalCount]": "프레임당 교착차량 최대 제거 횟수",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectRemovalCount]": "프레임당 교착된 차량을 제거할 최대 횟수입니다. 이 값을 줄이면 더 적은 수의 차량을 제거하여 시뮬레이션이 교착 상태일때 스스로 복구 할 가능성이 높아집니다.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectSpeed]": "교착 차량 최대 속도",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectSpeed]": "교착 경로에 있는 객체가 트래픽을 방해하지 않을 만큼 빠르다고 간주하는 속도입니다."
+}
