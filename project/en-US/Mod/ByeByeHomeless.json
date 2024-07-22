@@ -1,0 +1,14 @@
+{
+  "Options.SECTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod]": "Bye Bye Homeless",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ActionDelete]": "Delete Instead of Move",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ActionDelete]": "When checked, stuck homeless households will be deleted instead of being forced to move out of the city.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.TickInterval]": "Eviction Period",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.TickInterval]": "The maximum amount of time the homeless have to find a new house or shelter before being evicted. Requires a restart to take effect.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "Evict Ghost Companies",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "[EXPERIMENTAL] When checked, companies without factories or offices will be evicted.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeleteExtraCompanyTickInterval]": "Ghost Companies Eviction Period",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeleteExtraCompanyTickInterval]": "The maximum amount of time the company have to find a property before being evicted. Requires a restart to take effect.",
+  "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M45]": "45 in-game minutes",
+  "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M90]": "90 in-game minutes",
+  "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M180]": "180 in-game minutes"
+}

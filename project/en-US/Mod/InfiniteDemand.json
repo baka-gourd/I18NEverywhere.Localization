@@ -1,6 +1,6 @@
 {
     "Options.SECTION[InfiniteDemand.InfiniteDemand.InfiniteDemand]": "Infinite Demand",
-	"Options.TAB[InfiniteDemand.InfiniteDemand.InfiniteDemand.Infinite Demand Settings]": "Infinite Demand",
+    "Options.TAB[InfiniteDemand.InfiniteDemand.InfiniteDemand.Infinite Demand Settings]": "Infinite Demand",
     "Options.GROUP[InfiniteDemand.InfiniteDemand.InfiniteDemand.DemandShiftGroup]": "Infinite Demand Settings",
     "Options.OPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.EnableSuperFastBuild]": "Use Super Fast Build & Ultimate Demand",
     "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.EnableSuperFastBuild]": "All property types will be built almost instantly. All other demand settings are ignored when this is enabled. Turn off to use game calculations.",
@@ -12,8 +12,8 @@
     "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.HomeBuildingDemand]": "Adjust the demand percentage for for Household Buildings",
     "Options.OPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.EnableCustomCommercialDemand]": "Use Custom Commerical Building Demand",
     "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.EnableCustomCommercialDemand]": "Turn off to use game calculations.",
-    "Options.OPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.CommericalBuildingDemand]": "Commerical Building Demand",
-    "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.CommericalBuildingDemand]": "Adjust the demand percentage for for Commerical Buildings",
+    "Options.OPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.CommercialBuildingDemand]": "Commerical Building Demand",
+    "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.CommercialBuildingDemand]": "Adjust the demand percentage for for Commerical Buildings",
     "Options.OPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.EnableCustomIndustrialDemand]": "Use Custom Industrial Building Demand",
     "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.EnableCustomIndustrialDemand]": "Turn off to use game calculations.",
     "Options.OPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.IndustrialBuildingDemand]": "Industrial Building Demand",

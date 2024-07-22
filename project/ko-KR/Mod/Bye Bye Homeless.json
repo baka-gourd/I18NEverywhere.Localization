@@ -1,0 +1,14 @@
+{
+  "Options.SECTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod]": "노숙자 퇴거(Bye Bye Homeless)",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ActionDelete]": "퇴거 대신 즉시 삭제",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ActionDelete]": "체크시 도시밖으로 강제 이주되는 대신 갇혀 있는 노숙자 가구가 삭제됩니다.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.TickInterval]": "노숙자 대기 기간",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.TickInterval]": "노숙자가 퇴거되기전 새 집이나 쉴 곳을 찾아야되는 최대 시간입니다. 적용하려면 다시 시작해야 합니다.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "유령 회사 퇴거",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "[실험기능] 체크시 회사가 없는 공장이나 사무실이 퇴거됩니다.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeleteExtraCompanyTickInterval]": "유령 회사 대기 기간",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeleteExtraCompanyTickInterval]": "회사가 퇴거되기전 부동산을 찾아야되는 최대 시간입니다. 적용하려면 다시 시작해야 합니다.",
+  "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M45]": "인 게임 45분 마다",
+  "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M90]": "인 게임 90분 마다",
+  "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M180]": "인 게임 180분 마다"
+}
