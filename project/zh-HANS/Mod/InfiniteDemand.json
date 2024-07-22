@@ -12,8 +12,6 @@
   "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.HomeBuildingDemand]": "调整住宅需求百分比",
   "Options.OPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.EnableCustomCommercialDemand]": "启用自定义商业需求",
   "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.EnableCustomCommercialDemand]": "关闭以使用原版计算方式。",
-  "Options.OPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.CommericalBuildingDemand]": "商业需求",
-  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.CommericalBuildingDemand]": "调整商业需求百分比",
   "Options.OPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.EnableCustomIndustrialDemand]": "启用自定义工业需求",
   "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.EnableCustomIndustrialDemand]": "关闭以使用原版计算方式。",
   "Options.OPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.IndustrialBuildingDemand]": "工业需求",
