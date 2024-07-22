@@ -1,16 +1,16 @@
 {
   "Options.SECTION[MoveIt.MoveIt.Mod]": "Move It",
   "Options.GROUP[MoveIt.MoveIt.Mod.General Settings]": "Options générales",
-  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "Inverser la rotation",
-  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.Marquee]": "Boite de sélection",
+  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.Marquee]": "Boîte de sélection",
   "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.Marquee]": "Sélectionnez des objets en cliquant et en faisant glisser une zone de sélection. Raccourci : CTRL+M",
-  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "Définit la direction de la rotation selon la version vanilla dans CS 2. Si la case n'est pas cochée, utilise la direction de rotation de CS 1.",
+  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "Inverser la rotation",
+  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.InvertRotation]": "Définit la direction de la rotation selon la version vanilla dans CS 2. Si la case n’est pas cochée, utilise la direction de rotation de CS 1.",
   "Options.OPTION[MoveIt.MoveIt.Mod.Settings.ExtraDebugLogging]": "Journalisation du débogage étendu",
-  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.ExtraDebugLogging]": "Si vous avez des plantages avec le mode Move It , essayez de cacher l'icone. Activez ou désactivez Move It avec la touche M.",
-  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.HideMoveItIcon]": "Cacher l'icone de Move it",
-  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.HideMoveItIcon]": "Si vous avez des plantages avec le mode Move It , essayez de cacher l'icone. Activez ou désactivez Move It avec la touche M.",
+  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.ExtraDebugLogging]": "Si vous avez des plantages avec le mode Move It, essayez de cacher l’icône. Activez ou désactivez Move It avec la touche M.",
+  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.HideMoveItIcon]": "Cacher l’icône de Move it",
+  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.HideMoveItIcon]": "Si vous avez des plantages avec le mode Move It, essayez de cacher l’icône. Activez ou désactivez Move It avec la touche M.",
   "Options.OPTION[MoveIt.MoveIt.Mod.Settings.ShowDebugPanel]": "Montrer le panneau de débogage",
   "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.ShowDebugPanel]": "Montrer un panneau avec des données techniques pour aider à résoudre les problèmes.",
-  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.SaveLogsToDesktopBtn]": "Sauvegarder les logs sur le Bureau",
-  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.SaveLogsToDesktopBtn]": "Enregistrez un fichier zip sur votre bureau avec les logs du jeu et des mods pour les soumettre avec les rapports de bug. Note : cela inclut votre nom d'utilisateur Windows, votre identifiant Steam, les spécifications du système et le fuseau horaire."
+  "Options.OPTION[MoveIt.MoveIt.Mod.Settings.SaveLogsToDesktopBtn]": "Sauvegarder les journaux (logs) sur le Bureau",
+  "Options.OPTION_DESCRIPTION[MoveIt.MoveIt.Mod.Settings.SaveLogsToDesktopBtn": "Sauvegarder un fichier ZIP sur votre Bureau contenant les journaux (logs) du jeu et des mods avec les rapports de bug. Note : inclut votre nom d’utilisateur Windows, votre identifiant Steam, vos caractéristiques du système et les fuseaux horaires."
 }
