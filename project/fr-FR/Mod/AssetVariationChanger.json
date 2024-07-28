@@ -1,9 +1,12 @@
 {
   "Options.SECTION[AssetVariationChanger.AssetVariationChanger.Mod]": "Asset Variation Changer",
-  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "Raccourci clavier - Variation précédente",
-  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousKeyDropdown]": "Cette touche sera liée à la sélection de la variation précédente de l’objet (redémarrage requis).",
-  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "Raccourci clavier - Variation suivante",
-  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextKeyDropdown]": "Cette touche sera liée à la sélection de la variation suivante de l’objet (redémarrage requis).",
   "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "Activer la sélection de variations",
-  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "Le mod ne fonctionne que si l’option est activée. Si elle est désactivée, le mod est inactif, ce qui est utile pour restaurer le comportement par défaut du jeu de base."
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "Le mod ne fonctionne que si l’option est activée. Si elle est désactivée, le mod est inactif, ce qui est utile pour restaurer le comportement par défaut du jeu de base.",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousVariationBinding]": "Variation précédente",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousVariationBinding]": "Raccourci de clavier pour la sélection précédente",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "Variation suivante",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "Raccourci clavier pour la sélection suivante",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "Activer/Désactiver la sélection de variation",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "Raccourci clavier pour activer ou désactiver le mod sans avoir à ouvrir le menu.",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ResetBindings]": "Réinitialiser les raccourcis clavier"
 }

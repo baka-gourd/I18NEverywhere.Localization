@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[StifferVehicles.StifferVehicles.Mod]": "Stiffer Vehicles",
+  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.StiffnessModifier]": "Modificateur d’inclinaison",
+  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.StiffnessModifier]": "La quantité de mouvement latérale maximale pour tous les véhicules. La valeur du jeu de base est 1, celle par défaut du mod est 3. Des valeurs plus élevées feront moins pencher les véhicules, mais les mouvements pourraient commencer à paraître brusques.",
+  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.DampingModifier]": "Modificateur d’amortissement",
+  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.DampingModifier]": "Le modificateur d’amortissement pour tous les véhicules. La valeur du jeu de base est 1, celle par défaut du mod est 2. Des valeurs plus élevées font rebondir davantage les véhicules. Des valeurs plus basses les rendent plus rigides.",
+  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.ResetToDefault]": "Réinitialiser aux valeurs par défaut",
+  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.ResetToDefault]": "Réinitialiser les modificateurs aux valeurs par défaut du mod."
+}

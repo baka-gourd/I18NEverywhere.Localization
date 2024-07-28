@@ -1,0 +1,22 @@
+{
+  "Options.SECTION[NoTrafficDespawn.NoTrafficDespawn.Mod]": "No Vehicle Despawn",
+  "Options.TAB[NoTrafficDespawn.NoTrafficDespawn.Mod.Main]": "Général",
+  "Options.GROUP[NoTrafficDespawn.NoTrafficDespawn.Mod.Toggle]": "Paramètres de disparition du trafic",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.generalInfo]": "Ce mod configure la disparition automatique des véhicules que le jeu a détectés comme « bloqués ». Le comportement par défaut, sans mod, consiste à vérifier si une chaîne de voitures utilisant les mêmes nœuds de cheminement forme une boucle sans qu’au moins un véhicule ne se déplace à plus de 6 m/s, ou si une chaîne de plus de 100 véhicules ne dépasse pas 6 m/s. L’utilisation recommandée de ce mod désactive la vérification de la longueur de la chaîne de véhicules et définit un délai maximal pour la suppression des blocages. Cela s’applique à tous les objets (voitures, cims, transports en commun). Il n’est pas recommandé de désactiver complètement la disparition.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnBehavior]": "Méthode de disparition des véhicules",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnBehavior]": "La logique générale à utiliser pour déterminer si un objet doit être considéré comme bloqué. « Jeu de base » désactive ce mod et revient au comportement non modifié.",
+  "Options.NoTrafficDespawn.NoTrafficDespawn.Mod.DESPAWNBEHAVIOR[Vanilla]": "Jeu de base (par défaut)",
+  "Options.NoTrafficDespawn.NoTrafficDespawn.Mod.DESPAWNBEHAVIOR[DespawnDeadlocksOnly]": "Supprimer les blocages « en boucle » (recommandé)",
+  "Options.NoTrafficDespawn.NoTrafficDespawn.Mod.DESPAWNBEHAVIOR[DespawnAny]": "Supprimer les blocages « en boucle » ou « de chaîne »",
+  "Options.NoTrafficDespawn.NoTrafficDespawn.Mod.DESPAWNBEHAVIOR[NoDespawn]": "Désactiver toute disparition (NON recommandé)",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.highlightStuckObjects]": "Mise en surbrillance des véhicules bloqués",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.highlightStuckObjects]": "Mise en surbrillance des véhicules qui sont détectés comme bloqués et donc susceptibles d’être supprimés.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.deadlockLingerFrames]": "Délai en ticks avant disparition",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.deadlockLingerFrames]": "Le nombre de ticks que la simulation va laisser passer avant de supprimer les véhicules détectés comme bloqués. Augmenter ce nombre peut permettre à la simulation de se rétablir d'elle-même, mais la valeur par défaut du jeu de base est 0.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.deadlockSearchDepth]": "Profondeur de recherche dans les chaînes de véhicules",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.deadlockSearchDepth]": "Le nombre de véhicules que la simulation parcourra pour trouver une boucle circulaire.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectRemovalCount]": "Quantité maximale de suppressions de véhicules bloqués par tick",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectRemovalCount]": "Le nombre maximum de véhicules bloqués que le jeu supprimera par tick. Réduire cette valeur augmente la probabilité que la simulation se rétablisse d’elle-même en supprimant moins de véhicules.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectSpeed]": "Vitesse minimum pour ne pas être considéré comme bloqué",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectSpeed]": "La vitesse minimale à laquelle le jeu considérera qu’un objet sur une chaîne en blocage potentiel est suffisamment rapide pour ne pas causer de blocage en aval."
+}
