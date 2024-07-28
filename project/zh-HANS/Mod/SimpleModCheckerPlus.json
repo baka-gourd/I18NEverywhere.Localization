@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[SimpleModChecker.SimpleModCheckerPlus.Mod]": "模组检查器+",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ShowNotif]": "显示通知",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ShowNotif]": "启用或禁用在主菜单时显示的通知",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteMissing]": "自动删除丢失 CID 的模组",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteMissing]": "启用或禁用自动删除丢失 CID 的模组",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteCorrupted]": "自动删除错误的设置",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteCorrupted]": "启用或禁用自动删除错误的设置",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.EnableAutoSave]": "在设置丢失时自动开启自动存档",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.EnableAutoSave]": "启用或禁用当游戏设置被以外重置时，自动启用自动存档",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DisableRadio]": "在设置丢失时自动禁用电台",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DisableRadio]": "启用或禁用当游戏设置被以外重置时，自动禁用电台",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ModVersion]": "版本",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ModVersion]": "当前模组版本"
+}
