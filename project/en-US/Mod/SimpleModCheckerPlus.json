@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[SimpleModChecker.SimpleModCheckerPlus.Mod]": "Simple Mod Checker Plus",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ShowNotif]": "Show Notification?",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ShowNotif]": "Enable or disable the Main Menu notification.",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteMissing]": "Auto delete Mods with Missing CIDs?",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteMissing]": "Enable or disable the automatic deletion of mods with missing CIDs.",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteCorrupted]": "Auto delete Corrupted Settings?",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteCorrupted]": "Enable or disable the automatic deletion of corrupted settings.",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.EnableAutoSave]": "Auto enable Auto save on Settings Crash?",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.EnableAutoSave]": "Enable or disable the automatic activation of autosave in the event of accidental game settings reset.",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DisableRadio]": "Auto disable Radio on Settings Crash?",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DisableRadio]": "Enable or disable the automatic deactivation of radio in the event of accidental game settings reset.",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ModVersion]": "Version",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ModVersion]": "Current running version of Simple Mod Checker Plus"
+}
