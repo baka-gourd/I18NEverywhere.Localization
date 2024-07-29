@@ -18,5 +18,20 @@
   "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectRemovalCount]": "프레임당 교착차량 최대 제거 횟수",
   "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectRemovalCount]": "프레임당 교착된 차량을 제거할 최대 횟수입니다. 이 값을 줄이면 더 적은 수의 차량을 제거하여 시뮬레이션이 교착 상태일때 스스로 복구 할 가능성이 높아집니다.",
   "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectSpeed]": "교착 차량 최대 속도",
-  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectSpeed]": "교착 경로에 있는 객체가 트래픽을 방해하지 않을 만큼 빠르다고 간주하는 속도입니다."
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectSpeed]": "교착 경로에 있는 객체가 트래픽을 방해하지 않을 만큼 빠르다고 간주하는 속도입니다.",
+  "Options.GROUP[NoTrafficDespawn.NoTrafficDespawn.Mod.DespawnTypes]": "사라짐 오브젝트 유형",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnAll]": "전부",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnAll]": "교착된 모든 유형의 오브젝트를 사라지게 합니다.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnCommercialVehicles]": "상업용 차량",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnCommercialVehicles]": "배달 트럭과 같은 교착된 상업용 차량을 사라지게 합니다.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPedestrians]": "보행자",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPedestrians]": "교착된 보행자를 사라지게 합니다.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPersonalVehicles]": "개인 차량",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPersonalVehicles]": "교착된 개인 차량을 사라지게 합니다.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnServiceVehicles]": "서비스 / 기타 차량",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnServiceVehicles]": "교착된 구급차, 쓰레기차 같은 서비스 차량과 카테고리에 속하지 않은 기타 차량을 사라지게 합니다.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnTaxis]": "택시",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnTaxis]": "교착된 택시를 사라지게 합니다.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPublicTransit]": "대중 교통",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPublicTransit]": "교착된 대중 교통을 사라지게 합니다 (버스, 트램, 기차 등)."
 }
