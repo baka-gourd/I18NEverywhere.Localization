@@ -18,5 +18,20 @@
   "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectRemovalCount]": "Max Per-frame Stuck Vehicle Removal Count",
   "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectRemovalCount]": "The maximum number of stuck vehicles the game will move per frame. Decreasing this value increases the chance the simulation will recover from deadlocks on its own with fewer vehicles removed.",
   "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectSpeed]": "Max Stuck Vehicle Speed",
-  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectSpeed]": "The maximum speed at which the game will consider an object in a blocking path to be fast enough to not cause upstream traffic to be stuck."
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectSpeed]": "The maximum speed at which the game will consider an object in a blocking path to be fast enough to not cause upstream traffic to be stuck.",
+  "Options.GROUP[NoTrafficDespawn.NoTrafficDespawn.Mod.DespawnTypes]": "Despawn Object Types",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnAll]": "All",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnAll]": "Despawn stuck objects of any type.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnCommercialVehicles]": "Commercial Vehicles",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnCommercialVehicles]": "Despawn stuck commercial vehicles such as delivery trucks.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPedestrians]": "Pedestrians",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPedestrians]": "Despawn stuck pedestrians.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPersonalVehicles]": "Personal Vehicles",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPersonalVehicles]": "Despawn stuck personal vehicles.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnServiceVehicles]": "Service / Misc Vehicles",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnServiceVehicles]": "Despawn stuck service vehicles such ambulances, garbage trucks, etc and other vehicles not covered by other categories.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnTaxis]": "Taxis",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnTaxis]": "Despawn stuck taxis.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPublicTransit]": "Public Transit",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPublicTransit]": "Despawn stuck public transit vehicles (buses, trams, trains, etc)."
 }
