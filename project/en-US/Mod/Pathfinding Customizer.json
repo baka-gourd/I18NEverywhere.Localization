@@ -15,8 +15,6 @@
   "Options.OPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.CrossingSlider]": "Crosswalk cost",
   "Options.OPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.SpawnSlider]": "Spawn cost",
   "Options.OPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.WalkingSlider]": "Walking cost",
-  "Options.OPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.Note]": "Note:",
-  "Options.OPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.ImportantNote]": "Important Note:",
   "Options.OPTION_DESCRIPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.UnsafeTurningSlider]": "Default is 100%. Increasing this value will make vehicles avoid unsafe turns more frequently. Higher values will lead to more cautious driving behavior, reducing the likelihood of unsafe turns.",
   "Options.OPTION_DESCRIPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.UnsafeUTurnSlider]": "Default is 100%. Increasing this value will make vehicles avoid unsafe U-turns more frequently. Higher values will lead to more cautious behavior, reducing the likelihood of unsafe U-turns.",
   "Options.OPTION_DESCRIPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.ForbiddenSlider]": "Default is 100%. Increasing this value will make vehicles avoid forbidden turns more frequently. Higher values will lead to more cautious behavior, reducing the likelihood of forbidden turns.",
@@ -29,6 +27,4 @@
   "Options.OPTION_DESCRIPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.CrossingSlider]": "Default is 100%. Increasing this value will make pedestrians avoid crosswalks more frequently. Higher values will lead to more cautious behavior, reducing the likelihood of using crosswalks.",
   "Options.OPTION_DESCRIPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.SpawnSlider]": "Default is 100%. Increasing this value will make pedestrians avoid spawning more frequently. Higher values will lead to more cautious behavior, reducing the likelihood of spawning.",
   "Options.OPTION_DESCRIPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.WalkingSlider]": "Default is 100%. Increasing this value will make pedestrians avoid walking more frequently. Higher values will lead to more cautious behavior, reducing the likelihood of walking.",
-  "Options.OPTION_DESCRIPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.Note]": "The game needs a restart to apply the changes.",
-  "Options.OPTION_DESCRIPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.ImportantNote]": "These settings multiply the default values of all vehicles. The default value is 100%."
 }
