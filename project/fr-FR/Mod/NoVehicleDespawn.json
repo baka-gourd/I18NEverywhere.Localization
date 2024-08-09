@@ -18,5 +18,20 @@
   "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectRemovalCount]": "Quantité maximale de suppressions de véhicules bloqués par tick",
   "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectRemovalCount]": "Le nombre maximum de véhicules bloqués que le jeu supprimera par tick. Réduire cette valeur augmente la probabilité que la simulation se rétablisse d’elle-même en supprimant moins de véhicules.",
   "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectSpeed]": "Vitesse minimum pour ne pas être considéré comme bloqué",
-  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectSpeed]": "La vitesse minimale à laquelle le jeu considérera qu’un objet sur une chaîne en blocage potentiel est suffisamment rapide pour ne pas causer de blocage en aval."
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.maxStuckObjectSpeed]": "La vitesse minimale à laquelle le jeu considérera qu’un objet sur une chaîne en blocage potentiel est suffisamment rapide pour ne pas causer de blocage en aval.",
+  "Options.GROUP[NoTrafficDespawn.NoTrafficDespawn.Mod.DespawnTypes]": "Le type d'objet à faire disparaitre",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnAll]": "Tous",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnAll]": "Faire disparaitre tous les types d'objets bloqués.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnCommercialVehicles]": "Véhicules commerciaux",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnCommercialVehicles]": "Faire disparaitre les véhicules commerciaux bloqués tels que des camions de livraison.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPedestrians]": "Piétons",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPedestrians]": "Faire disparaitre les piétons bloqués.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPersonalVehicles]": "Véhicules personnels",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPersonalVehicles]": "Faire disparaitre les véhicules personnels bloqués.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnServiceVehicles]": "Véhicules d'entretien / Divers",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnServiceVehicles]": "Faire disparaitre les véhicules de service bloqués tels que les ambulances, les camions de poubelles, etc. et les autres véhicules non couverts par d'autres catégories.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnTaxis]": "Taxis",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnTaxis]": "Faire disparaitre les taxis bloqués.",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPublicTransit]": "Transport public",
+  "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnPublicTransit]": "Faire disparaitre les véhicules de transport public bloqués (autobus, tramway, trains, etc)."
 }

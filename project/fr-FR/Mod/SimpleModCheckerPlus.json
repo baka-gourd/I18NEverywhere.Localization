@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[SimpleModChecker.SimpleModCheckerPlus.Mod]": "Simple Mod Checker Plus",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ShowNotif]": "Montrer la notification?",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ShowNotif]": "Active ou désactive la notification du menu principal.",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteMissing]": "Suppression automatique des mods dont les CID (Identifiant de contenu) sont manquants?",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteMissing]": "Active ou désactive la suppression automatique des mods dont les CID sont manquants.",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteCorrupted]": "Suppression automatique des paramètres corrompus ?",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteCorrupted]": "Active ou désactive la suppression automatique des paramètres corrompus.",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.EnableAutoSave]": "Activation de l'enregistrement automatique en cas de crash des paramètres?",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.EnableAutoSave]": "Activer ou désactiver l'activation automatique de la sauvegarde automatique en cas de réinitialisation accidentelle des paramètres du jeu.",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DisableRadio]": "Désactivation automatique de la radio en cas de crash des paramètres?",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DisableRadio]": "Activer ou désactiver la désactivation automatique de la radio en cas de réinitialisation accidentelle des paramètres du jeu.",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ModVersion]": "Version",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ModVersion]": "Version actuelle de Simple Mod Checker Plus"
+}
