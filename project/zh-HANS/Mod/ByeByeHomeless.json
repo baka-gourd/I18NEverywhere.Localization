@@ -1,14 +1,14 @@
 {
   "Options.SECTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod]": "再见了，流浪汉",
   "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ActionDelete]": "以删除代替驱逐",
-  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ActionDelete]": "勾选后，无家可归的人将被删除，而不是被迫迁出城市。",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ActionDelete]": "启用此选项后，无家可归的人将被删除，而不是被迫迁出城市。",
   "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.TickInterval]": "驱逐间隔",
   "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.TickInterval]": "如果没有在该期限内找到新住所，流浪汉就会被驱逐出城。重启后生效。",
   "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M45]": "游戏内 45 分钟",
   "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M90]": "游戏内 90 分钟",
   "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M180]": "游戏内 180 分钟",
   "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "驱逐幽灵公司",
-  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "[实验性] 启用后，没有工厂/办公室的公司将会被驱逐。",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "[实验性] 启用后，没有拥有工厂/办公楼的公司将会被驱逐。",
   "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeleteExtraCompanyTickInterval]": "幽灵公司驱逐间隔",
   "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeleteExtraCompanyTickInterval]": "如果没有在该期限内找到新办公地点，公司就会被驱逐出城。重启后生效。"
 }

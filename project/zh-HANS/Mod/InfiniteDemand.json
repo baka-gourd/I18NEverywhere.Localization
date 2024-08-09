@@ -21,5 +21,7 @@
   "Options.OPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.OfficeBuildingDemand]": "办公需求",
   "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.OfficeBuildingDemand]": "调整办公需求百分比",
   "Options.OPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.Button]": "重置所有设置",
-  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.Button]": "将所有值重置为默认值（100%）"
+  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.Button]": "将所有值重置为默认值（100%）",
+  "Options.OPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.CommercialBuildingDemand]": "商业需求",
+  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.InfiniteDemand.Setting.CommercialBuildingDemand]": "调整商业需求百分比"
 }

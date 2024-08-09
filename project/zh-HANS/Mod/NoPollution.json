@@ -1,6 +1,6 @@
 {
   "Options.SECTION[NoPollution.NoPollution.Mod]": "无污染",
-  "Options.GROUP[NoPollution.NoPollution.Mod.Resetting]": "清空噪音污染",
+  "Options.GROUP[NoPollution.NoPollution.Mod.Resetting]": "清除噪音污染",
   "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.NoisePollutionReset]": "噪音污染",
   "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.NoisePollutionReset]": "使用该按钮以清空噪音污染",
   "Options.GROUP[NoPollution.NoPollution.Mod.PollutionToggles]": "污染类型",

@@ -3,10 +3,10 @@
   "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "启用变体选择",
   "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "启用后模组生效，禁用则不会生效。这对想获得原版的随机行为的人很有帮助。",
   "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousVariationBinding]": "上一变体",
-  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousVariationBinding]": "该按键将被用于切换上一资产变体",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousVariationBinding]": "切换到该资产的上一个变体的快捷键",
   "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "下一变体",
-  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "该按键将被用于切换下一资产变体",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "切换到该资产的下一个变体的快捷键",
   "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "切换资产变体更改启用状态",
-  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "使用该按键在不开启菜单的情况下更改启用状态",
-  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ResetBindings]": "重置按键绑定"
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "使用此快捷键无需打开面板即可切换启用状态",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ResetBindings]": "重置快捷键"
 }

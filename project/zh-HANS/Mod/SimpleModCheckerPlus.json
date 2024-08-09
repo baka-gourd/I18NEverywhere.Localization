@@ -1,7 +1,7 @@
 {
   "Options.SECTION[SimpleModChecker.SimpleModCheckerPlus.Mod]": "模组检查器+",
   "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ShowNotif]": "显示通知",
-  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ShowNotif]": "启用或禁用在主菜单时显示的通知",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ShowNotif]": "启用或禁用主菜单页面的通知。",
   "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteMissing]": "自动删除丢失 CID 的模组",
   "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteMissing]": "启用或禁用自动删除丢失 CID 的模组",
   "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteCorrupted]": "自动删除错误的设置",

@@ -1,4 +1,4 @@
-﻿{
+{
   "extendedtooltip.common.range_minmax_value_money": "[最小值 {SIGN0} ¢{VALUE0}] — [最大值 {SIGN1} ¢{VALUE1}]",
   "extendedtooltip.common.range_value_money": "{SIGN0} ¢{VALUE0} — {SIGN1} ¢{VALUE1}",
   "extendedtooltip.anarchyMode": "Anarchy",
@@ -29,7 +29,7 @@
   "extendedtooltip.setting.toolSystem.description": "启用不同工具系统的工具提示",
   "extendedtooltip.setting.toolSystem.anarchyMode": "Anarchy 状态",
   "extendedtooltip.setting.toolSystem.anarchyMode.description": "在启用 Anarchy 后显示一个指示",
-
+  "SelectedInfoPanel.CAR_OCCUPANTS": "乘客",
   "Options.SECTION[ExtendedTooltip.ExtendedTooltip.Mod]": "拓展提示",
   "Options.TAB[ExtendedTooltip.ExtendedTooltip.Mod.TAB_GENERAL]": "通用设置",
   "Options.TAB[ExtendedTooltip.ExtendedTooltip.Mod.TAB_TOOLTIPS]": "提示设置",
@@ -44,27 +44,23 @@
   "Options.GROUP[ExtendedTooltip.ExtendedTooltip.Mod.GRP_EDUCATION]": "教育",
   "Options.GROUP[ExtendedTooltip.ExtendedTooltip.Mod.GRP_GROWABLES]": "自长建筑",
   "Options.GROUP[ExtendedTooltip.ExtendedTooltip.Mod.GRP_VEHICLES]": "车辆",
-
   "Options.ExtendedTooltip.ExtendedTooltip.Mod.DISPLAYMODE[Instant]": "即时",
   "Options.ExtendedTooltip.ExtendedTooltip.Mod.DISPLAYMODE[Delayed]": "延迟",
   "Options.ExtendedTooltip.ExtendedTooltip.Mod.DISPLAYMODE[Hotkey]": "快捷键",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayMode]": "显示模式",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayMode]": "选择不同的提示显示方式",
+  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeHotkey]": "显示快捷键",
+  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeHotkey]": "仅当此按键按下后才会显示拓展信息。",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeDelay]": "延迟",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeDelay]": "设置提示的显示延迟",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeDelayOnMoveables]": "对于可移动实体启用延迟",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeDelayOnMoveables]": "对市民、车辆等可移动实体也启用延迟",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.UseExtendedLayout]": "拓展布局",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.UseExtendedLayout]": "启用第二布局，以便更有条理地显示提示",
-
-  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.HideRandomAssets]": "",
-  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.HideRandomAssets]": "",
-
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowEfficiency]": "建筑效率",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowEfficiency]": "显示建筑效率百分比",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowLandValue]": "建筑地价",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowLandValue]": "显示建筑的地价",
-
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowCitizen]": "启用市民提示",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowCitizen]": "悬停在市民上时启用提示",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowCitizenState]": "市民状态",
@@ -77,7 +73,6 @@
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowCitizenWealth]": "显示选定市民的资产水平",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowCitizenType]": "市民类型",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowCitizenType]": "显示选定市民的类型",
-
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowCompanyOutput]": "企业产出",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowCompanyOutput]": "显示企业的产出信息",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowEmployee]": "企业雇员",
@@ -90,27 +85,23 @@
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowCompanyProfitability]": "显示所选建筑物中企业的效益",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowCompanyProfitabilityAbsolute]": "企业盈利绝对值",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowCompanyProfitabilityAbsolute]": "显示从 -255 到 255 的绝对值以代替百分比",
-
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowPark]": "启用公园提示",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowPark]": "管理公园与休闲的提示",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowParkMaintenance]": "公园维护水平",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowParkMaintenance]": "显示当前的公园维护水平",
-
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowParkingFacility]": "启用停车场提示",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowParkingFacility]": "管理停车设施的提示",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowParkingFees]": "停车费",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowParkingFees]": "显示当前的停车费",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowParkingCapacity]": "停车场容量",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowParkingCapacity]": "显示占用和空闲的停车位",
-
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowPublicTransport]": "启用公共交通提示",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowPublicTransport]": "管理公共交通的提示",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowPublicTransportWaitingTime]": "车站等待时间",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowPublicTransportWaitingTime]": "显示车站的平均等待时间",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowPublicTransportWaitingPassengers]": "车站等待乘客",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowPublicTransportWaitingPassengers]": "显示当前等待乘客",
-
-  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowRoad]": "启用道理提示",
+  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowRoad]": "启用道路提示",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowRoad]": "管理在道路上悬停时的提示",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowRoadLength]": "道路长度",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowRoadLength]": "显示所选道路的长度",
@@ -118,12 +109,10 @@
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowRoadUpkeep]": "显示所选道路的维护费用",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowRoadCondition]": "道路状况",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowRoadCondition]": "显示所选道路的状况",
-
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowEducation]": "教育建筑",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowEducation]": "管理教育建筑的提示",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowEducationStudentCapacity]": "学生容量",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowEducationStudentCapacity]": "显示中小学和大学的目前在读人数和剩余名额",
-
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowGrowables]": "启用自长建筑提示",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowGrowables]": "启用自长建筑提示",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowGrowablesHousehold]": "自长建筑中的家庭",
@@ -142,11 +131,12 @@
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowGrowablesRent]": "显示所选建筑物的当前租金。",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowGrowablesBalance]": "自长建筑盈余",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowGrowablesBalance]": "显示所选建筑物的盈余",
-
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolSystem]": "道路工具",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolSystem]": "启用道路工具提示",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolUnits]": "显示单位长度",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolUnits]": "显示道路片段长度",
+  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ToggleShowNetToolUnits]": "切换是否显示单位",
+  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ToggleShowNetToolUnits]": "切换是否显示单位的快捷键",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolMode]": "道路工具模式",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolMode]": "显示正在使用的模式（直线、曲线等）",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowNetToolElevation]": "道路工具海拔",
@@ -155,7 +145,6 @@
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowTerrainToolHeight]": "显示地形工具当前的高度",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowWaterToolHeight]": "水源工具高度",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowWaterToolHeight]": "显示水源工具当前的高度",
-
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowVehicle]": "启用车辆信息",
   "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowVehicle]": "管理在汽车、卡车、出租车等车辆上悬停时的提示",
   "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.ShowVehicleState]": "车辆状态",
