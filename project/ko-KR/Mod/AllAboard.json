@@ -1,0 +1,11 @@
+{
+  "Options.SECTION[AllAboard.AllAboard.Mod]": "모두 탑승!(All Aboard!)",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "열차 최대 정차 지연 (게임 내 분)",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "기차(지하철, 트램)가 예정된 출발 프레임을 넘어 '정차' 하고 있을 최대(게임 내) 시간입니다.",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "버스 최대 정차 지연 (게임 내 분)",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "버스가 예정된 출발 프레임을 넘어 '정차' 하고 있을 최대(게임 내) 시간입니다.",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TestPathfindingCleanup]": "실험적 경로 찾기 정리",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TestPathfindingCleanup]": "열차가 출발하면 승객을 정리하려고 시도합니다. 기능을 테스트하는 경우가 아니라면 이 기능을 활성화하지 마십시오.",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.ApplyButton]": "적용",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.ApplyButton]": "설정을 적용합니다"
+}
