@@ -1,0 +1,11 @@
+{
+  "Options.SECTION[AllAboard.AllAboard.Mod]": "All Aboard!",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "Train Maximum Dwell Delay (in-game minutes)",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "Maximum amount of (in-game) time to allow a Train (Subway, Tram) to 'dwell' beyond its scheduled departure frame. ",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "Bus Maximum Dwell Delay (in-game minutes)",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "Maximum amount of (in-game) time to allow a Bus to 'dwell' beyond its scheduled departure frame. ",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TestPathfindingCleanup]": "Experimental Pathfinding Cleanup",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TestPathfindingCleanup]": "Attempt to clean up passengers after forcing train to depart. Do not enable this unless you are testing the functionality.",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.ApplyButton]": "Apply",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.ApplyButton]": "Apply Settings"
+}
