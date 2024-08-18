@@ -15,11 +15,15 @@
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.EnableRerouteDistance]": "更改导航探测距离。在原版中，车辆可以探测 4000 个节点内的停车位。停车位变动会导致车辆在主路上随意的掉头。该选项的目的就是要减少这种情况，让汽车只在较近的距离内发现无法停车。",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.RerouteDistance]": "导航探测节点距离",
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.RerouteDistance]": "导航能够探测停车位的最大距离。原版值为 4000。",
-  "Options.GROUP[RealisticParking.RealisticParking.Mod.Garage Spots]": "车库",
+  "Options.GROUP[RealisticParking.RealisticParking.Mod.Garage Spots]": "最少停车位",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerResProp]": "住宅车库数量",
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerResProp]": "公寓内每栋楼的车库数量。没有车库的公寓不会受到影响。",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerWorker]": "员工车库比",
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerWorker]": "房屋中员工与车库的比例。不会影响没有车库/非独特建筑的建筑。",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.SetGarageCapacitiesButton]": "设置车库容量",
-  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.SetGarageCapacitiesButton]": "设置自定义车库容量"
+  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.SetGarageCapacitiesButton]": "设置自定义车库容量",
+  "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.EnableParkingMins]": "启用最少停车位",
+  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.EnableParkingMins]": "启用最少停车位。启用后，最少停车位数值将会替换原版数值。原版公寓最多有 3 个停车位，办公楼则有 30 个。",
+  "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.ResetButton]": "重置设置",
+  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.ResetButton]": "将设置重置为默认值"
 }
