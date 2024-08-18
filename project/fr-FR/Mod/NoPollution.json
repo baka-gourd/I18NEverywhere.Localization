@@ -1,26 +1,3 @@
 {
-  "Options.SECTION[NoPollution.NoPollution.Mod]": "No Pollution",
-  "Options.GROUP[NoPollution.NoPollution.Mod.Resetting]": "Réinitialiser No Pollution",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.NoisePollutionReset]": "Pollution sonore",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.NoisePollutionReset]": "Ce bouton réinitialisera la pollution sonore.",
-  "Options.GROUP[NoPollution.NoPollution.Mod.PollutionToggles]": "Activer/désactiver les types de pollution",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.NoisePollution]": "Pollution sonore",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.NoisePollution]": "Activer la pollution sonore.",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.NetPollution]": "Pollution routière",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.NetPollution]": "Active la pollution routière.",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.BuildingPollution]": "Pollution des bâtiments",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.BuildingPollution]": "Active la pollution des bâtiments. Les bâtiments étant la principale source de différents types de pollutions, cette option doit-être activée pour que la plupart des autres types de pollution fonctionnent.",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.GroundPollution]": "Pollution du sol",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.GroundPollution]": "Activer la pollution du sol. Désactiver cette option supprimera la pollution du sol déjà existante.",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.GroundWaterPollution]": "Pollution des eaux souterraines",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.GroundWaterPollution]": "Active la pollution des eaux souterraines.",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPipePollution]": "Pollution des canalisations d’eau",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPipePollution]": "Active la pollution des canalisations d’eau.",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.AirPollution]": "Pollution de l’air",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.AirPollution]": "Active la pollution de l’air.",
-  "Options.GROUP[NoPollution.NoPollution.Mod.WaterPollution]": "Paramètres de pollution de l’eau",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayInstant]": "Taux de dégradation instantané",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayInstant]": "Activez cette option pour que la pollution de l’eau disparaisse immédiatement.",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayRate]": "Taux de dégradation de la pollution des eaux",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayRate]": "Ajuste la vitesse à laquelle la pollution des eaux se dissipe (0 à 100). 10 est la vitesse par défaut du mod et du jeu. En-dessous de 10, la pollution se dégrade plus lentement et au-dessus, plus vite."
+  "Options.SECTION[NoPollution.NoPollution.Mod]": "No Pollution"
 }

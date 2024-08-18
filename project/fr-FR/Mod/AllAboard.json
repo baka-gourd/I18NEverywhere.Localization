@@ -1,0 +1,11 @@
+{
+  "Options.SECTION[AllAboard.AllAboard.Mod]": "All Aboard!",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "Délai d’attente maximal des trains (en minutes de jeu)",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "Durée maximale (en temps de jeu) autorisée pour qu’un train (métro, tramway) reste en gare au-delà de son horaire de départ prévu.",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "Délai d’attente maximal des bus (en minutes de jeu)",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "Durée maximale (en temps de jeu) autorisée pour qu’un bus reste à l’arrêt au-delà de son horaire de départ prévu.",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TestPathfindingCleanup]": "Nettoyage expérimental des passagers",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TestPathfindingCleanup]": "Essaye de nettoyer les itinéraires (de pathfinding) des passagers après avoir forcé un train à partir. N’activez pas cette option, sauf si vous testez cette fonctionnalité.",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.ApplyButton]": "Appliquer",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.ApplyButton]": "Appliquer les paramètres"
+}
