@@ -15,11 +15,15 @@
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.EnableRerouteDistance]": "Enable reroute distance change for car navigation. In the vanilla system, a car can sense that the parking spot they are navigating to is full up to 4000 nodes away. This causes random u-turns on main roads, as they will suddenly change parking destinations while driving. This system aims to get rid of that by only letting the car sense that the parking is unavailable from a closer distance.",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.RerouteDistance]": "Reroute Node Distance",
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.RerouteDistance]": "Number of nodes away for cars to reroute based on parking availability. For reference, the vanilla value is 4000.",
-  "Options.GROUP[RealisticParking.RealisticParking.Mod.Garage Spots]": "Garage Spots",
+  "Options.GROUP[RealisticParking.RealisticParking.Mod.Garage Spots]": "Parking Minimums",
+  "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.EnableParkingMins]": "Enable Parking Minimums for Garages",
+  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.EnableParkingMins]": "Enable parking minimums for garages. If enabled, custom garage capacities will replace vanilla values. Vanilla apartments have upwards of 3 spots and offices have around 30.",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerResProp]": "Garage Spots per Household",
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerResProp]": "The number of garage spots per household in the apartment. Apartments with no garage in the asset are not affected.",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerWorker]": "Garage Spots per Worker",
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerWorker]": "The number of garage spots per worker in the property. Non-RICO buildings are not affected. Properties with no garage in the asset are not affected.",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.SetGarageCapacitiesButton]": "Set Garage Capacities",
-  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.SetGarageCapacitiesButton]": "Sets custom garage capacities."
+  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.SetGarageCapacitiesButton]": "Set garage capacities based on current settings.",
+  "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.ResetButton]": "Reset Settings",
+  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.ResetButton]": "Reset settings to default values."
 }
