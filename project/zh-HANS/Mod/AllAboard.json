@@ -1,0 +1,11 @@
+{
+  "Options.SECTION[AllAboard.AllAboard.Mod]": "准备出发！",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "列车最大等待时间（游戏内时间）",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "列车（地铁、电车）等待的最大时间（游戏内）。",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "公交最大等待时间（游戏内时间）",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "公交等待的最大时间（游戏内）。",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TestPathfindingCleanup]": "实验性的清除寻路",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TestPathfindingCleanup]": "在列车发车后尝试清除乘客。不要开启！除非你正在测试这个功能。",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.ApplyButton]": "应用",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.ApplyButton]": "应用设置"
+}

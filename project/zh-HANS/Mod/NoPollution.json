@@ -1,26 +1,5 @@
 {
   "Options.SECTION[NoPollution.NoPollution.Mod]": "无污染",
-  "Options.GROUP[NoPollution.NoPollution.Mod.Resetting]": "清除噪音污染",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.NoisePollutionReset]": "噪音污染",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.NoisePollutionReset]": "使用该按钮以清空噪音污染",
-  "Options.GROUP[NoPollution.NoPollution.Mod.PollutionToggles]": "污染类型",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.NoisePollution]": "噪音污染",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.NoisePollution]": "是否允许产生噪音污染（勾选表示允许，不勾选则消除现有污染并禁用）",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.NetPollution]": "道路污染",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.NetPollution]": "是否允许道路产生污染（勾选表示允许）",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.BuildingPollution]": "建筑污染",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.BuildingPollution]": "是否允许建筑产生污染（勾选表示允许，大部分其他污染项依赖于此）",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.GroundPollution]": "土地污染",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.GroundPollution]": "是否开启土地污染（勾选表示开启，不勾选则消除现有污染并禁用）",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.GroundWaterPollution]": "地下水污染",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.GroundWaterPollution]": "是否开启地下水污染（勾选表示开启）",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPipePollution]": "水管污染",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPipePollution]": "是否允许水管产生污染（勾选表示允许）",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.AirPollution]": "空气污染",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.AirPollution]": "是否开启产生空气污染（勾选表示开启，不勾选则消除现有污染并禁用）",
-  "Options.GROUP[NoPollution.NoPollution.Mod.WaterPollution]": "水污染设置",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayInstant]": "瞬间衰减",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayInstant]": "开启此功能可永久禁止水污染",
-  "Options.OPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayRate]": "水污染衰减率",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.ModSettings.WaterPollutionDecayRate]": "调整水污染的衰减速度 (0 - 100)。小于 10 则比原版慢，大于 10 则比原版快。"
+  "Options.TAB[NoPollution.NoPollution.Mod.Main]": "主要",
+  "Options.TAB[NoPollution.NoPollution.Mod.Parameters]": "参数"
 }
