@@ -1,14 +1,23 @@
 {
-    "Options.SECTION[ExtendedTooltip.ExtendedTooltip.Mod]": "툴팁 확장(Extended Tooltip)",
-	"Options.TAB[ExtendedTooltip.ExtendedTooltip.Mod.TAB_GENERAL]": "일반 설정",
-	"Options.TAB[ExtendedTooltip.ExtendedTooltip.Mod.TAB_TOOLTIPS]": "툴팁 설정",
-	
-	"Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeHotkey]": "표시 모드 단축키",
-	"Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeHotkey]": "단축키를 눌렀을때만 툴팁이 표시됩니다.",
-	"Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeDelayOnMoveables]": "이동 물체 지연",
-	"Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeDelayOnMoveables]": "이동중인 차량과 시민 또한 지연하여 표시합니다.",
-	
-	"Options.GROUP[ExtendedTooltip.ExtendedTooltip.Mod.GRP_GENERAL]": "일반",
+  "Options.SECTION[ExtendedTooltip.ExtendedTooltip.Mod]": "툴팁 확장(Extended Tooltip)",
+  "Options.TAB[ExtendedTooltip.ExtendedTooltip.Mod.TAB_GENERAL]": "일반 설정",
+  "Options.TAB[ExtendedTooltip.ExtendedTooltip.Mod.TAB_TOOLTIPS]": "툴팁 설정",
+
+  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.UseExtendedLayout]": "확장된 레이아웃",
+  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.UseExtendedLayout]": "더 구체적인 설명을 위해 두번째 레이아웃을 활성화합니다.",
+  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayMode]": "표시 선택",
+  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayMode]": "툴팁을 어떠한 방식으로 표시할 것인지 선택합니다.",
+  "Options.ExtendedTooltip.ExtendedTooltip.Mod.DISPLAYMODE[Instant]": "즉시",
+  "Options.ExtendedTooltip.ExtendedTooltip.Mod.DISPLAYMODE[Delayed]": "지연됨",
+  "Options.ExtendedTooltip.ExtendedTooltip.Mod.DISPLAYMODE[Hotkey]": "단축키만",
+  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeHotkey]": "표시 모드 단축키",
+  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeHotkey]": "단축키를 눌렀을때만 툴팁이 표시됩니다.",
+  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeDelay]": "지연 시간",
+  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeDelay]": "툴팁 확장이 설정된 시간만큼 지연되어 표시됩니다.",
+  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeDelayOnMoveables]": "이동 물체 지연",
+  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.ModSettings.DisplayModeDelayOnMoveables]": "이동중인 차량과 시민 또한 지연하여 표시합니다.",
+
+  "Options.GROUP[ExtendedTooltip.ExtendedTooltip.Mod.GRP_GENERAL]": "일반",
   "Options.GROUP[ExtendedTooltip.ExtendedTooltip.Mod.GRP_COMPANY]": "회사",
   "Options.GROUP[ExtendedTooltip.ExtendedTooltip.Mod.GRP_TOOLS]": "도구",
   "Options.GROUP[ExtendedTooltip.ExtendedTooltip.Mod.GRP_CITIZEN]": "시민",
