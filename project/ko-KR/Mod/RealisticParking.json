@@ -16,10 +16,14 @@
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.RerouteDistance]": "경로 탐지 노드 거리",
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.RerouteDistance]": "주차 가능 여부에 따라 차량이 경로 변경을 시작 할 수 있는 노드 수 입니다. 바닐라 값은 4000입니다.",
   "Options.GROUP[RealisticParking.RealisticParking.Mod.Garage Spots]": "차고 공간",
+  "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.EnableParkingMins]": "최소 주차 공간값 활성화",
+  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.EnableParkingMins]": "최소 주차 공간값을 활성화합니다. 활성화되면 사용자 지정 차고 용량이 바닐라 값을 대체하게됩니다. 바닐라 아파트는 3개 이상의 주차 공간이 있으며 사무실은 30개가 있습니다.",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerResProp]": "가구당 차고 공간",
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerResProp]": "아파트와 같은 주거공간의 차고 공간 수 입니다. 건물 에셋에 차고가 없는 아파트는 영향을 받지 않습니다.",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerWorker]": "근로자당 차고 공간",
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerWorker]": "근로자가 있는 건물의 차고 공간 수 입니다. RICO가 아닌 건물은 영향을 받지 않습니다. 건물 에셋에 차고가 없는 건물은 영향을 받지 않습니다.",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.SetGarageCapacitiesButton]": "차고 용량 적용",
-  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.SetGarageCapacitiesButton]": "커스텀 차고 용량을 적용합니다."
+  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.SetGarageCapacitiesButton]": "커스텀 차고 용량을 적용합니다.",
+  "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.ResetButton]": "설정 초기화",
+  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.ResetButton]": "설정을 기본값으로 초기화합니다."
 }
