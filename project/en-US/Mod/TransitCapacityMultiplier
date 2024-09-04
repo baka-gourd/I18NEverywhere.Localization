@@ -1,0 +1,19 @@
+{
+  "Options.SECTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod]": "Transit Capacity Multiplier",
+  "Options.TAB[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.CapacitySection]": "Main",
+  "Options.GROUP[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.CapacityGroup]": "Transit Vehicle Capacity",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.BusSlider]": "Bus",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TaxiSlider]": "Taxi",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.SubwaySlider]": "Subway",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TramSlider]": "Tram",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TrainSlider]": "Train",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.AirplaneSlider]": "Airplane",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.ShipSlider]": "Ship",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.BusSlider]": "Set the vehicle capacity of bus vehicles relative to their vanilla capacity.",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TaxiSlider]": "Set the vehicle capacity of taxi vehicles relative to their vanilla capacity.",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.SubwaySlider]": "Set the vehicle capacity of subway vehicles relative to their vanilla capacity.",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TramSlider]": "Set the vehicle capacity of tram vehicles relative to their vanilla capacity.",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TrainSlider]": "Set the vehicle capacity of train vehicles relative to their vanilla capacity.",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.AirplaneSlider]": "Set the vehicle capacity of airplane vehicles relative to their vanilla capacity.",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.ShipSlider]": "Set the vehicle capacity of ship vehicles relative to their vanilla capacity."
+}
