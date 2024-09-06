@@ -11,5 +11,9 @@
 	"Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TramSlider]": "트램",
 	"Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TramSlider]": "바닐라 차량 기본값 대비 비율로 수정합니다.",
 	"Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TrainSlider]": "기차",
-	"Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TrainSlider]": "바닐라 차량 기본값 대비 비율로 수정합니다."
+	"Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TrainSlider]": "바닐라 차량 기본값 대비 비율로 수정합니다.",
+	"Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.AirplaneSlider]": "비행기",
+	"Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.AirplaneSlider]": "바닐라 차량 기본값 대비 비율로 수정합니다.",
+	"Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.ShipSlider]": "배",
+	"Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.ShipSlider]": "바닐라 차량 기본값 대비 비율로 수정합니다."
 }
