@@ -1,9 +1,9 @@
 {
-    "Options.SECTION[AssetIconLibrary.AssetIconLibrary.Mod]": "Asset Icon Library",
-    "Options.TAB[AssetIconLibrary.AssetIconLibrary.Mod.Main]": "Main",
-    "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Settings]": "Settings",
-    "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "Overwrite Existing Icons",
-    "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "While enabled, Asset Icon Library will overwrite vanilla icons and icons from other mods when available.",
-    "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Open Custom Thumbnails Folder",
-    "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Add personal custom thumbnails to use over the vanilla or 'Asset Icon Library' icons."
+  "Options.SECTION[AssetIconLibrary.AssetIconLibrary.Mod]": "Asset Icon Library",
+  "Options.TAB[AssetIconLibrary.AssetIconLibrary.Mod.Main]": "Main",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Settings]": "Settings",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "Overwrite Existing Icons",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "While enabled, Asset Icon Library will overwrite vanilla icons and icons from other mods when available.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Open Custom Thumbnails Folder",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Add personal custom thumbnails to use over the vanilla or 'Asset Icon Library' icons."
 }
