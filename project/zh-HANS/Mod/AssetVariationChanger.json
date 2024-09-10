@@ -8,5 +8,8 @@
   "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "切换到该资产的下一个变体的快捷键",
   "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "切换资产变体更改启用状态",
   "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "使用此快捷键无需打开面板即可切换启用状态",
-  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ResetBindings]": "重置快捷键"
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ResetBindings]": "重置快捷键",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod/PreviousVariationBinding/binding]": "上一变体",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod/NextVariationBinding/binding]": "下一变体",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod/ToggleVariationChooserBinding/binding]": "切换资产变体更改启用状态"
 }

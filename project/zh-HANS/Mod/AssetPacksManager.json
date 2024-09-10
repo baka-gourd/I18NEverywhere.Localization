@@ -13,7 +13,7 @@
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.AutoHideNotifications]": "自动隐藏通知",
   "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.AutoHideNotifications]": "自动在30秒后隐藏本模组的通知",
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.ShowWarningForLocalAssets]": "显示对本地资产的警告",
-  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.ShowWarningForLocalAssets]": "在 userdata/Mods 文件夹中检测到本地资产时显示警告。这是为了防止意外加载本地资产。",
+  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.ShowWarningForLocalAssets]": "在 user 文件夹中检测到本地资产时显示警告。这是为了防止意外加载本地资产。",
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LoggingLevel]": "日志等级",
   "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LoggingLevel]": "选择被记录的日志等级。例如Warning等级包含Warning，Error和Critical。",
   "Options.AssetPacksManager.AssetPacksManager.Mod.LOGLEVEL[Debug]": "Debug",
@@ -24,7 +24,7 @@
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LogCooldownTicks]": "日志冷却（10000 = 1ms）",
   "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LogCooldownTicks]": "设置输出日志时的最短间隔时间。这是为了防止日志记录器引发 NullReferenceException 异常。",
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteModsWithMissingCid]": "删除丢失CID文件的模组",
-  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteModsWithMissingCid]": "具有更低侵入性的删除模组缓存选项的版本。它只会删除缺少 CID 文件的模组。这将立即关闭游戏。该选项不会更改配组，但需要在下次启动时重新下载所有模组。此过程可能需要几分钟时间，具体取决于订阅模组的数量。",
+  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteModsWithMissingCid]": "具有更低侵入性的删除模组缓存选项的版本。它只会删除缺少 CID 文件的模组。这将立即关闭游戏。该选项不会更改配组，但需要在下次启动时重新下载所有受影响的模组。此过程可能需要几分钟时间，具体取决于订阅模组的数量。",
   "Options.WARNING[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteModsWithMissingCid]": "**警告：此选项会关闭游戏** 确认删除受影响的模组缓存？该操作不可恢复。",
   "Options.TAB[AssetPacksManager.AssetPacksManager.Mod.Settings]": "设置",
   "Options.TAB[AssetPacksManager.AssetPacksManager.Mod.Packs]": "资产包",
@@ -36,5 +36,7 @@
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.OpenLogFile]": "打开日志文件",
   "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.OpenLogFile]": "在默认文本编辑器中打开模组日志，其中包含关于加载失败的资产包的细节。",
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LoadedAssetPacksText]": "已加载资产包",
-  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LoadedAssetPacksText]": "显示已加载的资产包。这是只读的。"
+  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LoadedAssetPacksText]": "显示已加载的资产包。这是只读的。",
+  "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.EnableAssetPackLoadingOnStartup]": "启动时加载资产包",
+  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.EnableAssetPackLoadingOnStartup]": "启用启动时加载资产包。关闭此设置后在启动时将不会加载资产包。必须手动加载。"
 }
