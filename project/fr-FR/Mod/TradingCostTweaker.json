@@ -1,0 +1,10 @@
+{
+  "Options.SECTION[TradingCostTweaker.TradingCostTweaker.Mod]": "Trading Cost Tweaker",
+  "Options.TAB[TradingCostTweaker.TradingCostTweaker.Mod.Service]": "Service",
+  "Options.TAB[TradingCostTweaker.TradingCostTweaker.Mod.Cargo]": "Cargo",
+  "Options.TAB[TradingCostTweaker.TradingCostTweaker.Mod.About]": "A propos de",
+  "Options.GROUP[TradingCostTweaker.TradingCostTweaker.Mod.Water & Sewage]": "Eau et égouts",
+  "Options.GROUP[TradingCostTweaker.TradingCostTweaker.Mod.Electricity]": "Électricité",
+  "Options.GROUP[TradingCostTweaker.TradingCostTweaker.Mod.Other Service Fees]": "Autres frais de service",
+  "Options.OPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.AuthorText]": "Auteur"
+}
