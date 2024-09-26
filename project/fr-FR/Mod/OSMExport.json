@@ -1,1 +1,11 @@
-{}
+{
+  "Options.SECTION[OSMExport.OSMExport.Mod]": "OSM Export",
+  "Options.TAB[OSMExport.OSMExport.Mod.Main]": "Général",
+  "Options.GROUP[OSMExport.OSMExport.Mod.Common Export]": "Options d'exportation communes",
+  "Options.GROUP[OSMExport.OSMExport.Mod.OSM Export]": "OSM Export",
+  "Options.OPTION[OSMExport.OSMExport.Mod.Setting.ExportPBF]": "Exporter vers PBF",
+  "Options.GROUP[OSMExport.OSMExport.Mod.Image Export]": "Exporter en PDF",
+  "Options.OPTION[OSMExport.OSMExport.Mod.Setting.ZoomLevel]": "Niveau de zoom",
+  "Options.OPTION[OSMExport.OSMExport.Mod.Setting.ExportPDF]": "Générer un PDF",
+  "Options.TAB[OSMExport.OSMExport.Mod.Advanced]": "Expérimental"
+}
