@@ -1,4 +1,5 @@
 {
   "Options.SECTION[OSMExport.OSMExport.Mod]": "导出 OSM",
+  "Options.TAB[OSMExport.OSMExport.Mod.Main]": "主要",
   "Options.GROUP[OSMExport.OSMExport.Mod.OSM Export]": "导出 OSM"
 }

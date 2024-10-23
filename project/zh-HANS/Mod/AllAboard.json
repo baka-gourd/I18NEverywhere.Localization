@@ -1,7 +1,7 @@
 {
   "Options.SECTION[AllAboard.AllAboard.Mod]": "准备出发！",
   "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "列车最大等待时间（游戏内时间）",
-  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "列车（地铁、电车）等待的最大时间（游戏内）。",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "列车（地铁、有轨电车）等待的最大时间（游戏内）。",
   "Options.OPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "公交最大等待时间（游戏内时间）",
   "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "公交等待的最大时间（游戏内）。",
   "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TestPathfindingCleanup]": "实验性的清除寻路",

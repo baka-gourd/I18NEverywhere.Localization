@@ -1,1 +1,19 @@
-﻿{}
+﻿{
+  "Options.SECTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod]": "载具容量修改",
+  "Options.TAB[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.CapacitySection]": " 主要",
+  "Options.GROUP[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.CapacityGroup]": "过境载具容量",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.BusSlider]": "公交车",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TaxiSlider]": "出租车",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.SubwaySlider]": "地铁",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TramSlider]": "有轨电车",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TrainSlider]": "火车",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.AirplaneSlider]": "飞机",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.ShipSlider]": "轮船",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.BusSlider]": "设置公交车容量相对于原版容量的比例。",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TaxiSlider]": "设置出租车容量相对于原版容量的比例。",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.SubwaySlider]": "设置地铁容量相对于原版容量的比例。",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TramSlider]": "设置有轨电车容量相对于原版容量的比例。",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TrainSlider]": "设置火车容量相对于原版容量的比例。",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.AirplaneSlider]": "设置飞机容量相对于原版容量的比例。",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.ShipSlider]": "设置轮船容量相对于原版容量的比例。"
+}

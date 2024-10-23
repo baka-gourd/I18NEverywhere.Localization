@@ -48,5 +48,7 @@
   "Options.OPTION_DESCRIPTION[RealLife.RealLife.Mod.Setting.look_for_partner_rate_adjuster]": "增大或减小寻找另一半的概率",
   "Options.GROUP[RealLife.RealLife.Mod.GraduationGroup]": "毕业",
   "Options.OPTION[RealLife.RealLife.Mod.Setting.corpse_vanish]": "尸体消失概率",
-  "Options.OPTION_DESCRIPTION[RealLife.RealLife.Mod.Setting.corpse_vanish]": "死亡后尸体消失的概率，这些尸体不需要出殡"
+  "Options.OPTION_DESCRIPTION[RealLife.RealLife.Mod.Setting.corpse_vanish]": "死亡后尸体消失的概率，这些尸体不需要出殡",
+  "Options.OPTION[RealLife.RealLife.Mod.Setting.college_edu_in_univ]": "综合性大学中学院制大学的容量",
+  "Options.OPTION_DESCRIPTION[RealLife.RealLife.Mod.Setting.college_edu_in_univ]": "综合性大学中获得学院制大学教育的比例。如果高于零，部分学生将在综合性大学中攻读学院制大学的学位。"
 }

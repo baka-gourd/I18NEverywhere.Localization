@@ -17,7 +17,7 @@
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LoggingLevel]": "日志等级",
   "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LoggingLevel]": "选择被记录的日志等级。例如Warning等级包含Warning，Error和Critical。",
   "Options.AssetPacksManager.AssetPacksManager.Mod.LOGLEVEL[Debug]": "Debug",
-  "Options.AssetPacksManager.AssetPacksManager.Mod.LOGLEVEL[Info]": "Info",
+  "Options.AssetPacksManager.AssetPacksManager.Mod.LOGLEVEL[Info]": "信息",
   "Options.AssetPacksManager.AssetPacksManager.Mod.LOGLEVEL[Warning]": "Warning",
   "Options.AssetPacksManager.AssetPacksManager.Mod.LOGLEVEL[Error]": "Error",
   "Options.AssetPacksManager.AssetPacksManager.Mod.LOGLEVEL[Critical]": "Critical",
