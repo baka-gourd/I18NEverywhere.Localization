@@ -1,5 +1,4 @@
 {
-  "Options.OPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.TimeWeatherAnarchySettings.TriggerPanelToggle]": "단축키 활성화",
   "Options.OPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod/TriggerPanelToggle/binding]": "단축키 활성화",
   "Options.OPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.TimeWeatherAnarchySettings.TriggerPanelToggle]": "시간과 날씨 Anarchy 열기",
   "Options.OPTION_DESCRIPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.TimeWeatherAnarchySettings.TriggerPanelToggle]": "도구창 열고 닫는 단축키입니다.",
@@ -26,7 +25,6 @@
   "TimeWeatherAnarchy.Delete": "삭제",
   "TimeWeatherAnarchy.CreateProfile": "새 프로필 만들기",
   "TimeWeatherAnarchy.UpdateProfile": "프로필 업데이트",
-  "TimeWeatherAnarchy.EditingProfile": "프로필 수정",
   "TimeWeatherAnarchy.EditingProfile": "프로필 수정",
   "TimeWeatherAnarchy.ProfileName": "프로필 이름을 입력...",
   "TimeWeatherAnarchy.TypeUpdatedProfileName": "수정할 프로필 이름 입력...",
