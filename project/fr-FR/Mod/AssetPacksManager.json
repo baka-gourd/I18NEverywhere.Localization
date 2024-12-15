@@ -6,9 +6,6 @@
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.EnableSubscribedAssetPacks]": "Activer les packs d’asset souscrits",
   "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.EnableSubscribedAssetPacks]": "Active l’importation des mods souscrits depuis Paradox Mods.",
   "Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Actions]": "Actions",
-  "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteModsCache]": "Vider le cache des mods",
-  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteModsCache]": "Aide parfois à résoudre le problème des fichier CID manquants. Supprime le cache des mods installés depuis Paradox Mods. Le jeu sera fermé immédiatement. L’action ne changera pas votre playset, mais nécessitera que vous re-téléchargiez tous les mods au prochain redémarrage. Cela peut prendre quelques minutes en fonction du nombre de mods souscrits.",
-  "Options.WARNING[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteModsCache]": "**ATTENTION. Cette action fermera le jeu !** Êtes-vous sûr de vouloir vider le cache des mods ? Vous ne pourrez pas revenir en arrière.",
   "Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Misc]": "Divers",
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.AutoHideNotifications]": "Cacher automatiquement les notifications",
   "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.AutoHideNotifications]": "Cache automatiquement les notifications d’APM après 30 secondes.",
@@ -29,7 +26,7 @@
   "Options.TAB[AssetPacksManager.AssetPacksManager.Mod.Settings]": "Paramètres",
   "Options.TAB[AssetPacksManager.AssetPacksManager.Mod.Packs]": "Packs d’assets",
   "Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Loaded Asset Packs]": "Packs d’assets chargés",
-  "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.AdaptiveAssetLoading]": "Activer le chargement d’asset intelligent (expérimental, peut causer des problèmes)",
+  "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.AdaptiveAssetLoading]": "Activer le chargement d’asset intelligent (Activez cette option si vous avez des doublons d'assets custom, désactivez-la s'il vous manque des assets)",
   "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.AdaptiveAssetLoading]": "Active le chargement intelligent des assets ; seuls les assets qui n’ont pas été chargés par le système intégré de Paradox Mods seront pris en charge par le mod, ce qui peut significativement réduire les temps de chargement (jusqu’à 99%). Désactivez cette option si vous rencontrez des écrans noirs, crashes, des assets manquants ou autres problèmes.",
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LoadAssetPacks]": "Charger les packs d’assets",
   "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LoadAssetPacks]": "Chargera les packs d’assets activés dans les paramètres.",
@@ -38,5 +35,12 @@
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LoadedAssetPacksText]": "Packs d’assets chargés",
   "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LoadedAssetPacksText]": "Liste les packs d’assets chargés. Ce champ est en lecture seule.",
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.EnableAssetPackLoadingOnStartup]": "Activer le chargement du pack d'assets au démarrage",
-  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.EnableAssetPackLoadingOnStartup]": "Active le chargement des packs d'assets au démarrage. En désactivant ce paramètre, vous empêchez le chargement des packs d'assets au démarrage. Vous devrez les charger manuellement."
+  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.EnableAssetPackLoadingOnStartup]": "Active le chargement des packs d'assets au démarrage. En désactivant ce paramètre, vous empêchez le chargement des packs d'assets au démarrage. Vous devrez les charger manuellement.",
+  "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DisableSettingsWarning]": "Désactiver l'avertissement pour le le chargement d’asset intelligent",
+  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DisableSettingsWarning]": "Activez ce paramètre pour désactiver l'avertissement qui demande à propos des assets en doublon ou manquants.",
+  "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DisableTelemetry]": "Désactiver la télémétrie (l'APM ne recueille que des données sur le nombre de packs d'assets et le paramètre chargement d’asset intelligent, pas de données personnelles)",
+  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DisableTelemetry]": "Désactive la télémétrie. APM collecte uniquement des données sur le nombre de packs d'assets et le paramètre de chargement d’asset intelligent. Si une majorité d'utilisateurs ont activé le chargement d’asset intelligent, la fonctionnalité sera activée par défaut dans les versions futures.",
+  "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteCachedAssetPacks]": "Supprimer les Asset Packs mis en cache",
+  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteCachedAssetPacks]": "Aide parfois à résoudre le problème des fichiers CID manquants. Supprime la cache des mods PDX téléchargés. Cela fermera le jeu immédiatement. Cela ne changera pas votre playset, mais vous devrez retélécharger tous les mods au prochain démarrage. Cela peut prendre quelques minutes en fonction du nombre de mods souscrits.",
+  "Options.WARNING[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteCachedAssetPacks]": "**AVERTISSEMENT. Cela va fermer votre jeu!** Vous êtes sûr de vouloir supprimer la cache des packs d'assets ? Cette opération ne peut être annulée."
 }

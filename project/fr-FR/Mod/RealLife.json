@@ -1,1 +1,10 @@
-{}
+{
+  "Options.SECTION[RealLife.RealLife.Mod]": "Real Life",
+  "Options.TAB[RealLife.RealLife.Mod.Age]": "Âge",
+  "Options.TAB[RealLife.RealLife.Mod.Education]": "Éducation",
+  "Options.TAB[RealLife.RealLife.Mod.CitizenSection]": "Naissance et relations",
+  "Options.GROUP[RealLife.RealLife.Mod.AgeGroup]": "Paramètres sur l'âge",
+  "Options.GROUP[RealLife.RealLife.Mod.EducationGroup]": "Éducation",
+  "Options.GROUP[RealLife.RealLife.Mod.CitizenGroup]": "Naissance et relations",
+  "Options.OPTION[RealLife.RealLife.Mod.Setting.child_school_start_age]": "Âge d'entrée à l'école de l'enfant"
+}
