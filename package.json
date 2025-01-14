@@ -4,7 +4,9 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "sync": "node sync-paratransz.js"
+        "sync": "node sync-paratransz.js",
+        "gen": "node changelog-gen.js",
+        "check": "node check-mod-update.js"
     },
     "keywords": [],
     "author": "",
