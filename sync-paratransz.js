@@ -1,6 +1,6 @@
 const fs = require("fs").promises; // Use fs.promises
 const path = require("path");
-const fetch = require("node-fetch");
+const fetch = require("node-fetch-commonjs");
 const unzipper = require("unzipper");
 const fsSync = require("fs"); // For synchronous operations
 const { argv } = require("process");
