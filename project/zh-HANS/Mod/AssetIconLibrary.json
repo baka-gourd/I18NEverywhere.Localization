@@ -5,5 +5,13 @@
   "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "覆盖已存在的图标",
   "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "启用此选项后，资产图标库将会覆盖原版图标和模组图标。",
   "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "打开自定义缩略图文件夹",
-  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "在原版或 \"资产图标库 \"的基础上添加自定义缩略图。"
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "在原版或 \"资产图标库 \"的基础上添加自定义缩略图。",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Custom]": "自定义",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.RestartRequired]": "⚠️  这些选项在重启后才会被应用。",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "图标样式",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "更改资产图标的样式。",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.CustomIcons]": "将带有资产名称的图像文件放在自定义缩略图文件夹中，为资产添加自定义图标。",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.ColoredPropless]": "彩色 - 无资产图标",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.White]": "白色 - 无资产图标",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.Colored]": "彩色 - 有资产图标"
 }

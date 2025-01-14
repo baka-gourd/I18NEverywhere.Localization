@@ -1,10 +1,15 @@
 {
   "Options.SECTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod]": "再见了，流浪汉",
-  "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M45]": "游戏内 45 分钟",
-  "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M90]": "游戏内 90 分钟",
-  "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M180]": "游戏内 180 分钟",
   "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "驱逐幽灵公司",
   "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "[实验性] 启用后，没有拥有工厂/办公楼的公司将会被驱逐。",
-  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeleteExtraCompanyTickInterval]": "幽灵公司驱逐间隔",
-  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeleteExtraCompanyTickInterval]": "如果没有在该期限内找到新办公地点，公司就会被驱逐出城。重启后生效。"
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ApplyHomelessnessFix]": "应用无家可归修复",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ApplyHomelessnessFix]": "这是无家可归修复是否被应用的标志",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeportHomeless]": "驱逐流浪汉",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeportHomeless]": "签证剪脚！现在那些露营大师该想办法离开城市了。",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ArrestHomeless]": "逮捕流浪汉",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ArrestHomeless]": "把所有流浪汉送进监狱。",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveStuckHomeless]": "移除卡住的流浪汉",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveStuckHomeless]": "移除在街道上卡住的流浪汉，<不会>移除公园中的流浪汉。",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveAllHomeless]": "移除所有流浪汉",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveAllHomeless]": "移除所有流浪汉，包括公园里的流浪汉。"
 }

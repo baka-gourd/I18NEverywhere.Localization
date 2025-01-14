@@ -1,0 +1,19 @@
+﻿{
+  "Options.SECTION[RoadWearAdjuster.RoadWearAdjuster.Mod]": "道路车辙调整",
+  "Options.TAB[RoadWearAdjuster.RoadWearAdjuster.Mod.Main]": "主要",
+  "Options.GROUP[RoadWearAdjuster.RoadWearAdjuster.Mod.Presets]": "预设",
+  "Options.GROUP[RoadWearAdjuster.RoadWearAdjuster.Mod.Configure]": "配置",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "重设为默认值",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "将配置改为预设值",
+  "Options.WARNING[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "确定要应用预设吗？现在的配置将会被覆盖。",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureVariant]": "纹理种类",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureVariant]": "选择你选所喜欢的纹理",
+  "Options.RoadWearAdjuster.RoadWearAdjuster.Mod.TEXTUREVARIANTENUM[Vanilla]": "原版",
+  "Options.RoadWearAdjuster.RoadWearAdjuster.Mod.TEXTUREVARIANTENUM[Reflavoured]": "风格化",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureBrightness]": "纹理亮度",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureBrightness]": "修改给定纹理基色的亮度",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureOpacity]": "纹理透明度",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureOpacity]": "修改给定纹理的不透明度",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureSmoothness]": "平滑度",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureSmoothness]": "修改给定纹理的整体平滑度"
+}
