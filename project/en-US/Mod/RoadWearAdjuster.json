@@ -1,0 +1,19 @@
+{
+  "Options.SECTION[RoadWearAdjuster.RoadWearAdjuster.Mod]": "Road Wear Adjuster",
+  "Options.TAB[RoadWearAdjuster.RoadWearAdjuster.Mod.Main]": "Main",
+  "Options.GROUP[RoadWearAdjuster.RoadWearAdjuster.Mod.Presets]": "Presets",
+  "Options.GROUP[RoadWearAdjuster.RoadWearAdjuster.Mod.Configure]": "Configure",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "Reset to default",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "Applies this preset to your configuration",
+  "Options.WARNING[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "Are you sure you want to apply this preset? Your existing configuration will be overriden.",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureVariant]": "Texture Variant",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureVariant]": "Select which road wear texture you prefer",
+  "Options.RoadWearAdjuster.RoadWearAdjuster.Mod.TEXTUREVARIANTENUM[Vanilla]": "Vanilla",
+  "Options.RoadWearAdjuster.RoadWearAdjuster.Mod.TEXTUREVARIANTENUM[Reflavoured]": "Reflavoured",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureBrightness]": "Texture Brightness",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureBrightness]": "Modifies the brightness of the base colour of the given texture",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureOpacity]": "Texture Opacity",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureOpacity]": "Modifies the opacity of the given texture",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureSmoothness]": "Texture Smoothness",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureSmoothness]": "Modifies the overall smoothness of the given texture"
+}

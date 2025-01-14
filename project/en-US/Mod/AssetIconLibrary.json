@@ -2,8 +2,16 @@
   "Options.SECTION[AssetIconLibrary.AssetIconLibrary.Mod]": "Asset Icon Library",
   "Options.TAB[AssetIconLibrary.AssetIconLibrary.Mod.Main]": "Main",
   "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Settings]": "Settings",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Custom]": "Custom",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.RestartRequired]": "⚠️  Changing these settings requires restarting your game to apply your changes.",
   "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "Overwrite Existing Icons",
-  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "While enabled, Asset Icon Library will overwrite vanilla icons and icons from other mods when available.",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "While enabled, Asset Icon Library will overwrite vanilla assets' icons, even if the assets have an icon already.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "Icon Style",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "Change what style to use for asset icons where applicable.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.CustomIcons]": "Use custom icons for assets by placing the image files with the assets' name inside the custom thumbnails folder.",
   "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Open Custom Thumbnails Folder",
-  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Add personal custom thumbnails to use over the vanilla or 'Asset Icon Library' icons."
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Add personal custom thumbnails to use over the vanilla or 'Asset Icon Library' icons.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.ColoredPropless]": "Colored & No Props",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.White]": "White & No Props",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.Colored]": "Colored With Props"
 }
