@@ -28,7 +28,7 @@ jobs:
               run: pnpm install
 
             - name: Sync Paratransz
-              run: pnpm sync
+              run: pnpm sync ${{ secrets.PARATRANSZ }}
 
             - name: Commit zh-HANS
               uses: EndBug/add-and-commit@v9
