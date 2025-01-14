@@ -1,0 +1,52 @@
+name: Sync Paratransz Repo
+on:
+    schedule:
+        - cron: "0 10 * * *"
+    workflow_dispatch:
+
+jobs:
+    sync-paratransz:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+
+            - name: Install pnpm
+              uses: pnpm/action-setup@v4
+              with:
+                  version: latest
+                  run_install: false
+
+            - uses: actions/setup-node@v4
+              with:
+                  node-version: 20
+                  cache: "pnpm"
+
+            - name: Install Dependencies
+              run: pnpm install
+
+            - name: Sync Paratransz
+              run: pnpm sync
+
+            - name: Commit zh-HANS
+              uses: EndBug/add-and-commit@v9
+              with:
+                  add: "project/zh-HANS"
+                  message: "translate(zh-HANS): sync paratransz"
+                  push: true
+
+            - name: Commit fr-FR
+              uses: EndBug/add-and-commit@v9
+              with:
+                  add: "project/fr-FR"
+                  message: "translate(fr-FR): sync paratransz"
+                  push: true
+
+            - name: Commit Data
+              uses: EndBug/add-and-commit@v9
+              with:
+                  add: "paratransz-sync-data.json"
+                  message: "maintain: sync paratransz update data"
+                  push: true

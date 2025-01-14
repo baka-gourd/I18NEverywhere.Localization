@@ -1,0 +1,15 @@
+{
+    "name": "localization",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "sync": "node sync-paratransz.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "unzipper": "^0.12.3"
+    }
+}
