@@ -1,10 +1,4 @@
 {
   "Options.SECTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod]": "Bye Bye Homeless",
-  "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M45]": "45 minutes en temps de simulation",
-  "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M90]": "90 minutes en temps de simulation",
-  "Options.ByeByeHomelessMod.ByeByeHomelessMod.Mod.TICKINTERVALOPTIONS[M180]": "180 minutes en temps de simulation",
-  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "Expulser les entreprises fantômes",
-  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "[EXPÉRIMENTAL] Si l’option est activé, les entreprises qui n'ont ni usine ni bureaux seront supprimées.",
-  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeleteExtraCompanyTickInterval]": "Délai avant l’explusion des entreprises fantômes",
-  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeleteExtraCompanyTickInterval]": "Délai maximal alloué aux entreprise pour trouver des locaux avant d’être explusées. Requiert un redémarrage du jeu pour faire effet."
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "[EXPÉRIMENTAL] Si l’option est activé, les entreprises qui n'ont ni usine ni bureaux seront supprimées."
 }
