@@ -1,4 +1,15 @@
 {
   "Options.SECTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod]": "Bye Bye Homeless",
-  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "[EXPÉRIMENTAL] Si l’option est activé, les entreprises qui n'ont ni usine ni bureaux seront supprimées."
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "Expulser les entreprises fantômes",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "[EXPÉRIMENTAL] Si l’option est activé, les entreprises qui n'ont ni usine ni bureaux seront supprimées.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ApplyHomelessnessFix]": "Appliquer la correction de bug pour les sans-abri",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ApplyHomelessnessFix]": "Il s'agit d'un indicateur de l'application de la correction du bug des sans-abris.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeportHomeless]": "Déporter les sans-abri",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeportHomeless]": "Visa annulé ! Laissez les campeurs de vos parcs trouver un moyen de quitter la ville tout de suite.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ArrestHomeless]": "Arrêter les sans-abri",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ArrestHomeless]": "Envoyez la police pour emprisonner les sans-abri.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveStuckHomeless]": "Retirer les sans-abri coincés",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveStuckHomeless]": "Élimine instantanément les sans-abri bloqués dans les rues. Cela ne comprend pas ceux situés dans les parcs.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveAllHomeless]": "Supprimer tous les sans-abri",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveAllHomeless]": "Expulse immédiatement tous les sans-abri, y compris ceux qui se trouvent dans les parcs."
 }

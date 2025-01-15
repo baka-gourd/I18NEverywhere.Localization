@@ -1,1 +1,26 @@
-﻿{}
+﻿{
+  "Options.SECTION[BetterMoonLight.BetterMoonLight.Mod]": "Better Moon Light",
+  "Options.GROUP[BetterMoonLight.BetterMoonLight.Mod.Basic]": "De base",
+  "Options.GROUP[BetterMoonLight.BetterMoonLight.Mod.Night]": "Réglages pour la nuit",
+  "Options.GROUP[BetterMoonLight.BetterMoonLight.Mod.Aurora]": "Aurore Boréale",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.ShowOptionsInDeveloperPanel]": "Afficher les options dans le panneau du menu développeur",
+  "Options.OPTION_DESCRIPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.ShowOptionsInDeveloperPanel]": "Affichez les mêmes paramètres dans le panneau de développement (lancez avec l'argument '-developerMode' et ouvrez avec le raccourci tab). Vous pouvez alors voir un nouvel onglet 'BetterMoonLight' dans le panneau.",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.OverwriteNightLighting]": "Remplacer l'éclairage nocturne",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.AmbientLight]": "Intensité de la lumière ambiante de nuit",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.NightSkyLight]": "Intensité lumineuse du ciel la nuit",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.MoonDirectionalLight]": "Intensité de la lumière lunaire directe",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.MoonLightAveragerStrength]": "Intensité moyenne de la lumière lunaire",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.MoonDiskSize]": "Taille de la lune",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.MoonDiskIntensity]": "Intensité du disque lunaire",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.MoonTemperature]": "Température de la lumière de la lune",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.NightLightTemperature]": "Température de l'éclairage nocturne",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.MoonLightIntensityBalance]": "Équilibre de l'intensité de la lumière lunaire",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.ResetModSettings]": "Réinitialiser aux valeurs par défaut",
+  "Options.WARNING[BetterMoonLight.BetterMoonLight.Mod.Setting.ResetModSettings]": "Êtes-vous sûr de vouloir appliquer les paramètres par défaut ?",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.AuroraOverwriteLevel]": "Remplacer l'Aurore Boréale",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.AuroraIntensity]": "Intensité des aurores boréales",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.StarfieldEmmisionStrength]": "Intensité d'émission du champ d'étoiles",
+  "OPTIONS.BetterMoonLight.OverwriteAuroraLevel[0]": "Ne pas remplacer",
+  "OPTIONS.BetterMoonLight.OverwriteAuroraLevel[1]": "Remplacement de base",
+  "OPTIONS.BetterMoonLight.OverwriteAuroraLevel[2]": "Remplacer par le Mode Photo"
+}

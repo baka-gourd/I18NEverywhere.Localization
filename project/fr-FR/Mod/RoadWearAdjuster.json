@@ -1,1 +1,19 @@
-﻿{}
+﻿{
+  "Options.SECTION[RoadWearAdjuster.RoadWearAdjuster.Mod]": "Road Wear Adjuster",
+  "Options.TAB[RoadWearAdjuster.RoadWearAdjuster.Mod.Main]": "Général",
+  "Options.GROUP[RoadWearAdjuster.RoadWearAdjuster.Mod.Presets]": "Préréglages",
+  "Options.GROUP[RoadWearAdjuster.RoadWearAdjuster.Mod.Configure]": "Configuration",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "Réinitialiser aux valeurs par défaut",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "Applique ce préréglage à votre configuration",
+  "Options.WARNING[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "Êtes-vous sûr de vouloir appliquer ce préréglage ? Votre configuration existante sera remplacée.",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureVariant]": "Variante de texture",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureVariant]": "Sélectionnez la texture d'usure routière que vous préférez",
+  "Options.RoadWearAdjuster.RoadWearAdjuster.Mod.TEXTUREVARIANTENUM[Vanilla]": "Jeu de base",
+  "Options.RoadWearAdjuster.RoadWearAdjuster.Mod.TEXTUREVARIANTENUM[Reflavoured]": "Refondu",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureBrightness]": "Luminosité de la texture ",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureBrightness]": "Modifie la luminosité de la couleur de base de la texture donnée",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureOpacity]": "Opacité de la texture",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureOpacity]": "Modifie l'opacité de la texture donnée",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureSmoothness]": "Smoothness (« douceur », terme de jargon) de la texture.",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureSmoothness]": "Modifie la smoothness générale de la texture donnée."
+}

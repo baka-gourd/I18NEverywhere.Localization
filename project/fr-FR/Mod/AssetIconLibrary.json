@@ -3,6 +3,15 @@
   "Options.TAB[AssetIconLibrary.AssetIconLibrary.Mod.Main]": "Général",
   "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Settings]": "Paramètres",
   "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "Remplacer les icônes existants",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "Si activé, Asset Icon Library va remplacer les icônes du jeu de base et ce même si les assets ont déjà une icône.",
   "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Ouvrir le dossier des miniatures (thumbnails)",
-  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Ajoutez des miniatures personnalisées dans ce dossier pour remplacer celles du jeu de base ou de Asset Icon Library."
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Ajoutez des miniatures personnalisées dans ce dossier pour remplacer celles du jeu de base ou de Asset Icon Library.",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Custom]": "Personnalisation",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.RestartRequired]": "⚠️ La modification de ces paramètres nécessite de redémarrer le jeu pour que les changements soient appliqués.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "Style d'Icône",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "Modifie le style à utiliser pour les icônes des assets, si applicable.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.CustomIcons]": "Utilisez des icônes personnalisées pour les assets en plaçant des images portant le nom de l'asset dans le dossier des mignatures(thumbnails) personnalisées.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.ColoredPropless]": "En couleur et sans accessoires",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.White]": "Blanc et sans accessoires",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.Colored]": "En couleur avec des accessoires"
 }
