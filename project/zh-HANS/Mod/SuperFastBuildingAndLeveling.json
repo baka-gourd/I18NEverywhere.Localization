@@ -1,4 +1,4 @@
-{
+﻿{
   "Options.SECTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling]": "超级快速的建设和升级",
   "Options.TAB[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.GeneralSettingsTab]": "常规设置",
   "Options.TAB[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.LegacySettingsTab]": "旧版设置",
@@ -28,12 +28,8 @@
   "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.EnableCustomIndustrialDemand]": "将区域的需求水平设置为您选择的百分比。关闭以使用游戏计算。",
   "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.IndustrialBuildingDemand]": "工业建筑需求",
   "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.IndustrialBuildingDemand]": "调整工业建筑的需求百分比",
-  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Mod]": "Mod",
-  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Mod]": "",
   "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Version]": "版本",
-  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Version]": "",
   "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Developer]": "开发人员",
-  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Developer]": "",
   "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Button]": "重置全部",
   "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Button]": "将所有设置重置为默认值。"
 }

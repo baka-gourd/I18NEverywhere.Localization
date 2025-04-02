@@ -1,0 +1,9 @@
+﻿{
+  "Options.SECTION[PrefabUpdateMod.PrefabUpdateMod.Mod]": "更新资产",
+  "Options.TAB[PrefabUpdateMod.PrefabUpdateMod.Mod.Main]": "主要",
+  "Options.GROUP[PrefabUpdateMod.PrefabUpdateMod.Mod.Main]": "主要",
+  "Options.OPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.Button]": "更新资产",
+  "Options.OPTION_DESCRIPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.Button]": "更新所选包中的所有已放置的资产",
+  "Options.OPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.SelectedPack]": "资产包",
+  "Options.OPTION_DESCRIPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.SelectedPack]": "选择需要更新的包"
+}
