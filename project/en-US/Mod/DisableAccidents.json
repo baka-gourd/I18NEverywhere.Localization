@@ -1,0 +1,5 @@
+{
+  "Options.SECTION[DisableAccidents.DisableAccidents.Mod]": "Disable Accidents",
+  "Options.OPTION[DisableAccidents.DisableAccidents.Mod.Setting.ModEnabled]": "Toggle Accident Prevention",
+  "Options.OPTION_DESCRIPTION[DisableAccidents.DisableAccidents.Mod.Setting.ModEnabled]": "When the toggle is enabled, all accidents are prevented."
+}
