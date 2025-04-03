@@ -12,7 +12,6 @@
   "Options.OPTION[Time2Work.Time2Work.Mod.Setting.lunch_break_percentage]": "Probabilité de la pause au dîner",
   "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.lunch_break_percentage]": "Probabilité que les travailleurs prennent une pause pour le dîner. Pendant la pause dîner, les travailleurs peuvent acheter de la nourriture, des produits de consommation courante ou se consacrer à des activités de loisirs. Ils retournent ensuite au travail.",
   "Options.TAB[Time2Work.Time2Work.Mod.Work]": "Travail",
-  "Options.TAB[Time2Work.Time2Work.Mod.Shopping and Leisure]": "Magasinage et loisirs",
   "Options.TAB[Time2Work.Time2Work.Mod.School]": "Éducation",
   "Options.GROUP[Time2Work.Time2Work.Mod.TimeOffGroup]": "Paramètres de vacances et jours fériés",
   "Options.GROUP[Time2Work.Time2Work.Mod.SchoolTimeOffGroup]": "Paramètres de vacances scolaires",
