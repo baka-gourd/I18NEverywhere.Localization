@@ -1,5 +1,6 @@
 {
   "Options.SECTION[AssetPacksManager.AssetPacksManager.Mod]": "Asset Packs Manager",
+  "Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Actions]": "Notifications",
   "Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Misc]": "Divers",
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.AutoHideNotifications]": "Cacher automatiquement les notifications",
   "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.AutoHideNotifications]": "Cache automatiquement les notifications d’APM après 30 secondes.",
@@ -30,5 +31,12 @@
   "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DisableTelemetry]": "Désactive la télémétrie. APM collecte uniquement des données sur le nombre de packs d'assets et le paramètre de chargement d’asset intelligent. Si une majorité d'utilisateurs ont activé le chargement d’asset intelligent, la fonctionnalité sera activée par défaut dans les versions futures.",
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteCachedAssetPacks]": "Supprimer les Asset Packs mis en cache",
   "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteCachedAssetPacks]": "Aide parfois à résoudre le problème des fichiers CID manquants. Supprime la cache des mods PDX téléchargés. Cela fermera le jeu immédiatement. Cela ne changera pas votre playset, mais vous devrez retélécharger tous les mods au prochain démarrage. Cela peut prendre quelques minutes en fonction du nombre de mods souscrits.",
-  "Options.WARNING[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteCachedAssetPacks]": "**AVERTISSEMENT. Cela va fermer votre jeu!** Vous êtes sûr de vouloir supprimer la cache des packs d'assets ? Cette opération ne peut être annulée."
+  "Options.WARNING[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteCachedAssetPacks]": "**AVERTISSEMENT. Cela va fermer votre jeu!** Vous êtes sûr de vouloir supprimer la cache des packs d'assets ? Cette opération ne peut être annulée.",
+  "Options.TAB[AssetPacksManager.AssetPacksManager.Mod.Local Assets]": "Assets local",
+  "Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Asset Pack Loading]": "Chargement du pack d’asset",
+  "Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Logging]": "Journalisation",
+  "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DisableLoadingNotification]": "Désactiver la notification de chargement",
+  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DisableLoadingNotification]": "Désactive la notification d'état lors du chargement des packs (améliore les temps de chargement).",
+  "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LocalAssetsText]": "Assets local",
+  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LocalAssetsText]": "Affiche les assets locaux chargés. Ce champ est en lecture seule."
 }

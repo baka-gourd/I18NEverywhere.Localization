@@ -1,1 +1,9 @@
-﻿{}
+﻿{
+  "Options.SECTION[PrefabUpdateMod.PrefabUpdateMod.Mod]": "Asset Update Mod",
+  "Options.TAB[PrefabUpdateMod.PrefabUpdateMod.Mod.Main]": "Général",
+  "Options.GROUP[PrefabUpdateMod.PrefabUpdateMod.Mod.Main]": "Général",
+  "Options.OPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.Button]": "METTRE À JOUR LES ASSETS",
+  "Options.OPTION_DESCRIPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.Button]": "Met à jour tous les assets placés dans le pack sélectionné.",
+  "Options.OPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.SelectedPack]": "Asset Pack",
+  "Options.OPTION_DESCRIPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.SelectedPack]": "Sélectionnez un pack à mettre à jour."
+}

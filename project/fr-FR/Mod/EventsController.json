@@ -1,1 +1,4 @@
-﻿{}
+﻿{
+  "Options.OPTION[EventsController.EventsController.Mod.Setting.ResetModSettings]": "Tout réinitialiser",
+  "Options.OPTION[EventsController.EventsController.Mod.Setting.Version]": "Version"
+}
