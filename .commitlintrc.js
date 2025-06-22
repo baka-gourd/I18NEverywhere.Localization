@@ -19,6 +19,7 @@ module.exports = {
       { value: "en-US", name: "English (United States)" },
       { value: "fr-FR", name: "French" },
       { value: "ko-KR", name: "Korean" },
+      { value: "es-ES", name: "Spanish" },
     ],
   },
 };
