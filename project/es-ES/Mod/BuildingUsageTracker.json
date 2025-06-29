@@ -1,0 +1,11 @@
+{
+  "Options.SECTION[BuildingUsageTracker.BuildingUsageTracker.Mod]": "Building Usage Tracker",
+  "Options.TAB[BuildingUsageTracker.BuildingUsageTracker.Mod.Main]": "Principal",
+  "Options.GROUP[BuildingUsageTracker.BuildingUsageTracker.Mod.displayOptions]": "Opciones para mostrar",
+  "Options.OPTION[BuildingUsageTracker.BuildingUsageTracker.Mod.Setting.showEnrouteCimCounts]": "Mostrar cims en ruta",
+  "Options.OPTION_DESCRIPTION[BuildingUsageTracker.BuildingUsageTracker.Mod.Setting.showEnrouteCimCounts]": "Muestra la cantidad y el detalle de los cims trasladándose hacia objetivo seleccionado.",
+  "Options.OPTION[BuildingUsageTracker.BuildingUsageTracker.Mod.Setting.showEnrouteVehicleCounts]": "Mostrar vehículos en ruta",
+  "Options.OPTION_DESCRIPTION[BuildingUsageTracker.BuildingUsageTracker.Mod.Setting.showEnrouteVehicleCounts]": "Muestra la cantidad y el detalle de los vehículos viajando hacia el objetivo seleccionado.",
+  "Options.OPTION[BuildingUsageTracker.BuildingUsageTracker.Mod.Setting.showBuildingOccupancy]": "Mostrar ocupantes de edificios",
+  "Options.OPTION_DESCRIPTION[BuildingUsageTracker.BuildingUsageTracker.Mod.Setting.showBuildingOccupancy]": "Muestra la cantidad y el detalle de los ocupantes dentro del edificio seleccionado."
+}

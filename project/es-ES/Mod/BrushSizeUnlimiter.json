@@ -1,0 +1,7 @@
+﻿{
+  "Options.SECTION[BrushSizeUnlimiter.BrushSizeUnlimiter.Mod]": "Brush Size Unlimiter",
+  "Options.OPTION[BrushSizeUnlimiter.BrushSizeUnlimiter.Mod.MyOptions.MaxBrushSize]": "Tamaño máximo del pincel",
+  "Options.OPTION_DESCRIPTION[BrushSizeUnlimiter.BrushSizeUnlimiter.Mod.MyOptions.MaxBrushSize]": "Establece el tamaño máximo que puede tener el pincel, tanto en el juego como en el editor.\r\n**Atención:** Cuanto más grande el tamaño del pincel, más se degrada la performance.",
+  "Options.OPTION[BrushSizeUnlimiter.BrushSizeUnlimiter.Mod.MyOptions.BrushPreviewMod]": "Ocultar previsualización de emplazamiento de objetos",
+  "Options.OPTION_DESCRIPTION[BrushSizeUnlimiter.BrushSizeUnlimiter.Mod.MyOptions.BrushPreviewMod]": "Activar esta opción incrementa enormemente la performance al utilizar pinceles superiores a 2500 de tamaño, ya temporariamente establece el tamaño del pincel a 0.\r\n**Atención:** Desactivar esta opción hará que tamaños de pincel muy grandes reduzcan drásticamente la performance. Desactívalo solo si tienes problemas de compatibilidad."
+}

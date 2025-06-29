@@ -1,0 +1,17 @@
+﻿{
+  "Options.SECTION[VehicleVariationPacks.VehicleVariationPacks.Mod]": "Vehicle Variation Packs",
+  "Options.TAB[VehicleVariationPacks.VehicleVariationPacks.Mod.Settings]": "Ajustes",
+  "Options.GROUP[VehicleVariationPacks.VehicleVariationPacks.Mod.General Settings]": "Ajustes Generales",
+  "Options.GROUP[VehicleVariationPacks.VehicleVariationPacks.Mod.Create Variation Pack]": "Crear Paquetes de Variaciones",
+  "Options.OPTION[VehicleVariationPacks.VehicleVariationPacks.Mod.Setting.ImportPackText]": "Luego de crear tu paquete de variaciones de colores en línea y haber descargado el archivo de paquetes, has clic en \"Abrir Carpeta de Paquetes\" y coloca allí el archivo descargado anteriormente. Luego presiona \"Recargar paquetes disponibles\" para actualizar la lista desplegable y así poder seleccionar tu propia variación.",
+  "Options.OPTION[VehicleVariationPacks.VehicleVariationPacks.Mod.Setting.OpenPacksFolder]": "Abrir Carpeta de Paquetes",
+  "Options.OPTION_DESCRIPTION[VehicleVariationPacks.VehicleVariationPacks.Mod.Setting.OpenPacksFolder]": "Abre la carpeta donde los paquetes están almacenados permitiéndote agregar el tuyo.",
+  "Options.OPTION[VehicleVariationPacks.VehicleVariationPacks.Mod.Setting.ShowDebugPacks]": "Mostrar Paquetes de Desarrollo",
+  "Options.OPTION_DESCRIPTION[VehicleVariationPacks.VehicleVariationPacks.Mod.Setting.ShowDebugPacks]": "Muestra paquetes agregados de desarrollo en la lista desplegable.",
+  "Options.OPTION[VehicleVariationPacks.VehicleVariationPacks.Mod.Setting.ReloadPacks]": "Recargar paquetes disponibles",
+  "Options.OPTION_DESCRIPTION[VehicleVariationPacks.VehicleVariationPacks.Mod.Setting.ReloadPacks]": "Recarga los paquetes disponibles instalados en tu carpeta de paquetes.",
+  "Options.OPTION[VehicleVariationPacks.VehicleVariationPacks.Mod.Setting.PackDropdown]": "Paquete Activo",
+  "Options.OPTION_DESCRIPTION[VehicleVariationPacks.VehicleVariationPacks.Mod.Setting.PackDropdown]": "Selecciona que paquete de variación de colores utilizar. Si has instalado manualmente algún paquete y no se muestra en la lista, presiona el botón \"Recargar paquetes disponibles\" para actualizar la lista.",
+  "Options.OPTION[VehicleVariationPacks.VehicleVariationPacks.Mod.Setting.OpenVariationPackCreator]": "Abrir Creador de Paquetes de Colores",
+  "Options.OPTION_DESCRIPTION[VehicleVariationPacks.VehicleVariationPacks.Mod.Setting.OpenVariationPackCreator]": "Abre el Creador de Paquetes de Colores en tu navegador predeterminado. Esta herramienta te permitirá crear tus propias variaciones de colores para los vehículos."
+} 

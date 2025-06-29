@@ -1,0 +1,23 @@
+﻿{
+  "ShowMoreHappiness.Title": "Show More Happiness",
+  "ShowMoreHappiness.Description": "Muestra más factores de felicidad para la ciudad, distritos, edificios y hogares.",
+  "Options.SECTION[ShowMoreHappiness.ShowMoreHappiness.Mod]": "Show More Happiness",
+  "Options.GROUP[ShowMoreHappiness.ShowMoreHappiness.Mod.General]": "General",
+  "Options.OPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.ModSettings.MaximumFactors]": "Máximo número de factores a mostrar",
+  "Options.OPTION_DESCRIPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.ModSettings.MaximumFactors]": "Número máximo de factores de felicidad a mostrar.\r\n\r\nPor defecto: 10",
+  "Options.OPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.ModSettings.ShowZeroValues]": "Mostrar valores en cero",
+  "Options.OPTION_DESCRIPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.ModSettings.ShowZeroValues]": "Muestra u oculta factores de felicidad que tienen valor 0.\r\nMostrar valores en cero, te permite ver qué factores de felicidad son considerados por el juego, pero que son neutrales al momento.\r\n\r\nPor defecto: Ocultar valores en cero",
+  "Options.OPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.ModSettings.PositiveNegativeValues]": "Valores positivos y negativos",
+  "Options.OPTION_DESCRIPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.ModSettings.PositiveNegativeValues]": "Muestra factores de felicidad positivos y negativos de forma ordenada o sin ordenar.\r\n\r\nPor defecto: Sin ordenar",
+  "Options.ShowMoreHappiness.ShowMoreHappiness.Mod.POSITIVENEGATIVEVALUESCHOICE[Interspersed]": "Sin ordenar",
+  "Options.ShowMoreHappiness.ShowMoreHappiness.Mod.POSITIVENEGATIVEVALUESCHOICE[Separate]": "Ordenados",
+  "Options.OPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.ModSettings.SortDirection]": "Orden de clasificación",
+  "Options.OPTION_DESCRIPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.ModSettings.SortDirection]": "Ordena de forma ascendente o descendente los factores de felicidad.\r\n\r\nPor defecto: Descendente",
+  "Options.ShowMoreHappiness.ShowMoreHappiness.Mod.SORTDIRECTIONCHOICE[Descending]": "Descendente",
+  "Options.ShowMoreHappiness.ShowMoreHappiness.Mod.SORTDIRECTIONCHOICE[Ascending]": "Ascendente",
+  "Options.OPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.ModSettings.ResetSettings]": "Restablecer Ajustes",
+  "Options.OPTION_DESCRIPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.ModSettings.ResetSettings]": "Restablecer los ajustes a por defecto.\r\n\r\nLos ajustes por defecto mostrará los valores de felicidad igual que el juego.",
+  "Options.GROUP[ShowMoreHappiness.ShowMoreHappiness.Mod.About]": "Acerca de",
+  "Options.OPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.ModSettings.ModVersion]": "Versión",
+  "Options.OPTION_DESCRIPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.ModSettings.ModVersion]": "Versión actual del mod."
+} 

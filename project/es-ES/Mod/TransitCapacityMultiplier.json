@@ -1,0 +1,19 @@
+{
+  "Options.SECTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod]": "Transit Capacity Multiplier",
+  "Options.TAB[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.CapacitySection]": "Principal",
+  "Options.GROUP[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.CapacityGroup]": "Capacidad del los Vehículos de Transporte Público",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.BusSlider]": "Autobuses",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TaxiSlider]": "Taxis",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.SubwaySlider]": "Metros",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TramSlider]": "Tranvías",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TrainSlider]": "Trenes",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.AirplaneSlider]": "Aviónes",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.ShipSlider]": "Barcos",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.BusSlider]": "Establece la capacidad de los vehículos de autobús en relación con su capacidad por defecto.",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TaxiSlider]": "Establece la capacidad de los vehículos de taxi en relación con su capacidad por defecto.",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.SubwaySlider]": "Establece la capacidad de los vehículos de metro en relación con su capacidad por defecto.",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TramSlider]": "Establece la capacidad de los vehículos de tranvía en relación con su capacidad por defecto.",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TrainSlider]": "Establece la capacidad de los vehículos de tren en relación con su capacidad por defecto.",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.AirplaneSlider]": "Establece la capacidad de los vehículos de avión en relación con su capacidad por defecto.",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.ShipSlider]": "Establece la capacidad de los vehículos de barco en relación con su capacidad por defecto."
+}
