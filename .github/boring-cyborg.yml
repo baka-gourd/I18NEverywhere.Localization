@@ -11,6 +11,8 @@ labelPRBasedOnFilePath:
     - project/zh-HANS/**/*
   translate(zh-HANT):
     - project/zh-HANT/**/*
+  translate(es-ES):
+    - project/es-ES/**/*
 
 # Various Flags to control behaviour of the "Labeler"
 labelerFlags:
