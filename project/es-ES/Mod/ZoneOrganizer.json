@@ -1,0 +1,18 @@
+﻿{
+  "SubServices.NAME[Low Density Residential]": "Residencial de baja densidad",
+  "Assets.SUB_SERVICE_DESCRIPTION[Low Density Residential]": "Las zonas residenciales de baja densidad son viviendas unifamiliares con jardines amplios.",
+  "SubServices.NAME[Medium Density Residential]": "Residencial de mediana densidad",
+  "Assets.SUB_SERVICE_DESCRIPTION[Medium Density Residential]": "Las zonas residenciales de densidad media se compone de casas adosadas, en hilera y de pequeños edificios de apartamentos.",
+  "SubServices.NAME[High Density Residential]": "Residencial de alta densidad",
+  "Assets.SUB_SERVICE_DESCRIPTION[High Density Residential]": "Las zonas residenciales de alta densidad son edificios de apartamentos de gran altura y apartamentos de alquiler barato.",
+  "SubServices.NAME[Mixed Housing]": "Residenciales de uso mixto",
+  "Assets.SUB_SERVICE_DESCRIPTION[Mixed Housing]": "Las zonas de vivienda mixta son una combinación de edificios residenciales y comerciales, con tiendas o restaurantes en la planta baja y apartamentos en los pisos superiores.",
+  "SubServices.NAME[Low Density Commercial]": "Comercial de baja densidad",
+  "Assets.SUB_SERVICE_DESCRIPTION[Low Density Commercial]": "Las zonas comerciales de baja densidad posee pequeñas tiendas, restaurantes y gasolineras, generalmente de uno o dos pisos de altura.",
+  "SubServices.NAME[High Density Commercial]": "Comercial de alta densidad",
+  "Assets.SUB_SERVICE_DESCRIPTION[High Density Commercial]": "Las zonas comerciales de alta densidad posee grandes edificios comerciales o centros comerciales.",
+  "SubServices.NAME[Low Density Office]": "Oficina de baja densidad",
+  "Assets.SUB_SERVICE_DESCRIPTION[Low Density Office]": "Las zonas de oficinas de baja densidad son pequeños edificios de oficinas, generalmente de uno o dos pisos de altura.",
+  "SubServices.NAME[High Density Office]": "Oficina de alta densidad",
+  "Assets.SUB_SERVICE_DESCRIPTION[High Density Office]": "Las zonas de oficinas de alta densidad son grandes edificios de oficinas, a veces rascacielos."
+}

@@ -1,0 +1,9 @@
+﻿{
+  "Options.SECTION[DisableAccidents.DisableAccidents.Mod]": "Disable Accidents",
+  "Options.OPTION[DisableAccidents.DisableAccidents.Mod.Setting.ModEnabled]": "Desactivar todos los accidentes",
+  "Options.OPTION_DESCRIPTION[DisableAccidents.DisableAccidents.Mod.Setting.ModEnabled]": "Al tildar esta opción, la probabilidad de accidentes se vuelve 0 y se desactiva el deslizador de probabilidad.",
+  "Options.OPTION[DisableAccidents.DisableAccidents.Mod.Setting.AccidentProbability]": "Probabilidad de accidente",
+  "Options.OPTION_DESCRIPTION[DisableAccidents.DisableAccidents.Mod.Setting.AccidentProbability]": "Ajusta la probabilidad base de accidentes (0-100%). Solo disponible si 'Desactivar todos los accidentes' esta des tildada.",
+  "Options.OPTION[DisableAccidents.DisableAccidents.Mod.Setting.VersionDisplay]": "Versión",
+  "Options.OPTION_DESCRIPTION[DisableAccidents.DisableAccidents.Mod.Setting.VersionDisplay]": "Número de versión actual del mod Disable Accidents. Útil para solucionar o reportar problemas."
+} 

@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[HideBuildingsNotification.HideBuildingNotification.Mod]": "Hide buildings notifications",
+  "Options.TAB[HideBuildingsNotification.HideBuildingNotification.Mod.Main]": "Principal",
+  "Options.GROUP[HideBuildingsNotification.HideBuildingNotification.Mod.Configuration]": "Ajustes",
+  "Options.OPTION[HideBuildingsNotification.HideBuildingNotification.Mod.Setting.hideBuldingNotifications]": "Ocultar notificaciones de los edificios",
+  "Options.OPTION_DESCRIPTION[HideBuildingsNotification.HideBuildingNotification.Mod.Setting.hideBuldingNotifications]": "Al estar activado se ocultarán las notificaciones que aparecen en los edificios.",
+  "Options.OPTION[HideBuildingsNotification.HideBuildingNotification.Mod.Setting.version]": "Versión",
+  "Options.OPTION_DESCRIPTION[HideBuildingsNotification.HideBuildingNotification.Mod.Setting.version]": "Muestra la versión actual del mod."
+}

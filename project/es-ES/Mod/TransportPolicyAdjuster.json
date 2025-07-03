@@ -1,0 +1,16 @@
+{
+  "Options.SECTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod]": "Transport Policy Adjuster",
+  "Options.TAB[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Main]": "Principal",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Bus]": "Cantidad máxima de vehículos (Autobús)",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Bus]": "Ajusta la cantidad máxima de vehículos asignables a cada línea.",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Train]": "Cantidad máxima de vehículos (Tren)",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Train]": "Ajusta la cantidad máxima de vehículos asignables a cada línea.",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Tram]": "Cantidad máxima de vehículos (Tranvía)",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Tram]": "Ajusta la cantidad máxima de vehículos asignables a cada línea.",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Ship]": "Cantidad máxima de vehículos (Barco)",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Ship]": "Ajusta la cantidad máxima de vehículos asignables a cada línea.",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Airplane]": "Cantidad máxima de vehículos (Avión)",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Airplane]": "Ajusta la cantidad máxima de vehículos asignables a cada línea.",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Subway]": "Cantidad máxima de vehículos (Metro)",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Subway]": "Ajusta la cantidad máxima de vehículos asignables a cada línea."
+}

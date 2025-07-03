@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[DepotCapacityChanger.DepotCapacityChanger.Mod]": "Depot Capacity Changer",
+  "Options.TAB[DepotCapacityChanger.DepotCapacityChanger.Mod.Modify Depot Capacity]": "Principal",
+  "Options.GROUP[DepotCapacityChanger.DepotCapacityChanger.Mod.Student Capacity]": "Capacidad de los Depósitos",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "Cochera de Autobuses",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "Cochera de Taxis",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "Cochera de Metro",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "Cochera de Tranvías",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "Cochera de Trenes",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "Establecer capacidad de cochera de autobuses en relación a su capacidad original.",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "Establecer capacidad de cochera de taxis en relación a su capacidad original.",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "Establecer capacidad de cochera de metros en relación a su capacidad original.",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "Establecer capacidad de cochera de tranvías en relación a su capacidad original.",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "Establecer capacidad de cochera de trenes en relación a su capacidad original."
+}

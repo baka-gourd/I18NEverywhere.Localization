@@ -1,0 +1,8 @@
+{
+  "ChangeCompany.ChangeCompany": "Change Company",
+  "ChangeCompany.ChangeNow": "Cambiar Ahora",
+  "ChangeCompany.SectionTooltipCommercial": "Selecciona una empresa comercial por el recurso que **vende**.\r\nHaz clic en **Cambiar Ahora** para cambiar el edificio a la empresa seleccionada.",
+  "ChangeCompany.SectionTooltipIndustrial": "Selecciona una empresa industrial por el recurso que **produce** y los recursos que **requiere**.\r\nHaz clic en **Cambiar Ahora** para cambiar el edificio a la empresa seleccionada.",
+  "ChangeCompany.SectionTooltipOffice": "Selecciona una empresa de oficinas por el recurso que **produce** y los recursos que **requiere**.\r\nHaz clic en **Cambiar Ahora** para cambiar el edificio a la empresa seleccionada.",
+  "ChangeCompany.SectionTooltipStorage": "Selecciona una empresa de almacenamiento por el recurso que **almacena**.\r\nHaz clic en **Cambiar Ahora** para cambiar el edificio a la empresa seleccionada."
+}

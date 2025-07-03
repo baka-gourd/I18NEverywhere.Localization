@@ -1,0 +1,13 @@
+{
+  "CompanyBrandChanger.NAME": "Company Brand Changer",
+  "CompanyBrandChanger.SIP[RandomizeTooltip]": "Aleateoriza la semilla del edificio para cambiar los anuncios, tanto de tamaño como de posición, árboles, decoraciones y colores. El proceso es irreversible. Esto no afectará a la empresa en si misma, es solamente cosmético.",
+  "CompanyBrandChanger.SIP[Tooltip]": "El cambio de marca es solamente visual.\r\nNo afecta a la simulación y no cambia a la compañía que ocupa el edificio ni los recursos utilizados o manufacturados.",
+  "CompanyBrandChanger.UI_PANEL[CurrentBrand]": "Marca Actual",
+  "CompanyBrandChanger.UI_PANEL[CurrentCompany]": "Empresa Actual",
+  "CompanyBrandChanger.UI_PANEL[OtherBrands]": "Otras Marcas",
+  "CompanyBrandChanger.UI_PANEL[OtherBrandsTooltip]": "Las siguientes marcas son de compañías diferentes a la que ocupa el edificio actualmente.\r\nSeleccionar cualquiera de estas marcas, no tendrá ningún efecto sobre el negocio o la simulación.",
+  "CompanyBrandChanger.UI_PANEL[SelectedEntity]": "Seleccionar Entidad",
+  "CompanyBrandChanger.UI_PANEL[SupportedBrands]": "Marcas Soportadas",
+  "CompanyBrandChanger.UI_PANEL[SupportedBrandsTooltip]": "Las siguientes marcas son soportadas para la compañía actual.",
+  "CompanyBrandChanger.UI_PANEL[BrandGroupHover]": "[?]"
+}

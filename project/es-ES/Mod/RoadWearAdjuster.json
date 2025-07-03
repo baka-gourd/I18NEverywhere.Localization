@@ -1,0 +1,19 @@
+﻿{
+  "Options.SECTION[RoadWearAdjuster.RoadWearAdjuster.Mod]": "Road Wear Adjuster",
+  "Options.TAB[RoadWearAdjuster.RoadWearAdjuster.Mod.Main]": "Principal",
+  "Options.GROUP[RoadWearAdjuster.RoadWearAdjuster.Mod.Presets]": "Preajustes",
+  "Options.GROUP[RoadWearAdjuster.RoadWearAdjuster.Mod.Configure]": "Configurar",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "Restablecer a por defecto",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "Aplica este preajuste a tu configuración.",
+  "Options.WARNING[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "¿Seguro de aplicar este preajuste? La configuración existente será sobrescrita.",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureVariant]": "Estilo de Desgaste",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureVariant]": "Selecciona el tipo de textura de desgaste de tu preferencia.",
+  "Options.RoadWearAdjuster.RoadWearAdjuster.Mod.TEXTUREVARIANTENUM[Vanilla]": "Original",
+  "Options.RoadWearAdjuster.RoadWearAdjuster.Mod.TEXTUREVARIANTENUM[Reflavoured]": "Modificada",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureBrightness]": "Brillo del Desgaste",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureBrightness]": "Modifica el brillo del color base de la textura de desgaste, haciéndola más clara o más oscura.",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureOpacity]": "Opacidad del Desgaste",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureOpacity]": "Modifica que tan opaca es la textura de desgaste, haciéndola más o menos visible.",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureSmoothness]": "Pulido del Desgaste",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureSmoothness]": "Modifica el pulido general de la textura de desgaste, haciéndola más o menos reflejante vista desde cierto ángulo."
+}

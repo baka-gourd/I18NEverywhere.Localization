@@ -1,0 +1,6 @@
+{
+  "Options.SECTION[MapTextureReplacer.MapTextureReplacer.Mod]": "Map Texture Replacer",
+  "Options.OPTION[MapTextureReplacer.MapTextureReplacer.Mod.MapTextureReplacerOptions.ResetModSettings]": "Restablecer todos los ajustes",
+  "Options.OPTION_DESCRIPTION[MapTextureReplacer.MapTextureReplacer.Mod.MapTextureReplacerOptions.ResetModSettings]": "Restablece todos los ajustes a ajustes por defecto.",
+  "Options.WARNING[MapTextureReplacer.MapTextureReplacer.Mod.MapTextureReplacerOptions.ResetModSettings]": "¿Seguro de restablecer todos los ajustes?"
+}

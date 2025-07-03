@@ -1,0 +1,23 @@
+{
+  "Options.SECTION[PrefabAssetFixes.PrefabAssetFixes.Mod]": "Prefab Asset Fixes",
+  "Options.TAB[PrefabAssetFixes.PrefabAssetFixes.Mod.Options]": "Opciones",
+  "Options.TAB[PrefabAssetFixes.PrefabAssetFixes.Mod.About]": "Acerca De",
+  "Options.OPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.Prison]": "Prisión",
+  "Options.OPTION_DESCRIPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.Prison]": "Modifica la cantidad de vehículos en las prisiones de 10 a 20, para que todas las plazas de estacionamiento sean ocupadas.",
+  "Options.OPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.PrisonVan]": "Furgones de prisión",
+  "Options.OPTION_DESCRIPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.PrisonVan]": "Modifica la clase de furgones de prisión, de mediano a grande, para que estos puedan aparecer en las prisiones.",
+  "Options.OPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.Storage]": "Almacenamientos y Centro de Reciclaje",
+  "Options.OPTION_DESCRIPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.Storage]": "Soluciona el problema de que la sección de almacenamiento no se mostraba en los edificios de servicio y de que los centros de reciclaje no pudieran vender sus productos.",
+  "Options.OPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.Hospital]": "Hospitales",
+  "Options.OPTION_DESCRIPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.Hospital]": "Modifica el número de estacionamientos de vehículos de servicio de los hospitales de 10 a 30.",
+  "Options.OPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.ModState]": "Estado del Mod",
+  "Options.OPTION_DESCRIPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.ModState]": "",
+  "Options.OPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.NameText]": "Nombre del Mod",
+  "Options.OPTION_DESCRIPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.NameText]": "",
+  "Options.OPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.VersionText]": "Versión del Mod",
+  "Options.OPTION_DESCRIPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.VersionText]": "",
+  "Options.OPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.AuthorText]": "Autor",
+  "Options.OPTION_DESCRIPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.AuthorText]": "",
+  "Options.OPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.BMaCLink]": "Comprame un Coffee",
+  "Options.OPTION_DESCRIPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.BMaCLink]": "Apoya al autor del mod."
+}

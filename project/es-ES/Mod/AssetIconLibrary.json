@@ -1,0 +1,17 @@
+﻿{
+  "Options.SECTION[AssetIconLibrary.AssetIconLibrary.Mod]": "Asset Icon Library",
+  "Options.TAB[AssetIconLibrary.AssetIconLibrary.Mod.Main]": "Principal",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Settings]": "Ajustes",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Custom]": "Personalizado",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.RestartRequired]": "⚠️  Cambiar estas configuraciones requiere reiniciar el juego para aplicar los cambios.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "Sobrescribir íconos existentes",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "Cuando esta activado, Asset Icon Library sobrescribirá los íconos vanilla, incluso si el asset ya posee un ícono.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "Estilo de íconos",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "Cambia que estilo utilizar para los íconos de los assets de ser aplicable.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.CustomIcons]": "Usar íconos personalizados para los assets, colocando un archivo de imagen con el mismo nombre del asset, en la carpeta de íconos personalizados.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Abrir carpeta de íconos personalizados",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": " Agrega tus propios iconos personalizados para utilizarlos por sobre los iconos vanilla o los de este mod.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.ColoredPropless]": "A color y sin decoraciones",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.White]": "Blanco y sin decoraciones",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.Colored]": "A color y con decoraciones"
+} 

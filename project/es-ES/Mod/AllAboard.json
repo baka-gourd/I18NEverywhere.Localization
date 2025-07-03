@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[AllAboard.AllAboard.AllAboard]": "All Aboard!",
+  "Options.OPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.TrainMaxDwellDelaySlider]": "Retraso Máximo de Permanencia del Tren (minutos en el juego)",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.TrainMaxDwellDelaySlider]": "Cantidad máxima de tiempo (en el juego) que se permite a un Tren (Metro, Tranvía) 'permanecer' más allá de su horario de salida programado.",
+  "Options.OPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.BusMaxDwellDelaySlider]": "Retraso Máximo de Permanencia del Autobús (minutos en el juego)",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.BusMaxDwellDelaySlider]": "Cantidad máxima de tiempo (en el juego) que se permite a un Autobús 'permanecer' más allá de su horario de salida programado.",
+  "Options.OPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.ApplyButton]": "Aplicar",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.ApplyButton]": "Aplicar ajustes."
+}

@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[StifferVehicles.StifferVehicles.Mod]": "Stiffer Vehicles",
+  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.StiffnessModifier]": "Modificar rigidez",
+  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.StiffnessModifier]": "Modifica la rigidez de la suspensión de los vehículos. El valor original es 1.0; el valor predeterminado del mod es 3.0. Valores más elevados harán que los vehículos se inclinen menos, pero pueden parecer más rígidos.",
+  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.DampingModifier]": "Modificar amortiguación",
+  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.DampingModifier]": "Modifica la amortiguación de los vehículos. El valor original es 1.0; el valor predeterminado del mod es 2.0. Valores más elevados harán que los vehículos reboten más.",
+  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.ResetToDefault]": "Restablecer a por defecto",
+  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.ResetToDefault]": "Restablece las modificaciones a los valores por defecto del mod."
+}

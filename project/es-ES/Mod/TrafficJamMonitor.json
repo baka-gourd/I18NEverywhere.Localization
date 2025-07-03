@@ -1,0 +1,15 @@
+{
+  "TrafficJamMaker.Title": "Traffic Jam Monitor",
+  "TrafficJamMaker.Description": "Muestra información sobre atascos de tráfico en tu ciudad.",
+  "Options.SECTION[TrafficJamMaker.TrafficJamMaker.Mod]": "Traffic Jam Monitor",
+  "Options.GROUP[TrafficJamMaker.TrafficJamMaker.Mod.General]": "General",
+  "Options.OPTION[TrafficJamMaker.TrafficJamMaker.Mod.ModSettings.ResetMainPanelPosition]": "Restablecer posición del panel",
+  "Options.OPTION_DESCRIPTION[TrafficJamMaker.TrafficJamMaker.Mod.ModSettings.ResetMainPanelPosition]": "Restablece la posición del panel en el caso de que se haya salido de la pantalla.",
+  "Options.GROUP[TrafficJamMaker.TrafficJamMaker.Mod.Setting]": "Ajustes",
+  "Options.GROUP[TrafficJamMaker.TrafficJamMaker.Mod.About]": "Acerca de",
+  "Options.OPTION[TrafficJamMaker.TrafficJamMaker.Mod.ModSettings.ModVersion]": "Versión",
+  "Options.OPTION_DESCRIPTION[TrafficJamMaker.TrafficJamMaker.Mod.ModSettings.ModVersion]": "Versión actual del mod.",
+  "Options.OPTION[TrafficJamMaker.TrafficJamMaker.Mod.ModSettings.uiShowScale]": "Tamaño del panel",
+  "Options.OPTION_DESCRIPTION[TrafficJamMaker.TrafficJamMaker.Mod.ModSettings.uiShowScale]": "Configura el tamaño del panel de información mostrado en el juego.\r\n\r\n- Pequeño\r\n- Normal (Por defecto)\r\n- Grande\r\n- Enorme",
+  "TrafficJamMaker.ColumnLabelBlockerName": "Atascos"
+}

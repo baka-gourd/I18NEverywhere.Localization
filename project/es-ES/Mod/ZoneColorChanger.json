@@ -1,0 +1,9 @@
+﻿{
+  "Options.SECTION[ZoneColorChanger.ZoneColorChanger.Mod]": "Zone Color Changer",
+  "Options.TAB[ZoneColorChanger.ZoneColorChanger.Mod.MainSection]": "Principal",
+  "Options.GROUP[ZoneColorChanger.ZoneColorChanger.Mod.OptionsGroup]": "Ajustes",
+  "Options.OPTION[ZoneColorChanger.ZoneColorChanger.Mod.Setting.RecolorIcons]": "Cambiar color de iconos de zona",
+  "Options.OPTION_DESCRIPTION[ZoneColorChanger.ZoneColorChanger.Mod.Setting.RecolorIcons]": "Al estar activado, los íconos de los distintos tipos de zonas será actualizados para ajustarse a los colores seleccionados. Los cambios tomarán efecto al momento de re abrir el menú de zonas de la barra de herramientas. Al desactivar esta opción se requerirá reiniciar el juego para que haga efecto.",
+  "Options.OPTION[ZoneColorChanger.ZoneColorChanger.Mod.Setting.GroupThemes]": "Agrupar zonas por temas",
+  "Options.OPTION_DESCRIPTION[ZoneColorChanger.ZoneColorChanger.Mod.Setting.GroupThemes]": "Al estar activado, las zonas de distintos temas (EU, NA, etc.) se agruparán en una única pestaña de zona."
+}

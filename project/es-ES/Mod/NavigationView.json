@@ -1,0 +1,12 @@
+{
+  "NavigationView.UI.Title": "Navigation View",
+  "NavigationView.UI.WaitingPassengers": "Pasajeros en espera",
+  "Options.SECTION[NavigationView.NavigationView.Mod]": "Navigation View",
+  "Options.OPTION[NavigationView.NavigationView.Mod.Setting.RefreshFrequency]": "Tasa de actualización del panel",
+  "Options.OPTION_DESCRIPTION[NavigationView.NavigationView.Mod.Setting.RefreshFrequency]": "Tasa de actualización del panel de navegación en veces por segundo.\r\n- 0 es desactivado\r\n- 2 es por defecto del mod\r\n- No se recomiendan valores mayores a 30 podrían impactar en la performance del juego",
+  "Assets.NAME[Invisible Pathway]": "Camino invisible",
+  "Assets.NAME[Pathway]": "Camino",
+  "Assets.NAME[Train Track]": "Vía de tren",
+  "Assets.NAME[Subway Track]": "Vía de metro",
+  "Assets.NAME[Seaway]": "Véa maritima"
+}
