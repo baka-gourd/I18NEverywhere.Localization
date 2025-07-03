@@ -1,18 +1,19 @@
 {
-    "name": "localization",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "sync": "node sync-paratransz.js",
-        "gen": "node changelog-gen.js",
-        "check": "node check-mod-update.js"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "MIT",
-    "dependencies": {
-        "node-fetch-commonjs": "^3.3.2",
-        "unzipper": "^0.12.3"
-    }
+  "name": "localization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sync": "node sync-paratransz.js",
+    "gen": "node changelog-gen.js",
+    "check": "node check-mod-update.js",
+    "contributors": "node get-language-authors.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch-commonjs": "^3.3.2",
+    "unzipper": "^0.12.3"
+  }
 }
