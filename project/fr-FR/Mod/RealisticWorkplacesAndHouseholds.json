@@ -155,5 +155,13 @@
   "Options.OPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.disable_workplace_calculations]": "Désactiver les calculs du lieu de travail",
   "Options.OPTION_DESCRIPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.disable_workplace_calculations]": "Désactive les calculs pour les lieux de travail dans les zones de bureaux, commerciales et industrielles. Les valeurs des lieux de travail seront fixées à la valeur du jeu de base. Nécessite de redémarrer le jeu.",
   "Options.OPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.disable_cityservices_calculations]": "Désactiver les calculs du lieu de travail des services de la ville",
-  "Options.OPTION_DESCRIPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.disable_cityservices_calculations]": "Désactive les calculs pour les lieux de travail sur les bâtiments appartenant à la ville. Les valeurs des lieux de travail seront fixées à la valeur du jeu de base. Nécessite de redémarrer le jeu."
+  "Options.OPTION_DESCRIPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.disable_cityservices_calculations]": "Désactive les calculs pour les lieux de travail sur les bâtiments appartenant à la ville. Les valeurs des lieux de travail seront fixées à la valeur du jeu de base. Nécessite de redémarrer le jeu.",
+  "Options.OPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.residential_vacancy_rate]": "Taux d'inoccupation",
+  "Options.OPTION_DESCRIPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.residential_vacancy_rate]": "Pourcentage d'appartements ou de maisons qui seront libres et réservés à la population locale de la ville.",
+  "Options.OPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.industry_area_base]": "Seuil de grande surface",
+  "Options.OPTION_DESCRIPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.industry_area_base]": "Pour les bâtiments industriels dont la superficie est supérieure au seuil défini, un facteur de réduction sera appliqué afin de réduire le nombre de postes de travail calculé.",
+  "Options.OPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.office_height_base]": "Seuil d'étage d'un immeuble de grande hauteur",
+  "Options.OPTION_DESCRIPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.office_height_base]": "Pour les bâtiments qui ont un nombre d'étages supérieur au seuil défini, un facteur de réduction sera appliqué afin de réduire le nombre de postes de travail calculé.",
+  "Options.OPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.noise_factor]": "Facteur de bruit",
+  "Options.OPTION_DESCRIPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.noise_factor]": "Réduit le bruit produit par les bâtiments de ce facteur. Ce facteur sera appliqué pour réduire la production de bruit provenant des bâtiments. Une valeur de 100 % conservera les mêmes paramètres que le jeu original."
 }
