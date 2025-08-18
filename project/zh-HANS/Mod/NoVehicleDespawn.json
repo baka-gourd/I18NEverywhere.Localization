@@ -2,7 +2,7 @@
   "Options.SECTION[NoTrafficDespawn.NoTrafficDespawn.Mod]": "禁止载具消失",
   "Options.TAB[NoTrafficDespawn.NoTrafficDespawn.Mod.Main]": "主要",
   "Options.GROUP[NoTrafficDespawn.NoTrafficDespawn.Mod.Toggle]": "禁止载具消失设置",
-  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.generalInfo]": "该模组可以配置游戏在检测到拥堵时的载具消失策略。在原版中，当计划经过同一路径节点的车辆形成一个最大速度低于 6 m/s 的环形长龙，或者形成一个超过 100 辆车但没有一辆车的速度超过 6 m/s 的长龙时，其将被标记为拥堵。该模组的推荐配置为仅检查死锁并设置清除等待时间，其将对所有对象生效（车辆，市民，公交），不推荐完全禁用清除功能。",
+  "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.generalInfo]": "该模组可以更改游戏在检测到拥堵时的载具消失策略。在原版中，当计划经过同一路径节点的车辆形成一个最大速度低于 6 m/s 的环形长龙，或者形成一个超过 100 辆车但没有一辆车的速度超过 6 m/s 的长龙时，其将被标记为拥堵。该模组的推荐配置为仅检查死锁并设置清除等待时间，其将对所有对象生效（车辆，市民，公交），不推荐完全禁用清除功能。",
   "Options.OPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnBehavior]": "载具消失策略",
   "Options.OPTION_DESCRIPTION[NoTrafficDespawn.NoTrafficDespawn.Mod.TrafficDespawnSettings.despawnBehavior]": "用于判断对象是否拥堵的逻辑。 “原版”会禁用该模组，并恢复原版行为。",
   "Options.NoTrafficDespawn.NoTrafficDespawn.Mod.DESPAWNBEHAVIOR[Vanilla]": "原版（默认）",

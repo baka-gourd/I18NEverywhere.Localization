@@ -31,5 +31,12 @@
   "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DisableTelemetry]": "禁用遥测。本模组仅收集有关资产包数量和自适应加载设置的数据。如果大多数用户启用了自适应加载，则该功能将在未来版本中默认启用。",
   "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteCachedAssetPacks]": "删除缓存的资产包",
   "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteCachedAssetPacks]": "有时有助于解决缺少 CID 文件的问题。删除已下载的 PDX 模组的缓存。这将立即关闭游戏。它不会改变您的游戏设置，但需要在下次启动时重新下载所有模组。这可能需要几分钟，具体取决于订阅的模组数量。",
-  "Options.WARNING[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteCachedAssetPacks]": "**警告：这将关闭您的游戏！** 您确定要删除资产包缓存吗？此操作无法撤消。"
+  "Options.WARNING[AssetPacksManager.AssetPacksManager.Mod.Setting.DeleteCachedAssetPacks]": "**警告：这将关闭您的游戏！** 您确定要删除资产包缓存吗？此操作无法撤消。",
+  "Options.TAB[AssetPacksManager.AssetPacksManager.Mod.Local Assets]": "本地资产",
+  "Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Asset Pack Loading]": "正在加载资产包",
+  "Options.GROUP[AssetPacksManager.AssetPacksManager.Mod.Logging]": "加载中",
+  "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DisableLoadingNotification]": "禁用加载通知",
+  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.DisableLoadingNotification]": "加载资产包时禁用通知（改善加载时间）。",
+  "Options.OPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LocalAssetsText]": "本地资产",
+  "Options.OPTION_DESCRIPTION[AssetPacksManager.AssetPacksManager.Mod.Setting.LocalAssetsText]": "显示已加载的本地资产。这是一个只读字段。"
 }

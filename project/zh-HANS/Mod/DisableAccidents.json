@@ -1,1 +1,5 @@
-﻿{}
+﻿{
+  "Options.SECTION[DisableAccidents.DisableAccidents.Mod]": "禁用交通事故",
+  "Options.OPTION[DisableAccidents.DisableAccidents.Mod.Setting.ModEnabled]": "切换预防交通事故",
+  "Options.OPTION_DESCRIPTION[DisableAccidents.DisableAccidents.Mod.Setting.ModEnabled]": "启用此选项后，将会预防所有交通事故。"
+}
