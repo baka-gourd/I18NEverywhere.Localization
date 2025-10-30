@@ -20,8 +20,6 @@
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerResProp]": "每栋住宅楼内的车库数量。没有车库的住宅不会受到影响。",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerWorker]": "员工车库比",
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerWorker]": "工作场所中员工与车库的比例。不会影响非自长建筑和没有车库的建筑。",
-  "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.SetGarageCapacitiesButton]": "设置车库容量",
-  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.SetGarageCapacitiesButton]": "设置自定义车库容量。",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.EnableParkingMins]": "启用最少停车位",
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.EnableParkingMins]": "启用最少停车位。启用后，最少停车位数值将会替换原版数值。原版公寓最多有 3 个停车位，办公楼则有 30 个。",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.ResetButton]": "重置设置",
