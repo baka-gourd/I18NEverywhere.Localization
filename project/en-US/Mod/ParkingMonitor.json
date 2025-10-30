@@ -1,0 +1,18 @@
+{
+  "Options.SECTION[ParkingMonitor.ParkingMonitor.Mod]": "Parking Monitor",
+  "Options.TAB[ParkingMonitor.ParkingMonitor.Mod.Main]": "Main",
+  "Options.GROUP[ParkingMonitor.ParkingMonitor.Mod.Settings]": "Settings",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.parkingRowCount]": "Max Parking Locations Displayed",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.parkingRowCount]": "The maximum number of parking locations whose counts are displayed in the parking monitor panel.",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.defaultRowsPerDistrict]": "Default Rows Per District",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.defaultRowsPerDistrict]": "The default number of parking lots to show per district.",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.initialState]": "Initial Monitor Active State",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.initialState]": "Whether the parking monitor is active when the game starts. The monitor must be 'active' or 'paused' to record data.",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.INITIALVALUE[ACTIVE]": "Active",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.INITIALVALUE[PAUSED]": "Paused",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.INITIALVALUE[STOPPED]": "Stopped",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.districtSortOrder]": "District Sort Order",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.districtSortOrder]": "The order in which to sort districts in the parking monitor panel",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.SORTORDER[COUNT]": "Max Parking Attempts",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.SORTORDER[NAME]": "Name"
+}
