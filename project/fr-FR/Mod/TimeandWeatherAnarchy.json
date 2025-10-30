@@ -7,8 +7,6 @@
   "Options.SECTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod]": "Time & Weather Anarchy",
   "Options.TAB[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.Main]": "Paramètres généraux",
   "Options.GROUP[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.KeyBindingGroup]": "Raccourcis clavier",
-  "TimeWeatherAnarchy.ModName": "Time & Weather Anarchy",
-  "TimeWeatherAnarchy.ModIconTooltip": "Time & Weather Anarchy",
   "TimeWeatherAnarchy.Default": "Par défaut",
   "TimeWeatherAnarchy.Custom": "Custom",
   "TimeWeatherAnarchy.TimeOptions": "Options de temps",
@@ -51,5 +49,6 @@
   "TimeWeatherAnarchy.Aurora": "Aurores Boréales",
   "TimeWeatherAnarchy.Temperature": "Température",
   "TimeWeatherAnarchy.Fog": "Brouillard",
+  "TimeWeatherAnarchy.Thunder": "Tonnerre"
   "TimeWeatherAnarchy.Thunder": "Tonnerre"
 }
