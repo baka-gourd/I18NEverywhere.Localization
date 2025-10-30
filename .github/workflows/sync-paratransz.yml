@@ -27,8 +27,11 @@ jobs:
             - name: Install Dependencies
               run: pnpm install
 
+            - name: Build
+              run: pnpm build
+
             - name: Sync Paratransz
-              run: pnpm sync ${{ secrets.PARATRANSZ }}
+              run: pnpm sync "Bearer ${{ secrets.PARATRANSZ }}" 
 
             - name: Commit zh-HANS
               uses: EndBug/add-and-commit@v9

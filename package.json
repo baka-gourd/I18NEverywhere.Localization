@@ -2,18 +2,28 @@
   "name": "localization",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/tools/sync.js",
+  "type": "module",
   "scripts": {
-    "sync": "node sync-paratransz.js",
-    "gen": "node changelog-gen.js",
-    "check": "node check-mod-update.js",
-    "contributors": "node get-language-authors.js"
+    "build": "tsc -p tsconfig.json",
+    "sync": "node dist/tools/sync.js",
+    "sync:dev": "ts-node src/tools/sync.ts",
+    "gen": "node dist/tools/changelog-gen.js",
+    "check": "node dist/tools/check-mod-update.js",
+    "contributors": "node dist/tools/get-language-authors.js"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "node-fetch-commonjs": "^3.3.2",
+    "@types/unzipper": "^0.10.11",
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.3.2",
     "unzipper": "^0.12.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
   }
 }

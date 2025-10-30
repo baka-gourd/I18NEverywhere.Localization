@@ -1,24 +1,23 @@
-const { exec } = require("child_process");
-const fs = require("fs");
-const path = require("path");
-const util = require("util");
-const execPromise = util.promisify(exec);
+import { promisify } from "util";
+import { exec as execCb } from "child_process";
+import fs from "fs";
+import path from "path";
+
+const exec = promisify(execCb);
 
 async function getLanguageDirs() {
-  const projectPath = path.join(__dirname, "project");
+  const projectPath = path.join(__dirname, "..", "..", "project");
   return fs.readdirSync(projectPath).filter((file) => {
     return fs.statSync(path.join(projectPath, file)).isDirectory();
   });
 }
 
-async function getAuthorsForLanguage(language) {
+async function getAuthorsForLanguage(language: string) {
   try {
     const langPath = `project/${language}`;
-    const { stdout } = await execPromise(
+    const { stdout } = await exec(
       `git log --pretty=format:"%an" -- ${langPath}`
     );
-
-    // Remove duplicate authors and sort them
     const authors = [
       ...new Set(stdout.split("\n").filter((a) => a.trim() !== "")),
     ];
@@ -30,13 +29,10 @@ async function getAuthorsForLanguage(language) {
 }
 
 async function updateDescriptionFile() {
-  const descriptionPath = path.join(__dirname, "..", "Description.md");
+  const descriptionPath = path.join(__dirname, "..", "..", "Description.md");
   let descriptionContent = fs.readFileSync(descriptionPath, "utf8");
-
-  // Get all language directories
   const languages = await getLanguageDirs();
 
-  // Generate authors for each language
   let githubAuthors = "";
   for (const lang of languages) {
     const authors = await getAuthorsForLanguage(lang);
@@ -45,16 +41,11 @@ async function updateDescriptionFile() {
     }
   }
 
-  // Find the Github section specifically and replace only that
   if (descriptionContent.includes("Github:")) {
     const sections = descriptionContent.split("Github:");
     const beforeGithub = sections[0];
-    const afterGithub = sections[1].split(/\n[A-Za-z]+:/)[0]; // Get content until next section
-
-    // Replace the content after "Github:" header
+    const afterGithub = sections[1].split(/\n[A-Za-z]+:/)[0];
     descriptionContent = beforeGithub + "Github:\n\n" + githubAuthors;
-
-    // Check if there was more content after this section
     if (sections[1].includes("\n")) {
       const remainingContent = sections[1].substring(afterGithub.length);
       descriptionContent += remainingContent;
