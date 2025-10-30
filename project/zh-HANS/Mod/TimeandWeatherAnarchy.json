@@ -1,21 +1,16 @@
 ﻿{
   "Options.OPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.TimeWeatherAnarchySettings.TriggerPanelToggle]": "启用工具快捷键",
-  "Options.OPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod/TriggerPanelToggle/binding]": "启用工具快捷键",
   "Options.OPTION_DESCRIPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.TimeWeatherAnarchySettings.TriggerPanelToggle]": "打开或关闭工具面板。",
   "Options.OPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.TimeWeatherAnarchySettings.TriggerDayNightToggle]": "切换白天或夜晚的快捷键",
-  "Options.OPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod/TriggerDayNightToggle/binding]": "切换白天或夜晚的快捷键",
   "Options.OPTION_DESCRIPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.TimeWeatherAnarchySettings.TriggerDayNightToggle]": "点击此选项可以在白天和夜晚之间切换。",
-  "Options.OPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod/TriggerNextProfileToggle/binding]": "进入下一个快捷键设置配置",
   "Options.OPTION_DESCRIPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.TimeWeatherAnarchySettings.TriggerNextProfileToggle]": "将您的设置配置文件更改为下一个。",
   "Options.SECTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod]": "时间与天气无限制",
   "Options.TAB[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.Main]": "通用设置",
-  "Options.GROUP[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.Main]": "通用设置",
   "Options.GROUP[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.KeyBindingGroup]": "快捷键绑定",
   "TimeWeatherAnarchy.ModName": "时间与天气无限制",
   "TimeWeatherAnarchy.ModIconTooltip": "时间与天气无限制",
   "TimeWeatherAnarchy.Default": "默认",
   "TimeWeatherAnarchy.Custom": "自定义",
-  "TimeWeatherAnarchy.Main": "主要",
   "TimeWeatherAnarchy.TimeOptions": "时间选项",
   "TimeWeatherAnarchy.ProfileOptions": "配置",
   "TimeWeatherAnarchy.Create": "创建",
@@ -57,5 +52,7 @@
   "TimeWeatherAnarchy.Temperature": "温度",
   "TimeWeatherAnarchy.Fog": "雾",
   "TimeWeatherAnarchy.Thunder": "雷电",
-  "TimeWeatherAnarchy.Rainbow": "彩虹"
+  "Options.OPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.TimeWeatherAnarchySettings.TriggerNextProfileToggle]": "切换到下一配置",
+  "TimeWeatherAnarchy.DeleteProfileConfirmation": "确定要删除配置吗？",
+  "TimeWeatherAnarchy.DeleteProfile": "删除配置"
 }
