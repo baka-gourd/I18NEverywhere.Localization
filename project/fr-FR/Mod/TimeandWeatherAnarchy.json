@@ -1,21 +1,11 @@
 ﻿{
-  "Options.OPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.TimeWeatherAnarchySettings.TriggerPanelToggle]": "Activer la touche de raccourci de l'outil",
-  "Options.OPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod/TriggerPanelToggle/binding]": "Activer la touche de raccourci de l'outil",
   "Options.OPTION_DESCRIPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.TimeWeatherAnarchySettings.TriggerPanelToggle]": "Ouvrir ou fermer l'outil.",
   "Options.OPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.TimeWeatherAnarchySettings.TriggerDayNightToggle]": "Touche de raccourci pour passer de l'heure du jour à l'heure de la nuit",
-  "Options.OPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod/TriggerDayNightToggle/binding]": "Touche de raccourci pour passer de l'heure du jour à l'heure de la nuit",
   "Options.OPTION_DESCRIPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.TimeWeatherAnarchySettings.TriggerDayNightToggle]": "Passez de l'heure du jour à l'heure de la nuit en appuyant sur ce bouton.",
-  "Options.OPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod/TriggerNextProfileToggle/binding]": "Passer au profil de réglage suivant pour une autre touche de raccourci",
   "Options.OPTION_DESCRIPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.TimeWeatherAnarchySettings.TriggerNextProfileToggle]": "Passez au profil suivant.",
-  "Options.SECTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod]": "Time & Weather Anarchy",
-  "Options.TAB[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.Main]": "Paramètres généraux",
-  "Options.GROUP[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.Main]": "Paramètres généraux",
   "Options.GROUP[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.KeyBindingGroup]": "Raccourcis clavier",
-  "TimeWeatherAnarchy.ModName": "Time & Weather Anarchy",
-  "TimeWeatherAnarchy.ModIconTooltip": "Time & Weather Anarchy",
   "TimeWeatherAnarchy.Default": "Par défaut",
   "TimeWeatherAnarchy.Custom": "Custom",
-  "TimeWeatherAnarchy.Main": "Général",
   "TimeWeatherAnarchy.TimeOptions": "Options de temps",
   "TimeWeatherAnarchy.ProfileOptions": "Profils",
   "TimeWeatherAnarchy.Create": "Créer",
@@ -56,6 +46,5 @@
   "TimeWeatherAnarchy.Aurora": "Aurores Boréales",
   "TimeWeatherAnarchy.Temperature": "Température",
   "TimeWeatherAnarchy.Fog": "Brouillard",
-  "TimeWeatherAnarchy.Thunder": "Tonnerre",
-  "TimeWeatherAnarchy.Rainbow": "Arc-en-ciel"
+  "TimeWeatherAnarchy.Thunder": "Tonnerre"
 }

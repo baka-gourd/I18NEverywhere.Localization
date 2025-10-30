@@ -7,7 +7,6 @@
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.InducedDemandInitialTolerance]": "Tolérance de demande initiale",
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.InducedDemandInitialTolerance]": "Le nombre de voitures pour les places de stationnement à laisser entrer dans un premier temps sans tenir compte de la taille de la file d'attente par place. Par exemple, s'il y a deux places de stationnement libres, que ce paramètre est fixé à 5 et que la taille de la file d'attente par place est fixée à 1, la place de stationnement sera désactivée après que 7 voitures se seront dirigées vers cette place. Si ce paramètre est réglé sur un nombre faible et que les places de stationnement sont limitées dans la ville, le nombre de voitures circulant dans la ville risque d'être faible.",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.InducedDemandQueueSizePerSpot]": "Taille de la file d'attente par place de stationnement",
-  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.InducedDemandQueueSizePerSpot]": "Le nombre de voitures autorisées à se diriger vers chaque place de stationnement disponible.",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.InducedDemandCooldown]": "Longueur de la réinitialisation des demande",
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.InducedDemandCooldown]": "Le nombre d'images de simulation après la dernière recherche de chemin pour que la demande soit réinitialisée à 0. Pour référence, une minute de jeu est approximativement égale à 182 images (frames).",
   "Options.GROUP[RealisticParking.RealisticParking.Mod.Reroute Distance]": "Distance de réacheminement",
@@ -17,13 +16,8 @@
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.RerouteDistance]": "Nombre de nœuds en distance depuis le stationnement pour que les voitures soient réacheminées en fonction de la disponibilité des places de stationnement. Pour référence, la valeur dans le jeu de base est de 4000.",
   "Options.GROUP[RealisticParking.RealisticParking.Mod.Garage Spots]": "Minimums de stationnement",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerResProp]": "Emplacements de garage par ménage",
-  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerResProp]": "Le nombre de places de garage par ménage dans l'appartement. Les appartements sans garage dans les assets ne sont pas concernés.",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerWorker]": "Places de garage par travailleur",
-  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.GarageSpotsPerWorker]": "Le nombre de places de garage par travailleur dans l'immeuble. Les bâtiments Non-RICO ne sont pas affectés. Les propriétés sans garage dans les assets ne sont pas concernées.",
-  "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.SetGarageCapacitiesButton]": "Définir les capacités des garages",
-  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.SetGarageCapacitiesButton]": "Régler les capacités du garage en fonction des paramètres actuels.",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.EnableParkingMins]": "Activer le nombre minimal de stationnement pour les garages",
-  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.EnableParkingMins]": "Active les minimums de stationnement pour les garages. Si cette option est activée, les capacités personnalisées des garages remplaceront les valeurs vanilla. Les appartements vanilla ont plus de 3 places de stationnement et les bureaux en ont environ 30.",
   "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.ResetButton]": "Réinitialiser les paramètres",
   "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.ResetButton]": "Réinitialiser les paramètres aux valeurs par défaut."
 }
