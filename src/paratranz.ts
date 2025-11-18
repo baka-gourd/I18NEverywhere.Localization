@@ -30,11 +30,15 @@ export class ParaTranzSync {
   }
 
   private async saveSyncData(data: SyncData) {
-    await fs.writeFile(
-      this.syncDataFile,
-      JSON.stringify(data, null, 2),
-      "utf-8"
-    );
+    // Avoid touching the file if content did not change
+    const next = JSON.stringify(data, null, 2);
+    try {
+      const prev = await fs.readFile(this.syncDataFile, "utf-8");
+      if (prev === next) return; // no change
+    } catch {
+      // file not exist or unreadable; proceed to write
+    }
+    await fs.writeFile(this.syncDataFile, next, "utf-8");
   }
 
   private async triggerAndWaitExport(
