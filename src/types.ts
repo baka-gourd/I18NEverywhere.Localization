@@ -31,7 +31,9 @@ export interface JobInfo {
 
 export interface SyncData {
   artifact: Record<string, string>; // projectId -> artifact createdAt
-  localPush: Record<string, Record<string, number>>; // projectId -> relPath -> mtimeMs
+  // projectId -> relPath -> hash
+  // Backward compatibility: previously stored mtimeMs (number). Now store content hash (string).
+  localPush: Record<string, Record<string, string | number>>;
 }
 
 export interface Config {
