@@ -2,8 +2,12 @@ import { promisify } from "util";
 import { exec as execCb } from "child_process";
 import fs from "fs";
 import path from "path";
+import { fileURLToPath } from "url";
 
 const exec = promisify(execCb);
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 async function getLanguageDirs() {
   const projectPath = path.join(__dirname, "..", "..", "project");
@@ -29,7 +33,13 @@ async function getAuthorsForLanguage(language: string) {
 }
 
 async function updateDescriptionFile() {
-  const descriptionPath = path.join(__dirname, "..", "..", "Description.md");
+  const descriptionPath = path.join(
+    __dirname,
+    "..",
+    "..",
+    "..",
+    "Description.md"
+  );
   let descriptionContent = fs.readFileSync(descriptionPath, "utf8");
   const languages = await getLanguageDirs();
 
