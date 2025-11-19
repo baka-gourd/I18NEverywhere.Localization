@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[AssetVariationChanger.AssetVariationChanger.Mod]": "Varlık Varyasyon Değiştirici",
+  "Options.TAB[AssetVariationChanger.AssetVariationChanger.Mod.Main]": "Ana",
+  "Options.GROUP[AssetVariationChanger.AssetVariationChanger.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableMod]": "Varlık Varyasyon Değiştirici modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ShowVariations]": "Varyasyonları Göster",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ShowVariations]": "Seçili varlık için mevcut varyasyonları göster"
+}

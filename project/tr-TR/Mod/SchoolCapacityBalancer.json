@@ -1,0 +1,13 @@
+{
+  "Options.SECTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod]": "Okul Kapasitesi Dengeleyici",
+  "Options.TAB[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Modify School Capacity]": "Ana",
+  "Options.GROUP[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Student Capacity]": "Öğrenci Kapasitesi",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ElementarySlider]": "İlkokul",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSlider]": "Lise",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.CollegeSlider]": "Kolej",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.UniversitySlider]": "Üniversite",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ElementarySlider]": "İlkokul binalarının öğrenci kapasitesini vanilla kapasitelerine göre ayarlayın.",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSlider]": "Lise binalarının öğrenci kapasitesini vanilla kapasitelerine göre ayarlayın.",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.CollegeSlider]": "Kolej binalarının öğrenci kapasitesini vanilla kapasitelerine göre ayarlayın.",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.UniversitySlider]": "Üniversite binalarının öğrenci kapasitesini vanilla kapasitelerine göre ayarlayın."
+}

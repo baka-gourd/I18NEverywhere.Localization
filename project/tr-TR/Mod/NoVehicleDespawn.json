@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[NoVehicleDespawn.NoVehicleDespawn.Mod]": "Araç Yok Olmasın",
+  "Options.TAB[NoVehicleDespawn.NoVehicleDespawn.Mod.Main]": "Ana",
+  "Options.GROUP[NoVehicleDespawn.NoVehicleDespawn.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[NoVehicleDespawn.NoVehicleDespawn.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[NoVehicleDespawn.NoVehicleDespawn.Mod.Setting.EnableMod]": "Araç Yok Olmasın modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[NoVehicleDespawn.NoVehicleDespawn.Mod.Setting.DisableDespawn]": "Yok Olmayı Devre Dışı Bırak",
+  "Options.OPTION_DESCRIPTION[NoVehicleDespawn.NoVehicleDespawn.Mod.Setting.DisableDespawn]": "Araçların haritadan kaybolmasını engelle"
+}

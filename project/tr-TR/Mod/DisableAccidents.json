@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[DisableAccidents.DisableAccidents.Mod]": "Kazaları Devre Dışı Bırak",
+  "Options.TAB[DisableAccidents.DisableAccidents.Mod.Main]": "Ana",
+  "Options.GROUP[DisableAccidents.DisableAccidents.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[DisableAccidents.DisableAccidents.Mod.Setting.DisableTrafficAccidents]": "Trafik Kazalarını Devre Dışı Bırak",
+  "Options.OPTION_DESCRIPTION[DisableAccidents.DisableAccidents.Mod.Setting.DisableTrafficAccidents]": "Şehirde trafik kazalarının oluşmasını engelle",
+  "Options.OPTION[DisableAccidents.DisableAccidents.Mod.Setting.DisableBuildingFires]": "Bina Yangınlarını Devre Dışı Bırak",
+  "Options.OPTION_DESCRIPTION[DisableAccidents.DisableAccidents.Mod.Setting.DisableBuildingFires]": "Binalarda yangınların çıkmasını engelle"
+}

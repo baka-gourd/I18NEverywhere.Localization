@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[BoundaryLinesModifier.BoundaryLinesModifier.Mod]": "Sınır Çizgileri Değiştirici",
+  "Options.TAB[BoundaryLinesModifier.BoundaryLinesModifier.Mod.Main]": "Ana",
+  "Options.GROUP[BoundaryLinesModifier.BoundaryLinesModifier.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[BoundaryLinesModifier.BoundaryLinesModifier.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[BoundaryLinesModifier.BoundaryLinesModifier.Mod.Setting.EnableMod]": "Sınır Çizgileri Değiştirici modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[BoundaryLinesModifier.BoundaryLinesModifier.Mod.Setting.LineWidth]": "Çizgi Genişliği",
+  "Options.OPTION_DESCRIPTION[BoundaryLinesModifier.BoundaryLinesModifier.Mod.Setting.LineWidth]": "Bölge sınır çizgilerinin genişliğini ayarla"
+}

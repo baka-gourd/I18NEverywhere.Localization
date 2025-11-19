@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[NavigationView.NavigationView.Mod]": "Navigasyon Görünümü",
+  "Options.TAB[NavigationView.NavigationView.Mod.Main]": "Ana",
+  "Options.GROUP[NavigationView.NavigationView.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[NavigationView.NavigationView.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[NavigationView.NavigationView.Mod.Setting.EnableMod]": "Navigasyon Görünümü modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[NavigationView.NavigationView.Mod.Setting.ShowPaths]": "Yolları Göster",
+  "Options.OPTION_DESCRIPTION[NavigationView.NavigationView.Mod.Setting.ShowPaths]": "Vatandaşların ve araçların yollarını haritada göster"
+}

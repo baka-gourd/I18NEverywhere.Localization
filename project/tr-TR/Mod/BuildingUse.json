@@ -1,0 +1,7 @@
+{
+  "Options.SECTION[BuildingUse.BuildingUse.Mod]": "Bina Kullanımı",
+  "Options.TAB[BuildingUse.BuildingUse.Mod.Main]": "Ana",
+  "Options.GROUP[BuildingUse.BuildingUse.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[BuildingUse.BuildingUse.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[BuildingUse.BuildingUse.Mod.Setting.EnableMod]": "Bina Kullanımı modunu etkinleştir veya devre dışı bırak"
+}

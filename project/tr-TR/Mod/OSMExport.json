@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[OSMExport.OSMExport.Mod]": "OSM Dışa Aktarma",
+  "Options.TAB[OSMExport.OSMExport.Mod.Main]": "Ana",
+  "Options.GROUP[OSMExport.OSMExport.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[OSMExport.OSMExport.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[OSMExport.OSMExport.Mod.Setting.EnableMod]": "OSM Dışa Aktarma modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[OSMExport.OSMExport.Mod.Setting.ExportMap]": "Haritayı Dışa Aktar",
+  "Options.OPTION_DESCRIPTION[OSMExport.OSMExport.Mod.Setting.ExportMap]": "Şehir haritanızı OpenStreetMap formatında dışa aktarın"
+}

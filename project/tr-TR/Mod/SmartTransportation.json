@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[SmartTransportation.SmartTransportation.Mod]": "Akıllı Ulaşım",
+  "Options.TAB[SmartTransportation.SmartTransportation.Mod.Main]": "Ana",
+  "Options.GROUP[SmartTransportation.SmartTransportation.Mod.General]": "Genel",
+  "Options.OPTION[SmartTransportation.SmartTransportation.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[SmartTransportation.SmartTransportation.Mod.Setting.EnableMod]": "Akıllı Ulaşım modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[SmartTransportation.SmartTransportation.Mod.Setting.OptimizeRoutes]": "Rotaları Optimize Et",
+  "Options.OPTION_DESCRIPTION[SmartTransportation.SmartTransportation.Mod.Setting.OptimizeRoutes]": "Toplu taşıma rotalarını otomatik olarak optimize et"
+}

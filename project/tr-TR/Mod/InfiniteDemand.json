@@ -1,0 +1,13 @@
+{
+  "Options.SECTION[InfiniteDemand.InfiniteDemand.Mod]": "Sonsuz Talep",
+  "Options.TAB[InfiniteDemand.InfiniteDemand.Mod.Main]": "Ana",
+  "Options.GROUP[InfiniteDemand.InfiniteDemand.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.EnableMod]": "Sonsuz Talep modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.ResidentialDemand]": "Konut Talebi",
+  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.ResidentialDemand]": "Konut için sonsuz talep oluştur",
+  "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.CommercialDemand]": "Ticari Talep",
+  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.CommercialDemand]": "Ticari alanlar için sonsuz talep oluştur",
+  "Options.OPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.IndustrialDemand]": "Endüstriyel Talep",
+  "Options.OPTION_DESCRIPTION[InfiniteDemand.InfiniteDemand.Mod.Setting.IndustrialDemand]": "Endüstri için sonsuz talep oluştur"
+}

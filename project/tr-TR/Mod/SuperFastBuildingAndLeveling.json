@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Mod]": "Süper Hızlı İnşaat ve Seviye Atlama",
+  "Options.TAB[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Mod.Main]": "Ana",
+  "Options.GROUP[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Mod.Setting.ConstructionSpeed]": "İnşaat Hızı Çarpanı",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Mod.Setting.ConstructionSpeed]": "Binaların ne kadar hızlı inşa edileceğini ayarla (1 = normal, 10 = 10x hızlı)",
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Mod.Setting.LevelingSpeed]": "Seviye Atlama Hızı Çarpanı",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Mod.Setting.LevelingSpeed]": "Binaların ne kadar hızlı seviye atlayacağını ayarla (1 = normal, 10 = 10x hızlı)"
+}

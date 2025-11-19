@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[RealisticWorkplacesAndHouseholds.RealisticWorkplacesAndHouseholds.Mod]": "Gerçekçi İş Yerleri ve Haneler",
+  "Options.TAB[RealisticWorkplacesAndHouseholds.RealisticWorkplacesAndHouseholds.Mod.Main]": "Ana",
+  "Options.GROUP[RealisticWorkplacesAndHouseholds.RealisticWorkplacesAndHouseholds.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[RealisticWorkplacesAndHouseholds.RealisticWorkplacesAndHouseholds.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[RealisticWorkplacesAndHouseholds.RealisticWorkplacesAndHouseholds.Mod.Setting.EnableMod]": "Gerçekçi İş Yerleri ve Haneler modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[RealisticWorkplacesAndHouseholds.RealisticWorkplacesAndHouseholds.Mod.Setting.WorkplaceMultiplier]": "İş Yeri Çarpanı",
+  "Options.OPTION_DESCRIPTION[RealisticWorkplacesAndHouseholds.RealisticWorkplacesAndHouseholds.Mod.Setting.WorkplaceMultiplier]": "Binalardaki iş yeri sayısını ayarla"
+}

@@ -1,0 +1,13 @@
+{
+  "Options.SECTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod]": "Transit Kapasite Çarpanı",
+  "Options.TAB[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Main]": "Ana",
+  "Options.GROUP[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.BusCapacity]": "Otobüs Kapasitesi",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.BusCapacity]": "Otobüslerin yolcu kapasitesini vanilla kapasitelerine göre ayarla",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TramCapacity]": "Tramvay Kapasitesi",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TramCapacity]": "Tramvayların yolcu kapasitesini vanilla kapasitelerine göre ayarla",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.SubwayCapacity]": "Metro Kapasitesi",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.SubwayCapacity]": "Metro trenlerinin yolcu kapasitesini vanilla kapasitelerine göre ayarla",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TrainCapacity]": "Tren Kapasitesi",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TrainCapacity]": "Trenlerin yolcu kapasitesini vanilla kapasitelerine göre ayarla"
+}

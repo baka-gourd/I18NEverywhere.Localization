@@ -1,0 +1,7 @@
+{
+  "Options.SECTION[ParkingMonitor.ParkingMonitor.Mod]": "Park Yeri İzleyici",
+  "Options.TAB[ParkingMonitor.ParkingMonitor.Mod.Main]": "Ana",
+  "Options.GROUP[ParkingMonitor.ParkingMonitor.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.EnableMod]": "Park Yeri İzleyici modunu etkinleştir veya devre dışı bırak"
+}

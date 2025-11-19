@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[BrushSizeUnlimiter.BrushSizeUnlimiter.Mod]": "Fırça Boyutu Sınırsızlaştırıcı",
+  "Options.TAB[BrushSizeUnlimiter.BrushSizeUnlimiter.Mod.Main]": "Ana",
+  "Options.GROUP[BrushSizeUnlimiter.BrushSizeUnlimiter.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[BrushSizeUnlimiter.BrushSizeUnlimiter.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[BrushSizeUnlimiter.BrushSizeUnlimiter.Mod.Setting.EnableMod]": "Fırça Boyutu Sınırsızlaştırıcı modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[BrushSizeUnlimiter.BrushSizeUnlimiter.Mod.Setting.MaxBrushSize]": "Maksimum Fırça Boyutu",
+  "Options.OPTION_DESCRIPTION[BrushSizeUnlimiter.BrushSizeUnlimiter.Mod.Setting.MaxBrushSize]": "Fırça araçları için maksimum boyut limitini ayarla"
+}

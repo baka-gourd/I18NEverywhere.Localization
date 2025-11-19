@@ -1,0 +1,7 @@
+{
+  "Options.SECTION[CitizenModelManager.CitizenModelManager.Mod]": "Vatandaş Model Yöneticisi",
+  "Options.TAB[CitizenModelManager.CitizenModelManager.Mod.Main]": "Ana",
+  "Options.GROUP[CitizenModelManager.CitizenModelManager.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[CitizenModelManager.CitizenModelManager.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[CitizenModelManager.CitizenModelManager.Mod.Setting.EnableMod]": "Vatandaş Model Yöneticisi modunu etkinleştir veya devre dışı bırak"
+}

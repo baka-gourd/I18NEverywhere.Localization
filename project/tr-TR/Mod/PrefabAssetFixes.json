@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[PrefabAssetFixes.PrefabAssetFixes.Mod]": "Prefab Varlık Düzeltmeleri",
+  "Options.TAB[PrefabAssetFixes.PrefabAssetFixes.Mod.Main]": "Ana",
+  "Options.GROUP[PrefabAssetFixes.PrefabAssetFixes.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.EnableMod]": "Prefab Varlık Düzeltmeleri modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.AutoFix]": "Otomatik Düzelt",
+  "Options.OPTION_DESCRIPTION[PrefabAssetFixes.PrefabAssetFixes.Mod.Setting.AutoFix]": "Prefab sorunlarını otomatik olarak düzelt"
+}

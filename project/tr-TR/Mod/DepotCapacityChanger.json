@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[DepotCapacityChanger.DepotCapacityChanger.Mod]": "Depo Kapasitesi Değiştirici",
+  "Options.TAB[DepotCapacityChanger.DepotCapacityChanger.Mod.Modify Depot Capacity]": "Ana",
+  "Options.GROUP[DepotCapacityChanger.DepotCapacityChanger.Mod.Student Capacity]": "Depo Kapasitesi",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "Otobüs Deposu",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "Taksi Deposu",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "Metro Deposu",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "Tramvay Deposu",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "Tren Deposu",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "Otobüs deposu binalarının araç kapasitesini vanilla kapasitelerine göre ayarlayın.",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "Taksi deposu binalarının araç kapasitesini vanilla kapasitelerine göre ayarlayın.",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "Metro deposu binalarının araç kapasitesini vanilla kapasitelerine göre ayarlayın.",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "Tramvay deposu binalarının araç kapasitesini vanilla kapasitelerine göre ayarlayın.",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "Tren deposu binalarının araç kapasitesini vanilla kapasitelerine göre ayarlayın."
+}

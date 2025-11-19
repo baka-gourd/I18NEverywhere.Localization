@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[ExtendedRadio.ExtendedRadio.Mod]": "Genişletilmiş Radyo",
+  "Options.TAB[ExtendedRadio.ExtendedRadio.Mod.Main]": "Ana",
+  "Options.GROUP[ExtendedRadio.ExtendedRadio.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[ExtendedRadio.ExtendedRadio.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[ExtendedRadio.ExtendedRadio.Mod.Setting.EnableMod]": "Genişletilmiş Radyo modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[ExtendedRadio.ExtendedRadio.Mod.Setting.CustomMusicFolder]": "Özel Müzik Klasörü",
+  "Options.OPTION_DESCRIPTION[ExtendedRadio.ExtendedRadio.Mod.Setting.CustomMusicFolder]": "Özel müzik dosyalarınız için klasör yolunu ayarlayın"
+}

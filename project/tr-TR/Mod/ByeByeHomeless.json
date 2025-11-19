@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[ByeByeHomeless.ByeByeHomeless.Mod]": "Hoşça Kal Evsizler",
+  "Options.TAB[ByeByeHomeless.ByeByeHomeless.Mod.Main]": "Ana",
+  "Options.GROUP[ByeByeHomeless.ByeByeHomeless.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[ByeByeHomeless.ByeByeHomeless.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[ByeByeHomeless.ByeByeHomeless.Mod.Setting.EnableMod]": "Hoşça Kal Evsizler modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[ByeByeHomeless.ByeByeHomeless.Mod.Setting.RemoveHomeless]": "Evsizleri Kaldır",
+  "Options.OPTION_DESCRIPTION[ByeByeHomeless.ByeByeHomeless.Mod.Setting.RemoveHomeless]": "Şehirden evsizleri otomatik olarak kaldır"
+}

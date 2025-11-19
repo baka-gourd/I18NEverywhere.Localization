@@ -1,0 +1,7 @@
+{
+  "Options.SECTION[RoadWearAdjuster.RoadWearAdjuster.Mod]": "Yol Aşınması Ayarlayıcı",
+  "Options.TAB[RoadWearAdjuster.RoadWearAdjuster.Mod.Main]": "Ana",
+  "Options.GROUP[RoadWearAdjuster.RoadWearAdjuster.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.WearRate]": "Aşınma Oranı",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.WearRate]": "Yolların ne kadar hızlı aşındığını ayarla"
+}

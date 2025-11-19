@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[CrowdedStation.CrowdedStation.Mod]": "Kalabalık İstasyon",
+  "Options.TAB[CrowdedStation.CrowdedStation.Mod.Main]": "Ana",
+  "Options.GROUP[CrowdedStation.CrowdedStation.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[CrowdedStation.CrowdedStation.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[CrowdedStation.CrowdedStation.Mod.Setting.EnableMod]": "Kalabalık İstasyon modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[CrowdedStation.CrowdedStation.Mod.Setting.StationCapacity]": "İstasyon Kapasitesi",
+  "Options.OPTION_DESCRIPTION[CrowdedStation.CrowdedStation.Mod.Setting.StationCapacity]": "Toplu taşıma istasyonlarının kapasite çarpanını ayarla"
+}

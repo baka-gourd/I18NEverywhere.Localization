@@ -1,0 +1,7 @@
+{
+  "Options.SECTION[Overpopulated.Overpopulated.Mod]": "Aşırı Kalabalık",
+  "Options.TAB[Overpopulated.Overpopulated.Mod.Main]": "Ana",
+  "Options.GROUP[Overpopulated.Overpopulated.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.PopulationMultiplier]": "Nüfus Çarpanı",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.PopulationMultiplier]": "Binalardaki nüfus sayısını artırın veya azaltın"
+}
