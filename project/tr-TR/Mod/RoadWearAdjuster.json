@@ -1,7 +1,19 @@
 {
   "Options.SECTION[RoadWearAdjuster.RoadWearAdjuster.Mod]": "Yol Aşınması Ayarlayıcı",
   "Options.TAB[RoadWearAdjuster.RoadWearAdjuster.Mod.Main]": "Ana",
-  "Options.GROUP[RoadWearAdjuster.RoadWearAdjuster.Mod.Settings]": "Ayarlar",
-  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.WearRate]": "Aşınma Oranı",
-  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.WearRate]": "Yolların ne kadar hızlı aşındığını ayarla"
+  "Options.GROUP[RoadWearAdjuster.RoadWearAdjuster.Mod.Presets]": "Ön Ayarlar",
+  "Options.GROUP[RoadWearAdjuster.RoadWearAdjuster.Mod.Configure]": "Yapılandır",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "Varsayılana sıfırla",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "Bu ön ayarı yapılandırmanıza uygular",
+  "Options.WARNING[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "Bu ön ayarı uygulamak istediğinizden emin misiniz? Mevcut yapılandırmanız üzerine yazılacak.",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureVariant]": "Doku Varyantı",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureVariant]": "Hangi yol aşınması dokusunu tercih ettiğinizi seçin",
+  "Options.RoadWearAdjuster.RoadWearAdjuster.Mod.TEXTUREVARIANTENUM[Vanilla]": "Vanilla",
+  "Options.RoadWearAdjuster.RoadWearAdjuster.Mod.TEXTUREVARIANTENUM[Reflavoured]": "Yenilenmiş",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureBrightness]": "Doku Parlaklığı",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureBrightness]": "Verilen dokunun temel renginin parlaklığını değiştirir",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureOpacity]": "Doku Opaklığı",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureOpacity]": "Verilen dokunun opaklığını değiştirir",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureSmoothness]": "Doku Pürüzsüzlüğü",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureSmoothness]": "Verilen dokunun genel pürüzsüzlüğünü değiştirir"
 }
