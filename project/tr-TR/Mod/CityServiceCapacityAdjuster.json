@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[CityServiceCapacityAdjuster.CityServiceCapacityAdjuster.Mod]": "Şehir Hizmeti Kapasite Ayarlayıcı",
+  "Options.TAB[CityServiceCapacityAdjuster.CityServiceCapacityAdjuster.Mod.Main]": "Ana",
+  "Options.GROUP[CityServiceCapacityAdjuster.CityServiceCapacityAdjuster.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[CityServiceCapacityAdjuster.CityServiceCapacityAdjuster.Mod.Setting.HealthcareCapacity]": "Sağlık Hizmeti Kapasitesi",
+  "Options.OPTION_DESCRIPTION[CityServiceCapacityAdjuster.CityServiceCapacityAdjuster.Mod.Setting.HealthcareCapacity]": "Sağlık hizmeti binalarının kapasitesini ayarla",
+  "Options.OPTION[CityServiceCapacityAdjuster.CityServiceCapacityAdjuster.Mod.Setting.EducationCapacity]": "Eğitim Kapasitesi",
+  "Options.OPTION_DESCRIPTION[CityServiceCapacityAdjuster.CityServiceCapacityAdjuster.Mod.Setting.EducationCapacity]": "Eğitim binalarının kapasitesini ayarla"
+}

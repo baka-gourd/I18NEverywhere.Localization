@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[DetailedDescriptions.DetailedDescriptions.Mod]": "Detaylı Açıklamalar",
+  "Options.TAB[DetailedDescriptions.DetailedDescriptions.Mod.Main]": "Ana",
+  "Options.GROUP[DetailedDescriptions.DetailedDescriptions.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[DetailedDescriptions.DetailedDescriptions.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[DetailedDescriptions.DetailedDescriptions.Mod.Setting.EnableMod]": "Detaylı Açıklamalar modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[DetailedDescriptions.DetailedDescriptions.Mod.Setting.ShowDetails]": "Detayları Göster",
+  "Options.OPTION_DESCRIPTION[DetailedDescriptions.DetailedDescriptions.Mod.Setting.ShowDetails]": "Binalar ve varlıklar için detaylı bilgileri göster"
+}

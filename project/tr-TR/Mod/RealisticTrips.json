@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[RealisticTrips.RealisticTrips.Mod]": "Gerçekçi Yolculuklar",
+  "Options.TAB[RealisticTrips.RealisticTrips.Mod.Main]": "Ana",
+  "Options.GROUP[RealisticTrips.RealisticTrips.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[RealisticTrips.RealisticTrips.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[RealisticTrips.RealisticTrips.Mod.Setting.EnableMod]": "Gerçekçi Yolculuklar modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[RealisticTrips.RealisticTrips.Mod.Setting.TripDistance]": "Yolculuk Mesafesi",
+  "Options.OPTION_DESCRIPTION[RealisticTrips.RealisticTrips.Mod.Setting.TripDistance]": "Vatandaşların yolculuk mesafelerini ayarla"
+}

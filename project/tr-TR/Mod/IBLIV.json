@@ -1,0 +1,7 @@
+{
+  "Options.SECTION[IBLIV.IBLIV.Mod]": "IBLIV",
+  "Options.TAB[IBLIV.IBLIV.Mod.Main]": "Ana",
+  "Options.GROUP[IBLIV.IBLIV.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[IBLIV.IBLIV.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[IBLIV.IBLIV.Mod.Setting.EnableMod]": "IBLIV modunu etkinleştir veya devre dışı bırak"
+}

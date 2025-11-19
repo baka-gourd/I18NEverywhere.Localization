@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[I18NEverywhere.I18NEverywhere.Mod]": "I18N Her Yerde",
+  "Options.TAB[I18NEverywhere.I18NEverywhere.Mod.Main]": "Ana",
+  "Options.GROUP[I18NEverywhere.I18NEverywhere.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[I18NEverywhere.I18NEverywhere.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[I18NEverywhere.I18NEverywhere.Mod.Setting.EnableMod]": "I18N Her Yerde modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[I18NEverywhere.I18NEverywhere.Mod.Setting.Language]": "Dil",
+  "Options.OPTION_DESCRIPTION[I18NEverywhere.I18NEverywhere.Mod.Setting.Language]": "Oyun dilini seçin"
+}

@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[ResourceLocator.ResourceLocator.Mod]": "Kaynak Bulucu",
+  "Options.TAB[ResourceLocator.ResourceLocator.Mod.Main]": "Ana",
+  "Options.GROUP[ResourceLocator.ResourceLocator.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[ResourceLocator.ResourceLocator.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[ResourceLocator.ResourceLocator.Mod.Setting.EnableMod]": "Kaynak Bulucu modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[ResourceLocator.ResourceLocator.Mod.Setting.ShowResources]": "Kaynakları Göster",
+  "Options.OPTION_DESCRIPTION[ResourceLocator.ResourceLocator.Mod.Setting.ShowResources]": "Haritadaki doğal kaynakları vurgula"
+}

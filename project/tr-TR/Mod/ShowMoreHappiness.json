@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[ShowMoreHappiness.ShowMoreHappiness.Mod]": "Daha Fazla Mutluluk Göster",
+  "Options.TAB[ShowMoreHappiness.ShowMoreHappiness.Mod.Main]": "Ana",
+  "Options.GROUP[ShowMoreHappiness.ShowMoreHappiness.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.Setting.EnableMod]": "Daha Fazla Mutluluk Göster modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.Setting.ShowDetails]": "Detaylı Mutluluk Bilgisi",
+  "Options.OPTION_DESCRIPTION[ShowMoreHappiness.ShowMoreHappiness.Mod.Setting.ShowDetails]": "Vatandaşların mutluluk kaynaklarını detaylı göster"
+}
