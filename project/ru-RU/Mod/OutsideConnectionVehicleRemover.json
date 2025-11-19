@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[OutsideConnectionVehicleRemover.OutsideConnectionVehicleRemover.Mod]": "Outside Connection Vehicle Remover",
+  "Options.TAB[OutsideConnectionVehicleRemover.OutsideConnectionVehicleRemover.Mod.Main]": "Основное",
+  "Options.GROUP[OutsideConnectionVehicleRemover.OutsideConnectionVehicleRemover.Mod.Remove Vehicle]": "Удаление транспортных средств",
+  "Options.GROUP[OutsideConnectionVehicleRemover.OutsideConnectionVehicleRemover.Mod.Taxi Information]": "Информация о такси",
+  "Options.OPTION[OutsideConnectionVehicleRemover.OutsideConnectionVehicleRemover.Mod.Setting.EnableRemoveTaxi]": "Такси из внешних подключений",
+  "Options.OPTION_DESCRIPTION[OutsideConnectionVehicleRemover.OutsideConnectionVehicleRemover.Mod.Setting.EnableRemoveTaxi]": "При включении удаляет компонент, который создаёт такси из внешних подключений.",
+  "Options.OPTION[OutsideConnectionVehicleRemover.OutsideConnectionVehicleRemover.Mod.Setting.DeleteAll]": "Удалить все",
+  "Options.OPTION_DESCRIPTION[OutsideConnectionVehicleRemover.OutsideConnectionVehicleRemover.Mod.Setting.DeleteAll]": "Удаляет все такси, прибывающие из внешнего города.",
+  "Options.WARNING[OutsideConnectionVehicleRemover.OutsideConnectionVehicleRemover.Mod.Setting.DeleteAll]": "Вы уверены, что хотите удалить все такси из внешних подключений?",
+  "Options.OPTION[OutsideConnectionVehicleRemover.OutsideConnectionVehicleRemover.Mod.Setting.TaxiCountDisplay]": "Текущее количество",
+  "Options.OPTION_DESCRIPTION[OutsideConnectionVehicleRemover.OutsideConnectionVehicleRemover.Mod.Setting.TaxiCountDisplay]": "Количество такси, которые в данный момент прибывают из внешних подключений.",
+  "Options.OPTION[OutsideConnectionVehicleRemover.OutsideConnectionVehicleRemover.Mod.Setting.RefreshTaxiCount]": "Обновить счётчик",
+  "Options.OPTION_DESCRIPTION[OutsideConnectionVehicleRemover.OutsideConnectionVehicleRemover.Mod.Setting.RefreshTaxiCount]": "Обновляет количество такси."
+}

@@ -1,0 +1,11 @@
+{
+  "Options.SECTION[AllAboard.AllAboard.AllAboard]": "All Aboard!",
+  "Options.OPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.ModVersion]": "Версия мода",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.ModVersion]": "Текущая версия мода.",
+  "Options.OPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.TrainMaxDwellDelaySlider]": "Макс. задержка поезда на станции (в игровых минутах)",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.TrainMaxDwellDelaySlider]": "Максимальное время (в игровых минутах), в течение которого поезд (метро, трамвай) может стоять на станции сверх расписания.",
+  "Options.OPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.BusMaxDwellDelaySlider]": "Макс. задержка автобуса на остановке (в игровых минутах)",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.BusMaxDwellDelaySlider]": "Максимальное время (в игровых минутах), в течение которого автобус может стоять на остановке сверх расписания.",
+  "Options.OPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.ApplyButton]": "Применить",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.ApplyButton]": "Применить настройки"
+}

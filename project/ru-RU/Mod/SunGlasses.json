@@ -1,0 +1,21 @@
+{
+  "Options.SECTION[SunGlasses.SunGlasses.Mod]": "Sun Glasses",
+  "Options.TAB[SunGlasses.SunGlasses.Mod.Main]": "Основное",
+  "Options.GROUP[SunGlasses.SunGlasses.Mod.SunSettings]": "Солнце",
+  "Options.GROUP[SunGlasses.SunGlasses.Mod.SkySettings]": "Небо",
+  "Options.GROUP[SunGlasses.SunGlasses.Mod.ExposureSettings]": "Экспозиция",
+  "Options.GROUP[SunGlasses.SunGlasses.Mod.MiscSettings]": "Разное",
+  "Options.OPTION[SunGlasses.SunGlasses.Mod.Setting.SkyExposure]": "Экспозиция неба",
+  "Options.OPTION[SunGlasses.SunGlasses.Mod.Setting.SunSize]": "Размер диска солнца",
+  "Options.OPTION[SunGlasses.SunGlasses.Mod.Setting.SunBloom]": "Интенсивность свечения солнца",
+  "Options.OPTION[SunGlasses.SunGlasses.Mod.Setting.LensFlare]": "Блик объектива",
+  "Options.OPTION[SunGlasses.SunGlasses.Mod.Setting.SunLightIntensity]": "Интенсивность солнечного света",
+  "Options.OPTION[SunGlasses.SunGlasses.Mod.Setting.IndirectDiffuseSunLighting]": "Косвенное освещение",
+  "Options.OPTION[SunGlasses.SunGlasses.Mod.Setting.BrightenLevel]": "Осветлить тёмные участки",
+  "Options.OPTION[SunGlasses.SunGlasses.Mod.Setting.ResetModSettings]": "Сбросить настройки",
+  "Options.WARNING[SunGlasses.SunGlasses.Mod.Setting.ResetModSettings]": "Вы уверены, что хотите сбросить все настройки?",
+  "Options.SunGlasses.SunGlasses.Mod.BRIGHTENDARKNESSLEVEL[None]": "Нет",
+  "Options.SunGlasses.SunGlasses.Mod.BRIGHTENDARKNESSLEVEL[Level1]": "Слабый",
+  "Options.SunGlasses.SunGlasses.Mod.BRIGHTENDARKNESSLEVEL[Level2]": "Средний",
+  "Options.SunGlasses.SunGlasses.Mod.BRIGHTENDARKNESSLEVEL[Level3]": "Сильный"
+}

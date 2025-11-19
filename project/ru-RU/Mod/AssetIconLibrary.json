@@ -1,0 +1,17 @@
+{
+  "Options.SECTION[AssetIconLibrary.AssetIconLibrary.Mod]": "Asset Icon Library",
+  "Options.TAB[AssetIconLibrary.AssetIconLibrary.Mod.Main]": "Главная",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Settings]": "Настройки",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Custom]": "Пользовательские",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.RestartRequired]": "⚠️ Изменение этих настроек требует перезапуска игры для применения изменений.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "Перезаписывать существующие иконки",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "Если включено, Asset Icon Library перезапишет стандартные иконки даже для ассетов, у которых уже есть иконка.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "Стиль иконок",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "Изменить стиль иконок ассетов, где это применимо.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.CustomIcons]": "Использовать пользовательские иконки для ассетов, помещая файлы изображений с именами ассетов в папку с пользовательскими иконками.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Открыть папку с пользовательскими иконками",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Добавляйте свои иконки для использования вместо стандартных или иконок Asset Icon Library.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.ColoredPropless]": "Цветные без объектов",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.White]": "Белые без объектов",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.Colored]": "Цветные с объектами"
+}
