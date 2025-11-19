@@ -10,7 +10,8 @@
     "sync:dev": "ts-node src/tools/sync.ts",
     "gen": "node dist/tools/changelog-gen.js",
     "check": "node dist/tools/check-mod-update.js",
-    "contributors": "node dist/tools/get-language-authors.js"
+    "contributors": "node dist/tools/get-language-authors.js",
+    "validate": "node dist/tools/validate-json.js"
   },
   "keywords": [],
   "author": "",
@@ -25,6 +26,7 @@
   "devDependencies": {
     "@types/node": "^20.12.12",
     "ts-node": "^10.9.2",
-    "typescript": "^5.6.3"
+    "typescript": "^5.6.3",
+    "husky": "^9.1.6"
   }
 }
