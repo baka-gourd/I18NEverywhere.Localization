@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[ExtendedTooltip.ExtendedTooltip.Mod]": "Genişletilmiş İpucu",
+  "Options.TAB[ExtendedTooltip.ExtendedTooltip.Mod.Main]": "Ana",
+  "Options.GROUP[ExtendedTooltip.ExtendedTooltip.Mod.General]": "Genel",
+  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.Setting.ShowPrefabName]": "Prefab Adını Göster",
+  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.Setting.ShowPrefabName]": "İpuçlarında prefab adını göster",
+  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.Setting.ShowAssetName]": "Varlık Adını Göster",
+  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.Setting.ShowAssetName]": "İpuçlarında varlık adını göster",
+  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.Setting.ShowBuildings]": "Binaları Göster",
+  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.Setting.ShowBuildings]": "Binalar için genişletilmiş ipucunu göster",
+  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.Setting.ShowNetwork]": "Ağları Göster",
+  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.Setting.ShowNetwork]": "Ağ elemanları (yollar, vb.) için genişletilmiş ipucunu göster",
+  "Options.OPTION[ExtendedTooltip.ExtendedTooltip.Mod.Setting.ShowProps]": "Propları Göster",
+  "Options.OPTION_DESCRIPTION[ExtendedTooltip.ExtendedTooltip.Mod.Setting.ShowProps]": "Proplar için genişletilmiş ipucunu göster"
+}

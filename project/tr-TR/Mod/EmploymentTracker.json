@@ -1,0 +1,11 @@
+{
+  "Options.SECTION[EmploymentTracker.EmploymentTracker.Mod]": "İstihdam Takipçisi",
+  "Options.TAB[EmploymentTracker.EmploymentTracker.Mod.Main]": "Ana",
+  "Options.GROUP[EmploymentTracker.EmploymentTracker.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.Setting.EnableMod]": "İstihdam Takipçisi modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.Setting.ShowUnemployed]": "İşsizleri Göster",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.Setting.ShowUnemployed]": "Haritada işsiz vatandaşları göster",
+  "Options.OPTION[EmploymentTracker.EmploymentTracker.Mod.Setting.ShowJobSeekers]": "İş Arayıcıları Göster",
+  "Options.OPTION_DESCRIPTION[EmploymentTracker.EmploymentTracker.Mod.Setting.ShowJobSeekers]": "Aktif olarak iş arayan vatandaşları göster"
+}

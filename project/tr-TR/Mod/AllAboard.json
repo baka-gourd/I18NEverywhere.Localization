@@ -1,0 +1,11 @@
+{
+  "Options.SECTION[AllAboard.AllAboard.Mod]": "All Aboard!",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "Tren Maksimum Bekleme Gecikmesi (oyun içi dakika)",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "Bir trenin (Metro, Tramvay) planlanan kalkış saatinden sonra 'beklemesine' izin verilen maksimum (oyun içi) süre.",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "Otobüs Maksimum Bekleme Gecikmesi (oyun içi dakika)",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "Bir otobüsün planlanan kalkış saatinden sonra 'beklemesine' izin verilen maksimum (oyun içi) süre.",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TestPathfindingCleanup]": "Deneysel Yol Bulma Temizliği",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TestPathfindingCleanup]": "Treni zorla kalkışa geçirdikten sonra yolcuları temizlemeyi deneyin. İşlevselliği test etmiyorsanız bunu etkinleştirmeyin.",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.ApplyButton]": "Uygula",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.ApplyButton]": "Ayarları Uygula"
+}

@@ -1,0 +1,17 @@
+{
+  "Options.SECTION[AssetIconLibrary.AssetIconLibrary.Mod]": "Varlık İkon Kütüphanesi",
+  "Options.TAB[AssetIconLibrary.AssetIconLibrary.Mod.Main]": "Ana",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Settings]": "Ayarlar",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Custom]": "Özel",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.RestartRequired]": "⚠️  Bu ayarları değiştirmek, değişikliklerin uygulanması için oyununuzu yeniden başlatmanızı gerektirir.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "Mevcut İkonların Üzerine Yaz",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "Etkinleştirildiğinde, Varlık İkon Kütüphanesi, varlıkların zaten bir ikonu olsa bile, vanilla varlıkların ikonlarının üzerine yazacaktır.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "İkon Stili",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "Uygun olan yerlerde varlık ikonları için hangi stilin kullanılacağını değiştirin.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.CustomIcons]": "Özel küçük resim klasörüne varlık adıyla resim dosyalarını yerleştirerek varlıklar için özel ikonlar kullanın.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Özel Küçük Resimler Klasörünü Aç",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Vanilla veya 'Varlık İkon Kütüphanesi' ikonları yerine kullanılacak kişisel özel küçük resimler ekleyin.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.ColoredPropless]": "Renkli ve Propsuz",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.White]": "Beyaz ve Propsuz",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.Colored]": "Proplu Renkli"
+}

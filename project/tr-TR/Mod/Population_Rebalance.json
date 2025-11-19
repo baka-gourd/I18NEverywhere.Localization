@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[Population_Rebalance.Population_Rebalance.Mod]": "Nüfus Yeniden Dengeleme",
+  "Options.TAB[Population_Rebalance.Population_Rebalance.Mod.Main]": "Ana",
+  "Options.GROUP[Population_Rebalance.Population_Rebalance.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[Population_Rebalance.Population_Rebalance.Mod.Setting.ResidentialMultiplier]": "Konut Nüfus Çarpanı",
+  "Options.OPTION_DESCRIPTION[Population_Rebalance.Population_Rebalance.Mod.Setting.ResidentialMultiplier]": "Konut binalarındaki hane sayısını ayarla",
+  "Options.OPTION[Population_Rebalance.Population_Rebalance.Mod.Setting.HouseholdSize]": "Hane Büyüklüğü",
+  "Options.OPTION_DESCRIPTION[Population_Rebalance.Population_Rebalance.Mod.Setting.HouseholdSize]": "Her hanedeki ortalama insan sayısını ayarla"
+}

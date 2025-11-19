@@ -1,0 +1,13 @@
+{
+  "Options.SECTION[RealLife.RealLife.Mod]": "Gerçek Yaşam",
+  "Options.TAB[RealLife.RealLife.Mod.Main]": "Ana",
+  "Options.TAB[RealLife.RealLife.Mod.Advanced]": "Gelişmiş",
+  "Options.GROUP[RealLife.RealLife.Mod.General]": "Genel",
+  "Options.GROUP[RealLife.RealLife.Mod.Advanced Settings]": "Gelişmiş Ayarlar",
+  "Options.OPTION[RealLife.RealLife.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[RealLife.RealLife.Mod.Setting.EnableMod]": "Gerçek Yaşam modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[RealLife.RealLife.Mod.Setting.TimeMultiplier]": "Zaman Çarpanı",
+  "Options.OPTION_DESCRIPTION[RealLife.RealLife.Mod.Setting.TimeMultiplier]": "Zaman akış hızını ayarla (1.0 = normal, 2.0 = 2x hızlı)",
+  "Options.OPTION[RealLife.RealLife.Mod.Setting.AgingSpeed]": "Yaşlanma Hızı",
+  "Options.OPTION_DESCRIPTION[RealLife.RealLife.Mod.Setting.AgingSpeed]": "Vatandaşların yaşlanma hızını ayarla"
+}

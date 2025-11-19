@@ -1,0 +1,11 @@
+{
+  "Options.SECTION[RealisticParking.RealisticParking.Mod]": "Gerçekçi Park Yeri",
+  "Options.TAB[RealisticParking.RealisticParking.Mod.Main]": "Ana",
+  "Options.GROUP[RealisticParking.RealisticParking.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.EnableMod]": "Gerçekçi Park Yeri modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.ParkingSearchDistance]": "Park Yeri Arama Mesafesi",
+  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.ParkingSearchDistance]": "Araçların park yeri aramak için seyahat edebileceği maksimum mesafeyi ayarla",
+  "Options.OPTION[RealisticParking.RealisticParking.Mod.Setting.ParkingFee]": "Park Ücreti",
+  "Options.OPTION_DESCRIPTION[RealisticParking.RealisticParking.Mod.Setting.ParkingFee]": "Park yerlerinin maliyetini ayarla"
+}
