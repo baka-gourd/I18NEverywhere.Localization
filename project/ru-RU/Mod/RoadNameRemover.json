@@ -1,0 +1,16 @@
+{
+  "Options.SECTION[RoadNameRemover.RoadNameRemover.Mod]": "Road Name Remover",
+  "Options.GROUP[RoadNameRemover.RoadNameRemover.Mod.Toggle]": "Изменение настроек мода Road Name Remover. Пожалуйста, измените язык после изменения любой опции, чтобы применить изменения.",
+  "Options.OPTION[RoadNameRemover.RoadNameRemover.Mod.Setting.HideStreetNames]": "Скрывать названия улиц",
+  "Options.OPTION_DESCRIPTION[RoadNameRemover.RoadNameRemover.Mod.Setting.HideStreetNames]": "Скрывать названия улиц",
+  "Options.OPTION[RoadNameRemover.RoadNameRemover.Mod.Setting.HideHighwayNames]": "Скрывать названия шоссе",
+  "Options.OPTION_DESCRIPTION[RoadNameRemover.RoadNameRemover.Mod.Setting.HideHighwayNames]": "Скрывать названия шоссе",
+  "Options.OPTION[RoadNameRemover.RoadNameRemover.Mod.Setting.HideAlleyNames]": "Скрывать названия переулков",
+  "Options.OPTION_DESCRIPTION[RoadNameRemover.RoadNameRemover.Mod.Setting.HideAlleyNames]": "Скрывать названия переулков",
+  "Options.OPTION[RoadNameRemover.RoadNameRemover.Mod.Setting.HideBridgeNames]": "Скрывать названия мостов",
+  "Options.OPTION_DESCRIPTION[RoadNameRemover.RoadNameRemover.Mod.Setting.HideBridgeNames]": "Скрывать названия мостов",
+  "Options.OPTION[RoadNameRemover.RoadNameRemover.Mod.Setting.HideDamNames]": "Скрывать названия дамб",
+  "Options.OPTION_DESCRIPTION[RoadNameRemover.RoadNameRemover.Mod.Setting.HideDamNames]": "Скрывать названия дамб",
+  "Options.OPTION[RoadNameRemover.RoadNameRemover.Mod.Setting.HideDistrictNames]": "Скрывать названия районов",
+  "Options.OPTION_DESCRIPTION[RoadNameRemover.RoadNameRemover.Mod.Setting.HideDistrictNames]": "Скрывать названия районов"
+}

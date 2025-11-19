@@ -1,0 +1,18 @@
+{
+  "Options.SECTION[RealisticJobSearch.RealisticJobSearch.Mod]": "Realistic JobSearch",
+  "Options.TAB[RealisticJobSearch.RealisticJobSearch.Mod.SettingsSection]": "Настройки",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.debug]": "Сохранить файл отладки",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.debug]": "Создаёт CSV-файл с данными о поездках в папке ModsData.",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_free_jobs]": "Вес: Свободные рабочие места",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_free_jobs]": "Насколько сильно отдавать предпочтение рабочим местам, на которых есть свободные позиции. Чем выше, тем больше предпочтение местам с открытыми вакансиями.",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_total_jobs]": "Вес: Размер рабочего места",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_total_jobs]": "Насколько сильно отдавать предпочтение большим рабочим местам (с большим количеством рабочих мест), даже если не все свободны. Чем выше, тем больше предпочтение крупным работодателям.",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.alpha_jobs]": "Увеличение доступности работы",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.alpha_jobs]": "Насколько сильно доступность работы увеличивает вероятность принятия работы. Чем выше, тем сильнее привлекают крупные рабочие места.",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.beta_minute]": "Чувствительность к времени поездки",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.beta_minute]": "Насколько быстро длинные поездки становятся неприемлемыми. Чем выше, тем сильнее избегаются длительные поездки.",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.min_accept]": "Минимальная вероятность принятия",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.min_accept]": "Минимальная возможная вероятность принять любую работу. Увеличивает её, чтобы редкие варианты не исключались полностью.",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.max_accept]": "Максимальная вероятность принятия",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.max_accept]": "Максимальная возможная вероятность принять даже идеальную работу. Уменьшает её, чтобы сохранялась вариативность/случайность."
+}

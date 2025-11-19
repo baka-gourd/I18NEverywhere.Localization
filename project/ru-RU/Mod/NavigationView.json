@@ -1,0 +1,12 @@
+{
+  "NavigationView.UI.Title": "Навигация",
+  "NavigationView.UI.WaitingPassengers": "Ожидающие пассажиры",
+  "Options.SECTION[NavigationView.NavigationView.Mod]": "Navigation View",
+  "Options.OPTION[NavigationView.NavigationView.Mod.Setting.RefreshFrequency]": "Частота обновления Navigation View (Гц)",
+  "Options.OPTION_DESCRIPTION[NavigationView.NavigationView.Mod.Setting.RefreshFrequency]": "Частота обновления навигационного вида (раз в секунду).",
+  "Assets.NAME[Invisible Pathway]": "Невидимая дорожка",
+  "Assets.NAME[Pathway]": "Дорожка",
+  "Assets.NAME[Train Track]": "Железная дорога",
+  "Assets.NAME[Subway Track]": "Метро",
+  "Assets.NAME[Seaway]": "Водный путь"
+}

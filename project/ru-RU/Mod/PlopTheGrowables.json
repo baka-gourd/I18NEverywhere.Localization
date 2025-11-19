@@ -1,0 +1,22 @@
+{
+  "Options.SECTION[PlopTheGrowables.PlopTheGrowables.Mod]": "Plop the Growables",
+  "Options.GROUP[PlopTheGrowables.PlopTheGrowables.Mod.SpawnedBuildings]": "Ненаправленные здания",
+  "Options.OPTION[PlopTheGrowables.PlopTheGrowables.Mod.ModSettings.SpawnedZoneDespawn]": "Ненаправленные здания требуют зонирования",
+  "Options.OPTION_DESCRIPTION[PlopTheGrowables.PlopTheGrowables.Mod.ModSettings.SpawnedZoneDespawn]": "Если включено, ненаправленные (естественно появившиеся) здания всё ещё будут требовать нормального зонирования. Если зонирование удалено или изменено, любые затронутые ненаправленные здания будут признаны подлежащими сносу.",
+  "Options.GROUP[PlopTheGrowables.PlopTheGrowables.Mod.Locking]": "Блокировка уровней",
+  "Options.OPTION[PlopTheGrowables.PlopTheGrowables.Mod.ModSettings.LockPloppedBuildings]": "Блокировать уровень здания при размещении",
+  "Options.OPTION_DESCRIPTION[PlopTheGrowables.PlopTheGrowables.Mod.ModSettings.LockPloppedBuildings]": "Автоматически применяет блокировку уровня к любому зданию, которое размещается вручную (plopped), пока эта настройка активна.",
+  "Options.OPTION[PlopTheGrowables.PlopTheGrowables.Mod.ModSettings.NoAbandonment]": "Отключить заброшенность",
+  "Options.OPTION_DESCRIPTION[PlopTheGrowables.PlopTheGrowables.Mod.ModSettings.NoAbandonment]": "Предотвращает заброшенность зданий. Не влияет на уже заброшенные здания.",
+  "Options.OPTION[PlopTheGrowables.PlopTheGrowables.Mod.ModSettings.DisableLevelling]": "Отключить ВСЕ изменения уровня зданий",
+  "Options.OPTION_DESCRIPTION[PlopTheGrowables.PlopTheGrowables.Mod.ModSettings.DisableLevelling]": "Предотвращает любые изменения уровня зданий, сохраняя их внешний вид.",
+  "Options.GROUP[PlopTheGrowables.PlopTheGrowables.Mod.ApplyToExisting]": "Применить к существующим зданиям",
+  "Options.OPTION[PlopTheGrowables.PlopTheGrowables.Mod.ModSettings.LockAllBuildings]": "Заблокировать уровни всех существующих зданий",
+  "Options.OPTION_DESCRIPTION[PlopTheGrowables.PlopTheGrowables.Mod.ModSettings.LockAllBuildings]": "Сразу применяет блокировку уровня ко всем существующим зданиям. Не влияет на здания, размещённые или появившиеся после нажатия кнопки.",
+  "Options.OPTION[PlopTheGrowables.PlopTheGrowables.Mod.ModSettings.UnlockAllBuildings]": "Разблокировать уровни всех существующих зданий",
+  "Options.OPTION_DESCRIPTION[PlopTheGrowables.PlopTheGrowables.Mod.ModSettings.UnlockAllBuildings]": "Сразу снимает блокировку уровня со всех существующих зданий. Не влияет на здания, размещённые или появившиеся после нажатия кнопки.",
+  "Options.OPTION[PlopTheGrowables.PlopTheGrowables.Mod.ModSettings.RemoveAllAbandonment]": "Убрать заброшенность со всех существующих зданий",
+  "Options.OPTION_DESCRIPTION[PlopTheGrowables.PlopTheGrowables.Mod.ModSettings.RemoveAllAbandonment]": "Сразу убирает заброшенность со всех существующих зданий. Не влияет на здания, размещённые или появившиеся после нажатия кнопки.",
+  "PLOPTHEGROWABLES.LockLevel": "Заблокировать уровень здания",
+  "PLOPTHEGROWABLES_DESCRIPTION.LockLevel": "Если включено, здание не сможет менять уровень, сохраняя внешний вид неизменным."
+}

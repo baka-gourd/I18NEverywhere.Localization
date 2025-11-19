@@ -1,0 +1,21 @@
+{
+  "Options.SECTION[IntersectionCollection.IntersectionCollection.Mod]": "Intersections Collection",
+  "Intersection Collection.Language.DisplayName": "English",
+  "Options.TAB[IntersectionCollection.IntersectionCollection.Mod.About]": "О моде",
+  "Options.GROUP[IntersectionCollection.IntersectionCollection.Mod.About]": "Информация о моде",
+  "Options.OPTION[IntersectionCollection.IntersectionCollection.Mod.ModSettings.OpenRepositoryAtVersion]": "Открыть репозиторий на GitHub",
+  "Options.OPTION_DESCRIPTION[IntersectionCollection.IntersectionCollection.Mod.ModSettings.OpenRepositoryAtVersion]": "Открывает GitHub репозиторий этого мода.",
+  "Options.OPTION[IntersectionCollection.IntersectionCollection.Mod.ModSettings.OpenRepositoryRoadmap]": "Открыть план разработки",
+  "Options.OPTION_DESCRIPTION[IntersectionCollection.IntersectionCollection.Mod.ModSettings.OpenRepositoryRoadmap]": "Открывает доску задач, связанных с разработкой этого мода.",
+  "Options.OPTION[IntersectionCollection.IntersectionCollection.Mod.ModSettings.ModVersion]": "Версия",
+  "Options.OPTION_DESCRIPTION[IntersectionCollection.IntersectionCollection.Mod.ModSettings.ModVersion]": "Текущая версия мода.",
+  "Options.OPTION[IntersectionCollection.IntersectionCollection.Mod.ModSettings.AuthorMod]": "Автор мода",
+  "Options.OPTION_DESCRIPTION[IntersectionCollection.IntersectionCollection.Mod.ModSettings.AuthorMod]": "Имя автора этого мода.",
+  "Options.OPTION[IntersectionCollection.IntersectionCollection.Mod.ModSettings.InformationalVersion]": "Информационная версия",
+  "Options.OPTION_DESCRIPTION[IntersectionCollection.IntersectionCollection.Mod.ModSettings.InformationalVersion]": "Версия мода с указанием commit ID из GitHub.",
+  "Options.OPTION[IntersectionCollection.IntersectionCollection.Mod.ModSettings.DiscordServers]": "Discord серверы",
+  "Options.OPTION[IntersectionCollection.IntersectionCollection.Mod.ModSettings.OpenCS2ModdingDiscord]": "Cities: Skylines Modding Discord",
+  "Options.OPTION_DESCRIPTION[IntersectionCollection.IntersectionCollection.Mod.ModSettings.OpenCS2ModdingDiscord]": "Открывает официальный Discord сервер по моддингу Cities: Skylines 2.",
+  "Options.OPTION[IntersectionCollection.IntersectionCollection.Mod.ModSettings.OpenAuthorDiscord]": "Discord автора мода",
+  "Options.OPTION_DESCRIPTION[IntersectionCollection.IntersectionCollection.Mod.ModSettings.OpenAuthorDiscord]": "Открывает Discord сервер автора мода."
+}

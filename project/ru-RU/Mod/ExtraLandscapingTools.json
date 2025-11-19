@@ -1,0 +1,17 @@
+{
+  "Toolbar.BRUSH": "Кисть",
+  "Toolbar.BRUSH_ROTATION": "Вращение кисти",
+  "Assets.DESCRIPTION[Ore Resource Tool]": "Инструмент для руды",
+  "Assets.DESCRIPTION[Oil Resource Tool]": "Инструмент для нефти",
+  "Assets.DESCRIPTION[FertileLand Resource Tool]": "Инструмент для плодородной земли",
+  "Assets.DESCRIPTION[GroundWater Resource Tool]": "Инструмент для грунтовых вод",
+  "Options.SECTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT]": "Extra Landscaping Tools",
+  "Options.OPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedFertilityResource]": "Пополнить истощённые плодородные ресурсы",
+  "Options.OPTION_DESCRIPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedFertilityResource]": "Пополняет истощённые плодородные ресурсы на всей карте.",
+  "Options.OPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedOreResource]": "Пополнить истощённые рудные ресурсы",
+  "Options.OPTION_DESCRIPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedOreResource]": "Пополняет истощённые рудные ресурсы на всей карте.",
+  "Options.OPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedOilResource]": "Пополнить истощённые нефтяные ресурсы",
+  "Options.OPTION_DESCRIPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedOilResource]": "Пополняет истощённые нефтяные ресурсы на всей карте.",
+  "Options.OPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedFishResource]": "Пополнить истощённые рыболовные ресурсы",
+  "Options.OPTION_DESCRIPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedFishResource]": "Пополняет истощённые рыболовные ресурсы на всей карте."
+}

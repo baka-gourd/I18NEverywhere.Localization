@@ -1,0 +1,6 @@
+{
+  "Options.SECTION[CustomChirps.CustomChirps.Mod]": "Custom Chirps",
+  "Options.TAB[CustomChirps.CustomChirps.Mod.SettingsSection]": "Настройки",
+  "Options.OPTION[CustomChirps.CustomChirps.Mod.Setting.disable_vanilla_chirps]": "Отключить стандартные чирпы",
+  "Options.OPTION_DESCRIPTION[CustomChirps.CustomChirps.Mod.Setting.disable_vanilla_chirps]": "Отключает стандартные чирпы. Чирпы от других модов будут по-прежнему отображаться."
+}

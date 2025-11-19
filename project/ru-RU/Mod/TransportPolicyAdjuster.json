@@ -1,0 +1,16 @@
+{
+  "Options.SECTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod]": "Transport Policy Adjuster",
+  "Options.TAB[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Main]": "Основное",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Bus]": "Максимальное количество транспортных средств (Автобус)",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Bus]": "Регулирует максимальное количество транспортных средств, доступных для выбора на линии",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Train]": "Максимальное количество транспортных средств (Поезд)",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Train]": "Регулирует максимальное количество транспортных средств, доступных для выбора на линии",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Tram]": "Максимальное количество транспортных средств (Трамвай)",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Tram]": "Регулирует максимальное количество транспортных средств, доступных для выбора на линии",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Ship]": "Максимальное количество транспортных средств (Корабль)",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Ship]": "Регулирует максимальное количество транспортных средств, доступных для выбора на линии",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Airplane]": "Максимальное количество транспортных средств (Самолет)",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Airplane]": "Регулирует максимальное количество транспортных средств, доступных для выбора на линии",
+  "Options.OPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Subway]": "Максимальное количество транспортных средств (Метро)",
+  "Options.OPTION_DESCRIPTION[TransportPolicyAdjuster.TransportPolicyAdjuster.Mod.Setting.Subway]": "Регулирует максимальное количество транспортных средств, доступных для выбора на линии"
+}
