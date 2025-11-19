@@ -1,0 +1,7 @@
+{
+  "Options.SECTION[PathfindingCustomizer.PathfindingCustomizer.Mod]": "Yol Bulma Özelleştirici",
+  "Options.TAB[PathfindingCustomizer.PathfindingCustomizer.Mod.Main]": "Ana",
+  "Options.GROUP[PathfindingCustomizer.PathfindingCustomizer.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.EnableMod]": "Yol Bulma Özelleştirici modunu etkinleştir veya devre dışı bırak"
+}

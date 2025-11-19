@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[Time2Work.Time2Work.Mod]": "İşe Gitme Zamanı",
+  "Options.TAB[Time2Work.Time2Work.Mod.Main]": "Ana",
+  "Options.GROUP[Time2Work.Time2Work.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.EnableMod]": "İşe Gitme Zamanı modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.WorkStartTime]": "İş Başlangıç Saati",
+  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.WorkStartTime]": "Vatandaşların işe başlama saatini ayarla"
+}

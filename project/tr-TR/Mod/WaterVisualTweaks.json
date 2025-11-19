@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[WaterVisualTweaks.WaterVisualTweaks.Mod]": "Su Görsel Ayarları",
+  "Options.TAB[WaterVisualTweaks.WaterVisualTweaks.Mod.Main]": "Ana",
+  "Options.GROUP[WaterVisualTweaks.WaterVisualTweaks.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[WaterVisualTweaks.WaterVisualTweaks.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[WaterVisualTweaks.WaterVisualTweaks.Mod.Setting.EnableMod]": "Su Görsel Ayarları modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[WaterVisualTweaks.WaterVisualTweaks.Mod.Setting.WaterTransparency]": "Su Şeffaflığı",
+  "Options.OPTION_DESCRIPTION[WaterVisualTweaks.WaterVisualTweaks.Mod.Setting.WaterTransparency]": "Suyun şeffaflık seviyesini ayarla"
+}

@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[BetterMoonLight.BetterMoonLight.Mod]": "Daha İyi Ay Işığı",
+  "Options.TAB[BetterMoonLight.BetterMoonLight.Mod.Main]": "Ana",
+  "Options.GROUP[BetterMoonLight.BetterMoonLight.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.EnableMod]": "Daha İyi Ay Işığı modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.MoonlightIntensity]": "Ay Işığı Yoğunluğu",
+  "Options.OPTION_DESCRIPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.MoonlightIntensity]": "Ay ışığının parlaklığını ayarla"
+}

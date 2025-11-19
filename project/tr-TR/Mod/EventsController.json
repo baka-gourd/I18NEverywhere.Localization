@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[EventsController.EventsController.Mod]": "Etkinlikler Kontrolcüsü",
+  "Options.TAB[EventsController.EventsController.Mod.Main]": "Ana",
+  "Options.GROUP[EventsController.EventsController.Mod.Events]": "Etkinlikler",
+  "Options.OPTION[EventsController.EventsController.Mod.Setting.EnableEvents]": "Etkinlikleri Etkinleştir",
+  "Options.OPTION_DESCRIPTION[EventsController.EventsController.Mod.Setting.EnableEvents]": "Şehir etkinliklerini etkinleştir veya devre dışı bırak",
+  "Options.OPTION[EventsController.EventsController.Mod.Setting.EventFrequency]": "Etkinlik Sıklığı",
+  "Options.OPTION_DESCRIPTION[EventsController.EventsController.Mod.Setting.EventFrequency]": "Etkinliklerin ne sıklıkla gerçekleşeceğini ayarla"
+}

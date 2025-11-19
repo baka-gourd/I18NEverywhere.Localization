@@ -1,0 +1,10 @@
+{
+  "Options.SECTION[TimeandWeatherAnarchy.TimeandWeatherAnarchy.Mod]": "Zaman ve Hava Anarşisi",
+  "Options.TAB[TimeandWeatherAnarchy.TimeandWeatherAnarchy.Mod.Main]": "Ana",
+  "Options.GROUP[TimeandWeatherAnarchy.TimeandWeatherAnarchy.Mod.TimeControl]": "Zaman Kontrolü",
+  "Options.GROUP[TimeandWeatherAnarchy.TimeandWeatherAnarchy.Mod.WeatherControl]": "Hava Kontrolü",
+  "Options.OPTION[TimeandWeatherAnarchy.TimeandWeatherAnarchy.Mod.Setting.FreezeTime]": "Zamanı Dondur",
+  "Options.OPTION_DESCRIPTION[TimeandWeatherAnarchy.TimeandWeatherAnarchy.Mod.Setting.FreezeTime]": "Zamanın akışını durdur",
+  "Options.OPTION[TimeandWeatherAnarchy.TimeandWeatherAnarchy.Mod.Setting.FreezeWeather]": "Havayı Dondur",
+  "Options.OPTION_DESCRIPTION[TimeandWeatherAnarchy.TimeandWeatherAnarchy.Mod.Setting.FreezeWeather]": "Hava durumunu sabit tut"
+}

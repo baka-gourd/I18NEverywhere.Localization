@@ -1,0 +1,7 @@
+{
+  "Options.SECTION[ctrlC.ctrlC.Mod]": "Ctrl+C",
+  "Options.TAB[ctrlC.ctrlC.Mod.Main]": "Ana",
+  "Options.GROUP[ctrlC.ctrlC.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[ctrlC.ctrlC.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[ctrlC.ctrlC.Mod.Setting.EnableMod]": "Ctrl+C modunu etkinleştir veya devre dışı bırak"
+}

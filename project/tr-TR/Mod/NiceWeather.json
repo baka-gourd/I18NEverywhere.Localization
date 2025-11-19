@@ -1,0 +1,11 @@
+{
+  "Options.SECTION[NiceWeather.NiceWeather.Mod]": "Güzel Hava",
+  "Options.TAB[NiceWeather.NiceWeather.Mod.Main]": "Ana",
+  "Options.GROUP[NiceWeather.NiceWeather.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.EnableMod]": "Güzel Hava modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableRain]": "Yağmuru Devre Dışı Bırak",
+  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableRain]": "Yağmur olaylarını devre dışı bırak",
+  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnow]": "Karı Devre Dışı Bırak",
+  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnow]": "Kar olaylarını devre dışı bırak"
+}

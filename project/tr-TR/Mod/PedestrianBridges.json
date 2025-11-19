@@ -1,0 +1,7 @@
+{
+  "Options.SECTION[PedestrianBridges.PedestrianBridges.Mod]": "Yaya Köprüleri",
+  "Options.TAB[PedestrianBridges.PedestrianBridges.Mod.Main]": "Ana",
+  "Options.GROUP[PedestrianBridges.PedestrianBridges.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[PedestrianBridges.PedestrianBridges.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[PedestrianBridges.PedestrianBridges.Mod.Setting.EnableMod]": "Yaya Köprüleri modunu etkinleştir veya devre dışı bırak"
+}

@@ -1,0 +1,7 @@
+{
+  "Options.SECTION[PrefabUpdateMod.PrefabUpdateMod.Mod]": "Prefab Güncelleme Modu",
+  "Options.TAB[PrefabUpdateMod.PrefabUpdateMod.Mod.Main]": "Ana",
+  "Options.GROUP[PrefabUpdateMod.PrefabUpdateMod.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.EnableMod]": "Prefab Güncelleme Modu'nu etkinleştir veya devre dışı bırak"
+}

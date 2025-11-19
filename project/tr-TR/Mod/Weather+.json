@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[Weather+.Weather+.Mod]": "Hava+",
+  "Options.TAB[Weather+.Weather+.Mod.Main]": "Ana",
+  "Options.GROUP[Weather+.Weather+.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[Weather+.Weather+.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[Weather+.Weather+.Mod.Setting.EnableMod]": "Hava+ modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[Weather+.Weather+.Mod.Setting.WeatherEffects]": "Hava Efektleri",
+  "Options.OPTION_DESCRIPTION[Weather+.Weather+.Mod.Setting.WeatherEffects]": "Hava efektlerinin yoğunluğunu ayarla"
+}
