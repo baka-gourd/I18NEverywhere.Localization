@@ -2,7 +2,10 @@ module.exports = {
   prompt: {
     types: [
       { value: "origin", name: "origin:     Add original language file" },
-      { value: "translate", name: "translate:     Add translated language file" },
+      {
+        value: "translate",
+        name: "translate:     Add translated language file",
+      },
       { value: "maintain", name: "maintain:     Maintain the repo" },
     ],
     scopes: [
@@ -11,6 +14,7 @@ module.exports = {
       { value: "fr-FR", name: "French" },
       { value: "ko-KR", name: "Korean" },
       { value: "es-ES", name: "Spanish" },
+      { value: "ru-RU", name: "Russian" },
     ],
   },
 };
