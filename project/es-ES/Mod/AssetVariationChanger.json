@@ -16,5 +16,5 @@
   "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.LineToolCompatibility]": "Compatibilidad con Line Tool",
   "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.TreeControllerCompatibility]": "Compatibilidad con Tree Controller",
   "Options.GROUP[AssetVariationChanger.AssetVariationChanger.Mod.Settings]": "Configuración",
-  "Options.GROUP[AssetVariationChanger.AssetVariationChanger.Mod.Compatibility]": "Compatibilidad",
+  "Options.GROUP[AssetVariationChanger.AssetVariationChanger.Mod.Compatibility]": "Compatibilidad"
 }
