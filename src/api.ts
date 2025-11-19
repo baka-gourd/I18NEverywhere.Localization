@@ -144,7 +144,11 @@ export class ParaTranzApi {
         body: fd as any,
       }
     );
-    if (!res.ok) throw new Error(`updateFileTranslation failed ${res.status}`);
+   
+    if (!res.ok) {
+      console.log(await res.text());
+      throw new Error(`updateFileTranslation failed ${res.status}`);
+    }
     return (await res.json()) as FileItem;
   }
 
