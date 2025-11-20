@@ -1,7 +1,9 @@
 {
   "Options.SECTION[PrefabUpdateMod.PrefabUpdateMod.Mod]": "Prefab Güncelleme Modu",
   "Options.TAB[PrefabUpdateMod.PrefabUpdateMod.Mod.Main]": "Ana",
-  "Options.GROUP[PrefabUpdateMod.PrefabUpdateMod.Mod.Settings]": "Ayarlar",
-  "Options.OPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.EnableMod]": "Modu Etkinleştir",
-  "Options.OPTION_DESCRIPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.EnableMod]": "Prefab Güncelleme Modu'nu etkinleştir veya devre dışı bırak"
+  "Options.GROUP[PrefabUpdateMod.PrefabUpdateMod.Mod.Main]": "Main",
+  "Options.OPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.Button]": "UPDATE ASSETS",
+  "Options.OPTION_DESCRIPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.Button]": "Updates all placed assets from the selected pack.",
+  "Options.OPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.SelectedPack]": "Asset Pack",
+  "Options.OPTION_DESCRIPTION[PrefabUpdateMod.PrefabUpdateMod.Mod.Setting.SelectedPack]": "Select a pack to be updated."
 }

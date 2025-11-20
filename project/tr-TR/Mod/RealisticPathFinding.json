@@ -1,9 +1,5 @@
 {
   "Options.SECTION[RealisticPathFinding.RealisticPathFinding.Mod]": "Gerçekçi Yol Bulma",
-  "Options.TAB[RealisticPathFinding.RealisticPathFinding.Mod.Main]": "Ana",
-  "Options.GROUP[RealisticPathFinding.RealisticPathFinding.Mod.Settings]": "Ayarlar",
-  "Options.OPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.EnableMod]": "Modu Etkinleştir",
-  "Options.OPTION_DESCRIPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.EnableMod]": "Gerçekçi Yol Bulma modunu etkinleştir veya devre dışı bırak",
   "Options.TAB[RealisticPathFinding.RealisticPathFinding.Mod.Transit]": "Transit",
   "Options.TAB[RealisticPathFinding.RealisticPathFinding.Mod.Pedestrians]": "Pedestrians",
   "Options.TAB[RealisticPathFinding.RealisticPathFinding.Mod.Taxi]": "Taxi",

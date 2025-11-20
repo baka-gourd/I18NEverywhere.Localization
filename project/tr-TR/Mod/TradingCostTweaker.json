@@ -1,11 +1,5 @@
 {
   "Options.SECTION[TradingCostTweaker.TradingCostTweaker.Mod]": "Ticaret Maliyeti Ayarlayıcı",
-  "Options.TAB[TradingCostTweaker.TradingCostTweaker.Mod.Main]": "Ana",
-  "Options.GROUP[TradingCostTweaker.TradingCostTweaker.Mod.Settings]": "Ayarlar",
-  "Options.OPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.ImportCost]": "İthalat Maliyeti",
-  "Options.OPTION_DESCRIPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.ImportCost]": "Ürünleri içe aktarmanın maliyetini ayarla",
-  "Options.OPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.ExportRevenue]": "İhracat Geliri",
-  "Options.OPTION_DESCRIPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.ExportRevenue]": "Ürünleri dışa aktarmaktan elde edilen geliri ayarla",
   "Options.TAB[TradingCostTweaker.TradingCostTweaker.Mod.Service]": "Service",
   "Options.TAB[TradingCostTweaker.TradingCostTweaker.Mod.Cargo]": "Cargo",
   "Options.TAB[TradingCostTweaker.TradingCostTweaker.Mod.About]": "About",
