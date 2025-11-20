@@ -1,7 +1,7 @@
 {
   "Options.SECTION[EvenBetterSaveList.EvenBetterSaveList.Mod]": "Daha Da İyi Kayıt Listesi",
-  "Options.TAB[EvenBetterSaveList.EvenBetterSaveList.Mod.Main]": "Ana",
-  "Options.GROUP[EvenBetterSaveList.EvenBetterSaveList.Mod.Settings]": "Ayarlar",
-  "Options.OPTION[EvenBetterSaveList.EvenBetterSaveList.Mod.Setting.EnableMod]": "Modu Etkinleştir",
-  "Options.OPTION_DESCRIPTION[EvenBetterSaveList.EvenBetterSaveList.Mod.Setting.EnableMod]": "Daha Da İyi Kayıt Listesi modunu etkinleştir veya devre dışı bırak"
+  "Options.OPTION_DESCRIPTION[EvenBetterSaveList.EvenBetterSaveList.Mod.Setting.Enabled]": "Etkinleştir",
+  "Options.OPTION[EvenBetterSaveList.EvenBetterSaveList.Mod.Setting.Enabled]": "Etkinleştir",
+  "EvenBetterSaveList.Sort.CityName": "Şehir Adı ",
+  "EvenBetterSaveList.Sort.Save": "Kaydet "
 }
