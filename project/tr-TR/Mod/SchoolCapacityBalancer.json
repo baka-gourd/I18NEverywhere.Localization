@@ -2,12 +2,19 @@
   "Options.SECTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod]": "Okul Kapasitesi Dengeleyici",
   "Options.TAB[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Modify School Capacity]": "Ana",
   "Options.GROUP[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Student Capacity]": "Öğrenci Kapasitesi",
+  "Options.GROUP[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Additional Options]": "Ek Seçenekler",
   "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ElementarySlider]": "İlkokul",
-  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSlider]": "Lise",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSchoolSlider]": "Lise",
   "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.CollegeSlider]": "Kolej",
   "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.UniversitySlider]": "Üniversite",
   "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ElementarySlider]": "İlkokul binalarının öğrenci kapasitesini vanilla kapasitelerine göre ayarlayın.",
-  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSlider]": "Lise binalarının öğrenci kapasitesini vanilla kapasitelerine göre ayarlayın.",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSchoolSlider]": "Lise binalarının öğrenci kapasitesini vanilla kapasitelerine göre ayarlayın.",
   "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.CollegeSlider]": "Kolej binalarının öğrenci kapasitesini vanilla kapasitelerine göre ayarlayın.",
-  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.UniversitySlider]": "Üniversite binalarının öğrenci kapasitesini vanilla kapasitelerine göre ayarlayın."
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.UniversitySlider]": "Üniversite binalarının öğrenci kapasitesini vanilla kapasitelerine göre ayarlayın.",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ScaleUpkeepWithCapacity]": "Bakım maliyetini kapasite ile ölçeklendir",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ScaleUpkeepWithCapacity]": "Etkinleştirilirse, okul bakım maliyetleri kapasite ayarıyla ölçeklendirilir. Bu değeri değiştirmek oyunun yeniden başlatılmasını gerektirir.",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToVanilla]": "Vanilla'ya Sıfırla",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToVanilla]": "Tüm kapasiteleri %100'e sıfırlar.",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToModDefault]": "Dengeli Varsayılanlara Sıfırla",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToModDefault]": "Tüm kapasiteleri modun dengeli varsayılan değerlerine sıfırlar."
 }

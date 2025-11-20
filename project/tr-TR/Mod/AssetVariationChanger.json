@@ -1,9 +1,16 @@
 {
   "Options.SECTION[AssetVariationChanger.AssetVariationChanger.Mod]": "Varlık Varyasyon Değiştirici",
-  "Options.TAB[AssetVariationChanger.AssetVariationChanger.Mod.Main]": "Ana",
-  "Options.GROUP[AssetVariationChanger.AssetVariationChanger.Mod.Settings]": "Ayarlar",
-  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableMod]": "Modu Etkinleştir",
-  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableMod]": "Varlık Varyasyon Değiştirici modunu etkinleştir veya devre dışı bırak",
-  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ShowVariations]": "Varyasyonları Göster",
-  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ShowVariations]": "Seçili varlık için mevcut varyasyonları göster"
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousVariationBinding]": "Önceki Varyasyon",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousVariationBinding]": "Bu tuş önceki varlık varyasyonunu seçmek için atanacak",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "Sonraki Varyasyon",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "Bu tuş sonraki varlık varyasyonunu seçmek için atanacak",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "Varyasyon Seçiciyi Değiştir",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "Menüyü açmadan modu değiştirmek için bu tuş atamasını kullanın",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "Varyasyon Seçiciyi Etkinleştir",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "Etkinleştirilirse, mod gerçekten çalışır. Devre dışı bırakılırsa, mod hiçbir şey yapmaz. Vanilla rastgele davranışını istiyorsanız bu kullanışlıdır",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ResetBindings]": "Tuş atamalarını sıfırla",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ResetBindings]": "",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod/PreviousVariationBinding/binding]": "Önceki Varlık Varyasyonu",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod/NextVariationBinding/binding]": "Sonraki Varlık Varyasyonu",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod/ToggleVariationChooserBinding/binding]": "Varyasyon Seçiciyi Değiştir"
 }

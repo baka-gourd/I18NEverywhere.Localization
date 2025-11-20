@@ -1,7 +1,18 @@
 {
-  "Options.SECTION[ParkingMonitor.ParkingMonitor.Mod]": "Park Yeri İzleyici",
+  "Options.SECTION[ParkingMonitor.ParkingMonitor.Mod]": "Park İzleyici",
   "Options.TAB[ParkingMonitor.ParkingMonitor.Mod.Main]": "Ana",
   "Options.GROUP[ParkingMonitor.ParkingMonitor.Mod.Settings]": "Ayarlar",
-  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.EnableMod]": "Modu Etkinleştir",
-  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.EnableMod]": "Park Yeri İzleyici modunu etkinleştir veya devre dışı bırak"
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.parkingRowCount]": "Gösterilen Maksimum Park Yeri Sayısı",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.parkingRowCount]": "Park izleyici panelinde sayıları görüntülenen maksimum park yeri sayısı.",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.defaultRowsPerDistrict]": "İlçe Başına Varsayılan Satır",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.defaultRowsPerDistrict]": "İlçe başına gösterilecek varsayılan park yeri sayısı.",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.initialState]": "Başlangıç İzleyici Aktif Durumu",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.initialState]": "Oyun başladığında park izleyicisinin aktif olup olmadığı. Veri kaydetmek için izleyici 'aktif' veya 'duraklatılmış' olmalıdır.",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.INITIALVALUE[ACTIVE]": "Aktif",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.INITIALVALUE[PAUSED]": "Duraklatıldı",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.INITIALVALUE[STOPPED]": "Durduruldu",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.districtSortOrder]": "İlçe Sıralama Düzeni",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.districtSortOrder]": "Park izleyici panelinde ilçelerin sıralanacağı düzen",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.SORTORDER[COUNT]": "Maksimum Park Denemesi",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.SORTORDER[NAME]": "İsim"
 }

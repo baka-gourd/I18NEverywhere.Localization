@@ -1,7 +1,9 @@
 {
   "Options.SECTION[StifferVehicles.StifferVehicles.Mod]": "Daha Sert Araçlar",
-  "Options.TAB[StifferVehicles.StifferVehicles.Mod.Main]": "Ana",
-  "Options.GROUP[StifferVehicles.StifferVehicles.Mod.Settings]": "Ayarlar",
-  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.EnableMod]": "Modu Etkinleştir",
-  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.EnableMod]": "Daha Sert Araçlar modunu etkinleştir veya devre dışı bırak"
+  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.StiffnessModifier]": "Stiffness Modifier",
+  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.StiffnessModifier]": "The Max Position modifier for all vehicles. Vanilla is 1.0, Default for Mod is 3.0 Higher values makes vehicles lean less, but it might look harsher.",
+  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.DampingModifier]": "Damping Modifier",
+  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.DampingModifier]": "The Damping modifier for all vehicles. Vanilla is 1.0, Default for Mod is 2.0 Higher values makes vehicles bounce more. Low values are stiffer.",
+  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.ResetToDefault]": "Reset to Default",
+  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.ResetToDefault]": "Reset the modifiers to the default values."
 }

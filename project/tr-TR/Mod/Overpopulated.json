@@ -1,7 +1,15 @@
 {
-  "Options.SECTION[Overpopulated.Overpopulated.Mod]": "Aşırı Kalabalık",
+  "Options.SECTION[Overpopulated.Overpopulated.Mod]": "Aşırı Nüfuslu Gizmo & Düzeltme 1.2.0.0",
   "Options.TAB[Overpopulated.Overpopulated.Mod.Main]": "Ana",
-  "Options.GROUP[Overpopulated.Overpopulated.Mod.Settings]": "Ayarlar",
-  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.PopulationMultiplier]": "Nüfus Çarpanı",
-  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.PopulationMultiplier]": "Binalardaki nüfus sayısını artırın veya azaltın"
+  "Options.GROUP[Overpopulated.Overpopulated.Mod.Options]": "Seçenekler",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureGizmo]": "Aşırı nüfuslu gizmoyu etkinleştir",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureGizmo]": "Kapasitelerinden daha fazla haneye sahip binaları gösteren gizmoyu etkinleştirir.",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureDumpToLog]": "Günlüğe dökümü etkinleştir",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureDumpToLog]": "Kayıt dosyası yüklendiğinde, kapasitelerinden daha fazla haneye sahip binaların listesini günlüğe döker.",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureLoadingFix]": "Yükleme düzeltmesini etkinleştir",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureLoadingFix]": "Kayıt dosyası yükleme sürecini, kapasitelerinden daha fazla hane veya şirkete sahip binalar oluşturmayacak şekilde yamar.",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureRenterFix]": "Kiracı düzeltmesini etkinleştir",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureRenterFix]": "Hane kaldırma sistemini, mülklerden kopuk mülk kiracıları oluşturmayacak şekilde yamar.",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureSeparatedSystems]": "Ayrılmış kaldırma sistemlerini etkinleştir",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureSeparatedSystems]": "Hane ve vatandaş kaldırma süreçlerini ayırır. Bu, daha sık kiracı sorunlarına yol açan nadir bir yarış durumunu önler. Sadece Kiracı düzeltmesi etkinken geçerlidir."
 }
