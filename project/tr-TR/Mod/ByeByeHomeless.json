@@ -1,9 +1,15 @@
 {
-  "Options.SECTION[ByeByeHomeless.ByeByeHomeless.Mod]": "Hoşça Kal Evsizler",
-  "Options.TAB[ByeByeHomeless.ByeByeHomeless.Mod.Main]": "Ana",
-  "Options.GROUP[ByeByeHomeless.ByeByeHomeless.Mod.Settings]": "Ayarlar",
-  "Options.OPTION[ByeByeHomeless.ByeByeHomeless.Mod.Setting.EnableMod]": "Modu Etkinleştir",
-  "Options.OPTION_DESCRIPTION[ByeByeHomeless.ByeByeHomeless.Mod.Setting.EnableMod]": "Hoşça Kal Evsizler modunu etkinleştir veya devre dışı bırak",
-  "Options.OPTION[ByeByeHomeless.ByeByeHomeless.Mod.Setting.RemoveHomeless]": "Evsizleri Kaldır",
-  "Options.OPTION_DESCRIPTION[ByeByeHomeless.ByeByeHomeless.Mod.Setting.RemoveHomeless]": "Şehirden evsizleri otomatik olarak kaldır"
+  "Options.SECTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod]": "Hoşça Kal Evsizler",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ApplyHomelessnessFix]": "Evsizlik hata düzeltmesini uygula",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ApplyHomelessnessFix]": "Bu, evsizlik hata düzeltmesinin uygulandığını gösteren bir göstergedir.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeportHomeless]": "Evsizleri sınır dışı et",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeportHomeless]": "Vize iptal edildi! Parklarınızdaki kamp yapanların şehri hemen terk etmesini sağla.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ArrestHomeless]": "Evsizleri tutuklat",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ArrestHomeless]": "Evsiz canlıları hapse atmak için polis gönder.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveStuckHomeless]": "Sıkışan evsizleri kaldır",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveStuckHomeless]": "Sokaklarda sıkışan evsiz vatandaşları anında kaldır, parklardakiler dahil DEĞİL.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveAllHomeless]": "Tüm evsizleri kaldır",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveAllHomeless]": "Parklardakiler dahil tüm evsiz vatandaşları anında kaldır.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "Hayalet şirketleri tahliye et",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "[DENEYSEL] İşaretlendiğinde, fabrikası veya ofisi olmayan şirketler tahliye edilir."
 }
