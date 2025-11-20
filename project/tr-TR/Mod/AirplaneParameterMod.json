@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[AirplaneParameterMod.AirplaneParameterMod.Mod]": "Uçak Parametre Modu",
+  "Options.TAB[AirplaneParameterMod.AirplaneParameterMod.Mod.Main]": "Ana",
+  "Options.GROUP[AirplaneParameterMod.AirplaneParameterMod.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[AirplaneParameterMod.AirplaneParameterMod.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[AirplaneParameterMod.AirplaneParameterMod.Mod.Setting.EnableMod]": "Uçak Parametre Modu'nu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[AirplaneParameterMod.AirplaneParameterMod.Mod.Setting.FlightSpeed]": "Uçuş Hızı",
+  "Options.OPTION_DESCRIPTION[AirplaneParameterMod.AirplaneParameterMod.Mod.Setting.FlightSpeed]": "Uçakların hızını ayarla"
+}

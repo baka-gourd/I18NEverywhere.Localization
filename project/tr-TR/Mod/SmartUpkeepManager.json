@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[SmartUpkeepManager.SmartUpkeepManager.Mod]": "Akıllı Bakım Yöneticisi",
+  "Options.TAB[SmartUpkeepManager.SmartUpkeepManager.Mod.Main]": "Ana",
+  "Options.GROUP[SmartUpkeepManager.SmartUpkeepManager.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[SmartUpkeepManager.SmartUpkeepManager.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[SmartUpkeepManager.SmartUpkeepManager.Mod.Setting.EnableMod]": "Akıllı Bakım Yöneticisi modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[SmartUpkeepManager.SmartUpkeepManager.Mod.Setting.UpkeepMultiplier]": "Bakım Çarpanı",
+  "Options.OPTION_DESCRIPTION[SmartUpkeepManager.SmartUpkeepManager.Mod.Setting.UpkeepMultiplier]": "Bina bakım maliyetlerini ayarla"
+}

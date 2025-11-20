@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[ParkingPricing.ParkingPricing.Mod]": "Park Yeri Fiyatlandırma",
+  "Options.TAB[ParkingPricing.ParkingPricing.Mod.Main]": "Ana",
+  "Options.GROUP[ParkingPricing.ParkingPricing.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[ParkingPricing.ParkingPricing.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[ParkingPricing.ParkingPricing.Mod.Setting.EnableMod]": "Park Yeri Fiyatlandırma modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[ParkingPricing.ParkingPricing.Mod.Setting.ParkingFee]": "Park Ücreti",
+  "Options.OPTION_DESCRIPTION[ParkingPricing.ParkingPricing.Mod.Setting.ParkingFee]": "Park yerlerinin kullanım ücretini ayarla"
+}

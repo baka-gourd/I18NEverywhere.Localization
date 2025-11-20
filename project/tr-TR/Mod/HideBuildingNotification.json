@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[HideBuildingNotification.HideBuildingNotification.Mod]": "Bina Bildirimlerini Gizle",
+  "Options.TAB[HideBuildingNotification.HideBuildingNotification.Mod.Main]": "Ana",
+  "Options.GROUP[HideBuildingNotification.HideBuildingNotification.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[HideBuildingNotification.HideBuildingNotification.Mod.Setting.HideCompleted]": "Tamamlanan Bina Bildirimlerini Gizle",
+  "Options.OPTION_DESCRIPTION[HideBuildingNotification.HideBuildingNotification.Mod.Setting.HideCompleted]": "Bina inşaatları tamamlandığında bildirimleri gizle",
+  "Options.OPTION[HideBuildingNotification.HideBuildingNotification.Mod.Setting.HideAbandoned]": "Terk Edilmiş Bina Bildirimlerini Gizle",
+  "Options.OPTION_DESCRIPTION[HideBuildingNotification.HideBuildingNotification.Mod.Setting.HideAbandoned]": "Binalar terk edildiğinde bildirimleri gizle"
+}

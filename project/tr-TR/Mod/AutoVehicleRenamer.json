@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod]": "Otomatik Araç Yeniden Adlandırıcı",
+  "Options.TAB[AutoVehicleRenamer.AutoVehicleRenamer.Mod.Main]": "Ana",
+  "Options.GROUP[AutoVehicleRenamer.AutoVehicleRenamer.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.Setting.EnableMod]": "Otomatik Araç Yeniden Adlandırıcı modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.Setting.NamingPattern]": "Adlandırma Deseni",
+  "Options.OPTION_DESCRIPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.Setting.NamingPattern]": "Araçlar için özel adlandırma deseni belirle"
+}
