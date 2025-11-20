@@ -89,10 +89,10 @@
   "Options.OPTION_DESCRIPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.FreeButton2]": "Set all cargo costs to 0%.",
   "Options.OPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.ResetButton2]": "Reset Cargo Costs to Vanilla",
   "Options.OPTION_DESCRIPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.ResetButton2]": "Resets all cargo costs to 100%.",
-  "Options.OPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.NameText]": "Mod Name",
-  "Options.OPTION_DESCRIPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.NameText]": "",
-  "Options.OPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.VersionText]": "Mod Version",
-  "Options.OPTION_DESCRIPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.VersionText]": "",
-  "Options.OPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.AuthorText]": "Author",
-  "Options.OPTION_DESCRIPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.AuthorText]": ""
+  "Options.OPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.NameText]": "Mod Adı",
+  "Options.OPTION_DESCRIPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.NameText]": "Modun adını gösterir",
+  "Options.OPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.VersionText]": "Mod Sürümü",
+  "Options.OPTION_DESCRIPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.VersionText]": "Modun sürüm numarasını gösterir",
+  "Options.OPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.AuthorText]": "Yazar",
+  "Options.OPTION_DESCRIPTION[TradingCostTweaker.TradingCostTweaker.Mod.Setting.AuthorText]": "Modun yazarını gösterir"
 }
