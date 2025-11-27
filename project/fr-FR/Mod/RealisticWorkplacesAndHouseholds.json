@@ -155,5 +155,10 @@
   "Options.OPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.disable_workplace_calculations]": "Désactiver les calculs du lieu de travail",
   "Options.OPTION_DESCRIPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.disable_workplace_calculations]": "Désactive les calculs pour les lieux de travail dans les zones de bureaux, commerciales et industrielles. Les valeurs des lieux de travail seront fixées à la valeur du jeu de base. Nécessite de redémarrer le jeu.",
   "Options.OPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.disable_cityservices_calculations]": "Désactiver les calculs du lieu de travail des services de la ville",
-  "Options.OPTION_DESCRIPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.disable_cityservices_calculations]": "Désactive les calculs pour les lieux de travail sur les bâtiments appartenant à la ville. Les valeurs des lieux de travail seront fixées à la valeur du jeu de base. Nécessite de redémarrer le jeu."
+  "Options.OPTION_DESCRIPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.disable_cityservices_calculations]": "Désactive les calculs pour les lieux de travail sur les bâtiments appartenant à la ville. Les valeurs des lieux de travail seront fixées à la valeur du jeu de base. Nécessite de redémarrer le jeu.",
+  "Options.OPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.DTText]": "Mettez à jour les paramètres ci-dessous si vous rencontrez des problèmes avec la demande résidentielle et les bâtiments sans ménages.\n",
+  "Options.OPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.find_property_limit_factor]": "Facteur de limitation des demandes",
+  "Options.OPTION_DESCRIPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.find_property_limit_factor]": "Augmente la limite autorisée pour les requêtes de recherche de propriétés. La valeur par défaut est 1. Des valeurs plus élevées auront un impact sur les performances et ralentiront le jeu.",
+  "Options.OPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.find_property_night]": "Doubler la limite pendant la nuit",
+  "Options.OPTION_DESCRIPTION[RWH.RealisticWorkplacesAndHouseholds.Mod.Setting.find_property_night]": "Double le nombre de demandes de recherche de propriétés pendant la nuit. Cela aura un impact sur les performances et n'est recommandé qu'avec le mod Realistic Trips."
 }

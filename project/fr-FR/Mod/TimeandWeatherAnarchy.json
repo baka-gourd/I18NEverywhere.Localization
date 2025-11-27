@@ -51,5 +51,8 @@
   "TimeWeatherAnarchy.Aurora": "Aurores Boréales",
   "TimeWeatherAnarchy.Temperature": "Température",
   "TimeWeatherAnarchy.Fog": "Brouillard",
-  "TimeWeatherAnarchy.Thunder": "Tonnerre"
+  "TimeWeatherAnarchy.Thunder": "Tonnerre",
+  "Options.OPTION[TimeWeatherAnarchy.TimeWeatherAnarchy.Mod.TimeWeatherAnarchySettings.TriggerNextProfileToggle]": "Passer au prochain profil de paramètres de raccourcis clavier",
+  "TimeWeatherAnarchy.DeleteProfileConfirmation": "Êtes-vous sûr de vouloir supprimer ce profil ?",
+  "TimeWeatherAnarchy.DeleteProfile": "Supprimer le profil"
 }

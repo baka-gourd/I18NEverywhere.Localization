@@ -1,1 +1,7 @@
-﻿{}
+﻿{
+  "Options.SECTION[EvenBetterSaveList.EvenBetterSaveList.Mod]": "Even Better Save List",
+  "Options.OPTION_DESCRIPTION[EvenBetterSaveList.EvenBetterSaveList.Mod.Setting.Enabled]": "Active",
+  "Options.OPTION[EvenBetterSaveList.EvenBetterSaveList.Mod.Setting.Enabled]": "Activer",
+  "EvenBetterSaveList.Sort.CityName": "Nom de la ville",
+  "EvenBetterSaveList.Sort.Save": "Sauvegarder"
+}

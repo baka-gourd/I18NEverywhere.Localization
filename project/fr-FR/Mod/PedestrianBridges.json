@@ -19,6 +19,7 @@
   "Assets.NAME[W7XLStreetPedestrianBridgeWideMedian]": "Route XL avec une large bande médiane",
   "Assets.NAME[W7XLStreetPedestrianBridgeTram]": "Route XL avec tramway",
   "SubServices.NAME[W7PedestrianBridges]": "Passerelles pour piétons",
+  "Assets.SUB_SERVICE_DESCRIPTION[W7PedestrianBridges]": "Pedestrian bridges par Washi776\n\nChoisissez la bonne longueur. Plus avec dans le menu des chemins",
   "Assets.NAME[W7PedBridgeSectionTram03]": "W7PedBridgeSectionTram03",
   "Assets.NAME[W7MediumStreetPedestrianBridgeWideMedian]": "Route moyenne avec médiane large",
   "Assets.NAME[W7MediumStreetPedestrianBridgeTram]": "Route moyenne avec tramway",

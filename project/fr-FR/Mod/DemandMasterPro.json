@@ -88,6 +88,7 @@
   "Options.OPTION[DemandMaster.DemandMaster.Mod.Setting.NameText]": "Nom du mod",
   "Options.OPTION[DemandMaster.DemandMaster.Mod.Setting.VersionText]": "Version du mod",
   "Options.OPTION[DemandMaster.DemandMaster.Mod.Setting.AuthorText]": "Auteur",
+  "Options.OPTION[DemandMaster.DemandMaster.Mod.Setting.AboutTheMod]": "A propos du Mod:\nCe mod est très puissant. Il permet au joueur de modifier de nombreux paramètres liés au système de demande. Cependant, il ne s'agit pas d'un mod de demande infinie où les bâtiments sont construits mais où personne n'emménage.\nCela étant dit, j'appelle ce mod un mod alpha, pour l'instant. Tout fonctionne, cela a été testé. Cependant, il est impossible de trouver tous les cas extrêmes.\nCe mod ne fonctionne que lorsque la simulation est en cours. Ceci étant dit, ce mod ne touche pas à votre sauvegarde. Tous les paramètres sont globaux et les joueurs peuvent utiliser le bouton ci-dessus pour tout remettre à zéro en une seule fois.\nComme toujours, il est recommandé d'avoir des fichiers de sauvegarde redondants juste pour que si votre ville meurt, elle puisse être récupérée. Assurez-vous également que la sauvegarde automatique est activée.\nSi vous constatez que la simulation se bloque, n'hésitez pas à me contacter pour que je corrige ces problèmes.\nAmusez-vous!",
   "Options.OPTION[DemandMaster.DemandMaster.Mod.Setting.Reset]": "Réinitialiser aux paramètres du jeu de base",
   "Options.OPTION_DESCRIPTION[DemandMaster.DemandMaster.Mod.Setting.Reset]": "Réinitialise toutes les valeurs à celles du jeu de base."
 }

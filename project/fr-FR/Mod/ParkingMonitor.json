@@ -1,1 +1,18 @@
-﻿{}
+﻿{
+  "Options.SECTION[ParkingMonitor.ParkingMonitor.Mod]": "Parking Monitor",
+  "Options.TAB[ParkingMonitor.ParkingMonitor.Mod.Main]": "Général",
+  "Options.GROUP[ParkingMonitor.ParkingMonitor.Mod.Settings]": "Paramètres",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.parkingRowCount]": "Nombre maximal d'emplacements de stationnement affichés",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.parkingRowCount]": "Nombre maximal d'emplacements de stationnement dont le nombre est affiché sur le panneau de contrôle du stationnement.",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.defaultRowsPerDistrict]": "Ligne par défaut par district",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.defaultRowsPerDistrict]": "Nombre par défaut de parkings à afficher par quartier.",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.initialState]": "État actif initial du moniteur",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.initialState]": "Si le moniteur de stationnement est actif au début du jeu. Le moniteur doit être « actif » ou « en pause » pour enregistrer les données.",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.INITIALVALUE[ACTIVE]": "Actif",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.INITIALVALUE[PAUSED]": "En pause",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.INITIALVALUE[STOPPED]": "Arrêté",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.districtSortOrder]": "Ordre de tri des districts",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.districtSortOrder]": "L'ordre dans lequel trier les districts dans le panneau de surveillance du stationnement",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.SORTORDER[COUNT]": "Nombre maximal de tentatives de stationnement",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.SORTORDER[NAME]": "Nom"
+}
