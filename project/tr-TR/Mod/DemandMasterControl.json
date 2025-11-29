@@ -1,0 +1,13 @@
+{
+  "Options.SECTION[DemandMasterControl.DemandMasterControl.Mod]": "Talep Ana Kontrolü",
+  "Options.TAB[DemandMasterControl.DemandMasterControl.Mod.Main]": "Ana",
+  "Options.GROUP[DemandMasterControl.DemandMasterControl.Mod.Residential]": "Konut",
+  "Options.GROUP[DemandMasterControl.DemandMasterControl.Mod.Commercial]": "Ticari",
+  "Options.GROUP[DemandMasterControl.DemandMasterControl.Mod.Industrial]": "Endüstriyel",
+  "Options.OPTION[DemandMasterControl.DemandMasterControl.Mod.Setting.ResidentialDemand]": "Konut Talebi",
+  "Options.OPTION_DESCRIPTION[DemandMasterControl.DemandMasterControl.Mod.Setting.ResidentialDemand]": "Konut bölgeleri için talep seviyesini kontrol et",
+  "Options.OPTION[DemandMasterControl.DemandMasterControl.Mod.Setting.CommercialDemand]": "Ticari Talep",
+  "Options.OPTION_DESCRIPTION[DemandMasterControl.DemandMasterControl.Mod.Setting.CommercialDemand]": "Ticari bölgeler için talep seviyesini kontrol et",
+  "Options.OPTION[DemandMasterControl.DemandMasterControl.Mod.Setting.IndustrialDemand]": "Endüstriyel Talep",
+  "Options.OPTION_DESCRIPTION[DemandMasterControl.DemandMasterControl.Mod.Setting.IndustrialDemand]": "Endüstriyel bölgeler için talep seviyesini kontrol et"
+}

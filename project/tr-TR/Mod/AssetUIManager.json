@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[AssetUIManager.AssetUIManager.Mod]": "Varlık Kullanıcı Arayüzü Yöneticisi",
+  "Options.TAB[AssetUIManager.AssetUIManager.Mod.Main]": "Ana",
+  "Options.GROUP[AssetUIManager.AssetUIManager.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.EnableMod]": "Varlık Kullanıcı Arayüzü Yöneticisi modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.CustomUI]": "Özel UI",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.CustomUI]": "Varlık seçim arayüzünü özelleştir"
+}

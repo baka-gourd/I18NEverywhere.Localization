@@ -1,0 +1,7 @@
+{
+  "Options.SECTION[CompanyBrandChanger.CompanyBrandChanger.Mod]": "Şirket Markası Değiştirici",
+  "Options.TAB[CompanyBrandChanger.CompanyBrandChanger.Mod.Main]": "Ana",
+  "Options.GROUP[CompanyBrandChanger.CompanyBrandChanger.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[CompanyBrandChanger.CompanyBrandChanger.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[CompanyBrandChanger.CompanyBrandChanger.Mod.Setting.EnableMod]": "Şirket Markası Değiştirici modunu etkinleştir veya devre dışı bırak"
+}

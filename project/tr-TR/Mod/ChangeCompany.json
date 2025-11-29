@@ -1,0 +1,7 @@
+{
+  "Options.SECTION[ChangeCompany.ChangeCompany.Mod]": "Şirket Değiştir",
+  "Options.TAB[ChangeCompany.ChangeCompany.Mod.Main]": "Ana",
+  "Options.GROUP[ChangeCompany.ChangeCompany.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[ChangeCompany.ChangeCompany.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[ChangeCompany.ChangeCompany.Mod.Setting.EnableMod]": "Şirket Değiştir modunu etkinleştir veya devre dışı bırak"
+}

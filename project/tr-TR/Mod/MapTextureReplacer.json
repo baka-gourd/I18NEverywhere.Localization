@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[MapTextureReplacer.MapTextureReplacer.Mod]": "Harita Dokusu Değiştirici",
+  "Options.TAB[MapTextureReplacer.MapTextureReplacer.Mod.Main]": "Ana",
+  "Options.GROUP[MapTextureReplacer.MapTextureReplacer.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[MapTextureReplacer.MapTextureReplacer.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[MapTextureReplacer.MapTextureReplacer.Mod.Setting.EnableMod]": "Harita Dokusu Değiştirici modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[MapTextureReplacer.MapTextureReplacer.Mod.Setting.TexturePath]": "Doku Yolu",
+  "Options.OPTION_DESCRIPTION[MapTextureReplacer.MapTextureReplacer.Mod.Setting.TexturePath]": "Özel harita dokularınızın klasör yolu"
+}

@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[MagicalHearse.MagicalHearse.Mod]": "Sihirli Cenaze Arabası",
+  "Options.TAB[MagicalHearse.MagicalHearse.Mod.Main]": "Ana",
+  "Options.GROUP[MagicalHearse.MagicalHearse.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[MagicalHearse.MagicalHearse.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[MagicalHearse.MagicalHearse.Mod.Setting.EnableMod]": "Sihirli Cenaze Arabası modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[MagicalHearse.MagicalHearse.Mod.Setting.InstantPickup]": "Anında Toplama",
+  "Options.OPTION_DESCRIPTION[MagicalHearse.MagicalHearse.Mod.Setting.InstantPickup]": "Cenaze arabalarının ölüleri anında toplamasını sağla"
+}

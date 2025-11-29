@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[ToggleableOverlays.ToggleableOverlays.Mod]": "Açılıp Kapanabilir Kaplamalar",
+  "Options.TAB[ToggleableOverlays.ToggleableOverlays.Mod.Main]": "Ana",
+  "Options.GROUP[ToggleableOverlays.ToggleableOverlays.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[ToggleableOverlays.ToggleableOverlays.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[ToggleableOverlays.ToggleableOverlays.Mod.Setting.EnableMod]": "Açılıp Kapanabilir Kaplamalar modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[ToggleableOverlays.ToggleableOverlays.Mod.Setting.ToggleOverlays]": "Kaplamaları Değiştir",
+  "Options.OPTION_DESCRIPTION[ToggleableOverlays.ToggleableOverlays.Mod.Setting.ToggleOverlays]": "Harita kaplamalarını hızlıca açıp kapat"
+}

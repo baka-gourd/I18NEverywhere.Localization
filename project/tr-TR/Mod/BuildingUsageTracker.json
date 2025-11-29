@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[BuildingUsageTracker.BuildingUsageTracker.Mod]": "Bina Kullanım Takipçisi",
+  "Options.TAB[BuildingUsageTracker.BuildingUsageTracker.Mod.Main]": "Ana",
+  "Options.GROUP[BuildingUsageTracker.BuildingUsageTracker.Mod.Settings]": "Ayarlar",
+  "Options.OPTION[BuildingUsageTracker.BuildingUsageTracker.Mod.Setting.EnableMod]": "Modu Etkinleştir",
+  "Options.OPTION_DESCRIPTION[BuildingUsageTracker.BuildingUsageTracker.Mod.Setting.EnableMod]": "Bina Kullanım Takipçisi modunu etkinleştir veya devre dışı bırak",
+  "Options.OPTION[BuildingUsageTracker.BuildingUsageTracker.Mod.Setting.ShowUsage]": "Kullanımı Göster",
+  "Options.OPTION_DESCRIPTION[BuildingUsageTracker.BuildingUsageTracker.Mod.Setting.ShowUsage]": "Binaların kullanım istatistiklerini göster"
+}
