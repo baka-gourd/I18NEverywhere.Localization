@@ -1,0 +1,17 @@
+{
+  "Options.SECTION[AssetIconLibrary.AssetIconLibrary.Mod]": "資產圖示庫",
+  "Options.TAB[AssetIconLibrary.AssetIconLibrary.Mod.Main]": "主要",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Settings]": "設定",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Custom]": "自訂",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.RestartRequired]": "⚠️  變更這些設定需要重新啟動遊戲才能套用。",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "覆蓋現有圖示",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "啟用後，資產圖示庫將會覆蓋原版資產的圖示，即使該資產已經有圖示。",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "圖示樣式",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "變更可用時資產圖示所使用的樣式。",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.CustomIcons]": "使用自訂資產圖示（將圖片檔以資產名稱命名並放入自訂圖示資料夾）",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "開啟自訂圖示資料夾",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "加入個人自訂圖示，以取代原版或「資產圖示庫」提供的圖示。",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.ColoredPropless]": "彩色（無道具）",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.White]": "白色（無道具）",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.Colored]": "彩色（含道具）"
+}

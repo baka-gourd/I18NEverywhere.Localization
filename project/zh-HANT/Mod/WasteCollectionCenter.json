@@ -1,0 +1,6 @@
+{
+  "Assets.NAME[Waste Collection Center]": "垃圾收集中心",
+  "Assets.DESCRIPTION[Waste Collection Center]": "此垃圾收集中心可將廢棄物分類至專用垃圾桶（綠色廢物、一般廢物、金屬、紙板等）。集中管理垃圾車以確保全市垃圾收集。可新增擴建以增加容量並部署更多車輛。",
+  "Assets.NAME[WasteCollectionCenter_Ext01]": "垃圾收集車庫",
+  "Assets.UPGRADE_NAME[WasteCollectionCenter_Ext01]": "垃圾收集車庫"
+}

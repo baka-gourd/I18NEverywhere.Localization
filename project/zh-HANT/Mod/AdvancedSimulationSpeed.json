@@ -1,0 +1,19 @@
+{
+  "Options.SECTION[AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod]": "進階模擬速度",
+  "Options.TAB[AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.Main]": "主要",
+  "Options.GROUP[AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.Controls]": "控制",
+  "Options.GROUP[AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.other]": "其他",
+  "Options.OPTION[AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.Setting.Type]": "類型",
+  "Options.OPTION_DESCRIPTION[AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.Setting.Type]": "模擬速度的類型（倍增／減半：小於 1 時減半；固定：保持恆定；或僅用於顯示）",
+  "Options.OPTION[AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.Setting.Step]": "步進增量",
+  "Options.OPTION_DESCRIPTION[AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.Setting.Step]": "模擬速度的步進增量（僅在類型為「固定」時使用）",
+  "Options.OPTION[AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.Setting.ActualSpeed]": "平滑速度",
+  "Options.OPTION_DESCRIPTION[AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.Setting.ActualSpeed]": "顯示遊戲的平滑模擬速度",
+  "Options.OPTION[AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.Setting.DecimalPlaces]": "小數位數",
+  "Options.OPTION_DESCRIPTION[AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.Setting.DecimalPlaces]": "設定平滑速度顯示的小數位數",
+  "Options.OPTION[AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.Setting.Reset]": "重設",
+  "Options.OPTION_DESCRIPTION[AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.Setting.Reset]": "重設為預設設定",
+  "Options.AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.TYPE[Doubled]": "倍增／減半",
+  "Options.AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.TYPE[Fixed]": "固定",
+  "Options.AdvancedSimulationSpeed.AdvancedSimulationSpeed.Mod.TYPE[Display]": "僅顯示"
+}

@@ -1,0 +1,12 @@
+{
+  "Assets.NAME[PBC-side-highway-access]": "PBC 側向高速公路匝道",
+  "Assets.NAME[PBC-C-TYPE-5-lane-two-way-highway exit]": "PBC C 型 5 車道雙向高速出口",
+  "Assets.NAME[PBC-B-TYPE-5-lane-two-way-highway exit]": "PBC B 型 5 車道雙向高速出口",
+  "Assets.NAME[PBC-5-striped-two-way-45-degree-3-output-intersection]": "PBC 5 車道標線雙向 45 度三出口交叉口",
+  "Assets.NAME[PBC-5line-two-way-side road transition]": "PBC 5 車道雙向側道路過渡段",
+  "Assets.NAME[PBC-5-lane-two-way-highway exit]": "PBC 5 車道雙向高速出口",
+  "Assets.NAME[PBC-5line-two-way-cloverleaf-intersection]": "PBC 5 車道雙向四葉交流道",
+  "Assets.NAME[PBC-5-lane-two-way-3-way-connection]": "PBC 5 車道雙向三向連接",
+  "Assets.NAME[PBC-4-lane-two-way-intersection]": "PBC 4 車道雙向交叉口",
+  "Assets.NAME[PBC-4-line-two-way-cloverleaf-intersection]": "PBC 4 車道雙向四葉交流道"
+}
