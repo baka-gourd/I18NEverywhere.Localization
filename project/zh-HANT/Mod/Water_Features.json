@@ -90,7 +90,7 @@
   "Assets.NAME[WaterSource DetentionBasin]": "滯洪池",
   "Assets.DESCRIPTION[WaterSource DetentionBasin]": "自訂水源，於降水與融雪時水位上升，在乾燥天氣下緩慢下降。具有最高水位，但沒有最低水位。右鍵設定最高水位，左鍵放置於可遊玩區域，懸停右鍵移除。",
   "Assets.NAME[WaterSource RetentionBasin]": "蓄水池",
-  "Assets.DESCRIPTION[WaterSource RetentionBasin]": "自訂水源，於降水與融雪時水位上升，在乾燥天氣下緩慢排水。具有最高與最低水位。右鍵設定最高水位，左鍵放置於可遊玩區域，懸停右鍵移除。"
+  "Assets.DESCRIPTION[WaterSource RetentionBasin]": "自訂水源，於降水與融雪時水位上升，在乾燥天氣下緩慢排水。具有最高與最低水位。右鍵設定最高水位，左鍵放置於可遊玩區域，懸停右鍵移除。",
   "Assets.NAME[WaterSource Automated]": "自動水源",
   "Assets.DESCRIPTION[WaterSource Automated]": "自動調整水源類型以維持目標水面高度，不受季節性溪流或波浪潮汐影響。右鍵設定最高水位，左鍵放置於可玩區域，懸停右鍵移除。",
   "Tooltip.LABEL[YY.WT.PlaceNearBorder]": "河流必須靠近地圖邊界。",
