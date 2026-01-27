@@ -1,40 +1,55 @@
 ﻿{
-  "Assets.NAME[W7ElevatorPath625]": "人行天橋（含樓梯）",
-
-  "Assets.NAME[W7LargeStreetPedestrianBridge]": "6 車道人行天橋",
-  "Assets.NAME[W7LargeStreetPedestrianBridgeExtended]": "6 車道人行天橋（加長）",
-
-  "Assets.NAME[W7MediumStreetPedestrianBridge]": "4 車道人行天橋",
-  "Assets.NAME[W7MediumStreetPedestrianBridgeWide]": "4 車道人行天橋（加寬）",
-
-  "Assets.NAME[W7XLStreetPedestrianBridge]": "8 車道人行天橋",
-  "Assets.NAME[W7XLStreetPedestrianBridgeWide]": "8 車道人行天橋（加寬）",
-
-  "Assets.NAME[W7PavementStairs625]": "人行天橋樓梯",
-
   "Assets.NAME[W7ArcPath625A]": "弧形人行天橋（含樓梯）",
-  "Assets.NAME[W7CoveredPath625A]": "有蓋人行天橋（含樓梯）",
-  "Assets.NAME[W7PavementPath625A]": "人行天橋（含樓梯）",
-
-  "Assets.NAME[W7PavementStairs625Standalone]": "人行天橋樓梯（獨立）",
-  "Assets.DESCRIPTION[W7PavementStairs625Standalone]": "是否實際生效尚不確定，應需求提供的獨立樓梯資產。",
-
-  "Assets.NAME[W7PavementPathwithLamps]": "人行天橋（含照明）",
-  "Assets.DESCRIPTION[W7PavementPathwithLamps]": "設有照明設備的人行天橋。",
-
+  "Assets.DESCRIPTION[W7ArcPath625A]": "弧形人行天橋（含樓梯）",
   "Assets.NAME[W7CablePath625A]": "纜索式人行天橋（含樓梯）",
   "Assets.DESCRIPTION[W7CablePath625A]": "需於道路中央設置加寬人行道升級後方可使用。",
-
-  "Assets.NAME[W7XLStreetPedestrianBridgeWideMedian]": "8 車道人行天橋（加長・加寬）",
-  "Assets.NAME[W7XLStreetPedestrianBridgeTram]": "8 車道有軌電車人行天橋（加長・加寬）",
-
-  "SubServices.NAME[W7PedestrianBridges]": "人行天橋",
-
-  "Assets.NAME[W7PedBridgeSectionTram03]": "W7 人行天橋－有軌電車段 03",
-
-  "Assets.NAME[W7MediumStreetPedestrianBridgeWideMedian]": "4 車道人行天橋（加長・加寬）",
-  "Assets.NAME[W7MediumStreetPedestrianBridgeTram]": "4 車道有軌電車人行天橋（加長・加寬）",
-
+  "Assets.NAME[W7CoveredPath625A]": "有蓋人行天橋（含樓梯）",
+  "Assets.DESCRIPTION[W7CoveredPath625A]": "有蓋人行天橋（含樓梯）",
+  "Assets.NAME[W7Elevator]": "W7Elevator",
+  "Assets.NAME[W7ElevatorPath625]": "人行天橋（含樓梯）",
+  "Assets.DESCRIPTION[W7ElevatorPath625]": "人行天橋（含樓梯）",
+  "Assets.NAME[W7LargeStreetPedestrianBridge]": "6 車道人行天橋",
+  "Assets.DESCRIPTION[W7LargeStreetPedestrianBridge]": "6 車道人行天橋",
+  "Assets.NAME[W7LargeStreetPedestrianBridgeExtended]": "6 車道人行天橋（加長）",
+  "Assets.DESCRIPTION[W7LargeStreetPedestrianBridgeExtended]": "加長的 6 車道人行天橋",
+  "Assets.NAME[W7LargeStreetPedestrianBridgeTram]": "6 車道有軌電車人行天橋（加長・加寬）",
+  "Assets.DESCRIPTION[W7LargeStreetPedestrianBridgeTram]": "6 車道有軌電車人行天橋（加長・加寬）",
   "Assets.NAME[W7LargeStreetPedestrianBridgeWideMedian]": "6 車道人行天橋（加長・加寬）",
-  "Assets.NAME[W7LargeStreetPedestrianBridgeTram]": "6 車道有軌電車人行天橋（加長・加寬）"
+  "Assets.DESCRIPTION[W7LargeStreetPedestrianBridgeWideMedian]": "6 車道人行天橋（加長・加寬）",
+  "Assets.NAME[W7MediumStreetPedestrianBridge]": "4 車道人行天橋",
+  "Assets.DESCRIPTION[W7MediumStreetPedestrianBridge]": "4 車道人行天橋",
+  "Assets.NAME[W7MediumStreetPedestrianBridgeTram]": "4 車道有軌電車人行天橋（加長・加寬）",
+  "Assets.DESCRIPTION[W7MediumStreetPedestrianBridgeTram]": "4 車道有軌電車人行天橋（加長・加寬）",
+  "Assets.NAME[W7MediumStreetPedestrianBridgeWide]": "4 車道人行天橋（加寬）",
+  "Assets.DESCRIPTION[W7MediumStreetPedestrianBridgeWide]": "4 車道人行天橋（加寬）",
+  "Assets.NAME[W7MediumStreetPedestrianBridgeWideMedian]": "4 車道人行天橋（加長・加寬）",
+  "Assets.DESCRIPTION[W7MediumStreetPedestrianBridgeWideMedian]": "4 車道人行天橋（加長・加寬）",
+  "Assets.NAME[W7PavementPath625A]": "人行天橋（含樓梯）",
+  "Assets.DESCRIPTION[W7PavementPath625A]": "人行天橋（含樓梯）",
+  "Assets.NAME[W7PavementPathwithAmenities]": "人行天橋（附設設施）",
+  "Assets.DESCRIPTION[W7PavementPathwithAmenities]": "設有附加設施的人行天橋，例如座椅或花圃。",
+  "Assets.NAME[W7PavementPathwithLamps]": "人行天橋（含照明）",
+  "Assets.DESCRIPTION[W7PavementPathwithLamps]": "設有照明設備的人行天橋。",
+  "Assets.NAME[W7PavementPathwithTrees]": "人行天橋（含樹木）",
+  "Assets.DESCRIPTION[W7PavementPathwithTrees]": "設有樹木的人行天橋，可提供遮蔭。",
+  "Assets.NAME[W7PavementStairs625Standalone]": "人行天橋樓梯（獨立）",
+  "Assets.DESCRIPTION[W7PavementStairs625Standalone]": "是否實際生效尚不確定，應需求提供的獨立樓梯資產。",
+  "Assets.NAME[W7PedBridges]": "人行天橋群",
+  "Assets.DESCRIPTION[W7PedBridges]": "多座人行天橋的總稱",
+  "Assets.NAME[W7PedBridgeSection02]": "人行天橋段 02",
+  "Assets.NAME[W7PedBridgeSection03]": "人行天橋段 03",
+  "Assets.NAME[W7PedBridgeSectionTram02]": "人行天橋－有軌電車段 02",
+  "Assets.NAME[W7PedBridgeSectionTram03]": "W7 人行天橋－有軌電車段 03",
+  "Assets.NAME[W7PedestrianBridges]": "人行天橋群",
+  "Assets.DESCRIPTION[W7PedestrianBridges]": "多座人行天橋的總稱",
+  "SubServices.NAME[W7PedestrianBridges]": "人行天橋",
+  "Assets.SUB_SERVICE_DESCRIPTION[W7PedestrianBridges]": "人行天橋服務",
+  "Assets.NAME[W7XLStreetPedestrianBridge]": "8 車道人行天橋",
+  "Assets.DESCRIPTION[W7XLStreetPedestrianBridge]": "8 車道人行天橋",
+  "Assets.NAME[W7XLStreetPedestrianBridgeTram]": "8 車道有軌電車人行天橋（加長・加寬）",
+  "Assets.DESCRIPTION[W7XLStreetPedestrianBridgeTram]": "8 車道有軌電車人行天橋（加長・加寬）",
+  "Assets.NAME[W7XLStreetPedestrianBridgeWide]": "8 車道人行天橋（加寬）",
+  "Assets.DESCRIPTION[W7XLStreetPedestrianBridgeWide]": "8 車道人行天橋（加寬）",
+  "Assets.NAME[W7XLStreetPedestrianBridgeWideMedian]": "8 車道人行天橋（加長・加寬）",
+  "Assets.DESCRIPTION[W7XLStreetPedestrianBridgeWideMedian]": "8 車道人行天橋（加長・加寬）"
 }
