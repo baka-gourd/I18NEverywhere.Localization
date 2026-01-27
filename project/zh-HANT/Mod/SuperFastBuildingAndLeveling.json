@@ -1,0 +1,58 @@
+{
+  "Options.SECTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling]": "超高速建造與升級",
+
+  "Options.TAB[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.GeneralSettingsTab]": "一般設定",
+  "Options.TAB[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.LegacySettingsTab]": "舊版設定",
+  "Options.TAB[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.InfoTab]": "資訊",
+
+  "Options.GROUP[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.GeneralSettingsGroup]": "一般設定",
+  "Options.GROUP[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.ResidentialSettingsGroup]": "住宅設定",
+  "Options.GROUP[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.CommercialSettingsGroup]": "商業設定",
+  "Options.GROUP[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.IndustrialSettingsGroup]": "工業設定",
+  "Options.GROUP[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.OfficeSettingsGroup]": "辦公設定",
+
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.EnableSuperFastBuild]": "啟用超高速建造",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.EnableSuperFastBuild]": "所有類型的區劃建築將幾乎立即完成建造。停用後將恢復為正常的遊戲建造速度。",
+
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.EnableSuperFastLeveling]": "啟用快速升級",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.EnableSuperFastLeveling]": "所有建築將以更快的速度升級。停用後將恢復為正常遊戲速度。依城市規模不同，啟用此選項可能造成遊戲卡頓。",
+
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.EnableSuperFastAreaPropSpawning]": "啟用快速區域物件生成",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.EnableSuperFastAreaPropSpawning]": "專業工業區將以更快的速度生成裝飾物件（遊戲支援蔬菜、畜牧、石材、煤炭、礦石與石油工業區的區域物件）。停用後將恢復為正常生成速度。",
+
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.EnableCustomResidentialDemand]": "啟用自訂住宅需求",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.EnableCustomResidentialDemand]": "將住宅區的需求值設定為你選擇的百分比。關閉後將使用遊戲內建計算。",
+
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.HomeBuildingDemand]": "住宅建築需求",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.HomeBuildingDemand]": "調整住宅建築的需求百分比。",
+
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.EnableCustomCommercialDemand]": "啟用自訂商業需求",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.EnableCustomCommercialDemand]": "將商業區的需求值設定為你選擇的百分比。關閉後將使用遊戲內建計算。",
+
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.CommercialBuildingDemand]": "商業建築需求",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.CommercialBuildingDemand]": "調整商業建築的需求百分比。",
+
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.EnableCustomOfficeDemand]": "啟用自訂辦公需求",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.EnableCustomOfficeDemand]": "將辦公區的需求值設定為你選擇的百分比。關閉後將使用遊戲內建計算。",
+
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.OfficeBuildingDemand]": "辦公建築需求",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.OfficeBuildingDemand]": "調整辦公建築的需求百分比。",
+
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.EnableCustomIndustrialDemand]": "啟用自訂工業需求",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.EnableCustomIndustrialDemand]": "將工業區的需求值設定為你選擇的百分比。關閉後將使用遊戲內建計算。",
+
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.IndustrialBuildingDemand]": "工業建築需求",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.IndustrialBuildingDemand]": "調整工業建築的需求百分比。",
+
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Mod]": "模組",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Mod]": "",
+
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Version]": "版本",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Version]": "",
+
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Developer]": "開發者",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Developer]": "",
+
+  "Options.OPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Button]": "全部重設",
+  "Options.OPTION_DESCRIPTION[SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.Setting.Button]": "將所有設定重設為預設值。"
+}

@@ -1,0 +1,33 @@
+{
+  "Options.SECTION[MagicHearse.MagicHearse.Mod]": "魔法靈車 [MH]",
+  "Options.TAB[MagicHearse.MagicHearse.Mod.Actions]": "操作",
+  "Options.TAB[MagicHearse.MagicHearse.Mod.About]": "關於",
+  "Options.GROUP[MagicHearse.MagicHearse.Mod.AutoClean]": "自動清理",
+  "Options.GROUP[MagicHearse.MagicHearse.Mod.SelfManage]": "自行管理",
+  "Options.GROUP[MagicHearse.MagicHearse.Mod.AboutInfo]": "模組資訊",
+  "Options.GROUP[MagicHearse.MagicHearse.Mod.AboutLinks]": "相關連結",
+
+  "Options.OPTION[MagicHearse.MagicHearse.Mod.Setting.EnableMagicHearse]": "啟用魔法靈車",
+  "Options.OPTION_DESCRIPTION[MagicHearse.MagicHearse.Mod.Setting.EnableMagicHearse]": "自動移除正在等待靈車的死亡市民。\n若想在不移除模組的情況下停用，請取消勾選所有相關選項。",
+
+  "Options.OPTION[MagicHearse.MagicHearse.Mod.Setting.FuneralDirector]": "殯葬管理員",
+  "Options.OPTION_DESCRIPTION[MagicHearse.MagicHearse.Mod.Setting.FuneralDirector]": "調整殯葬設施的數值（處理速率、車隊數量、儲存容量）。",
+
+  "Options.OPTION[MagicHearse.MagicHearse.Mod.Setting.ProcScalar]": "處理速率",
+  "Options.OPTION_DESCRIPTION[MagicHearse.MagicHearse.Mod.Setting.ProcScalar]": "設施的**處理速度**倍率。",
+
+  "Options.OPTION[MagicHearse.MagicHearse.Mod.Setting.FleetScalar]": "車隊規模",
+  "Options.OPTION_DESCRIPTION[MagicHearse.MagicHearse.Mod.Setting.FleetScalar]": "每個設施的**最大靈車數量**倍率。",
+
+  "Options.OPTION[MagicHearse.MagicHearse.Mod.Setting.StorageScalar]": "墓園儲存容量",
+  "Options.OPTION_DESCRIPTION[MagicHearse.MagicHearse.Mod.Setting.StorageScalar]": "提高主建築的**墓園最大儲存容量**。",
+
+  "Options.OPTION[MagicHearse.MagicHearse.Mod.Setting.ResetGameDefaults]": "重設滑桿",
+  "Options.OPTION_DESCRIPTION[MagicHearse.MagicHearse.Mod.Setting.ResetGameDefaults]": "將所有滑桿重設為 **100%**（原版預設值）。",
+
+  "Options.OPTION[MagicHearse.MagicHearse.Mod.Setting.AboutName]": "模組名稱",
+  "Options.OPTION[MagicHearse.MagicHearse.Mod.Setting.AboutVersion]": "模組版本",
+
+  "Options.OPTION[MagicHearse.MagicHearse.Mod.Setting.OpenParadoxMods]": "Paradox Mods",
+  "Options.OPTION_DESCRIPTION[MagicHearse.MagicHearse.Mod.Setting.OpenParadoxMods]": "開啟作者的 Paradox Mods 模組頁面。"
+}
