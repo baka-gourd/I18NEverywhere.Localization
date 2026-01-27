@@ -1,0 +1,17 @@
+{
+  "Toolbar.BRUSH": "畫筆",
+  "Toolbar.BRUSH_ROTATION": "畫筆旋轉",
+  "Assets.DESCRIPTION[Ore Resource Tool]": "礦物資源工具",
+  "Assets.DESCRIPTION[Oil Resource Tool]": "石油資源工具",
+  "Assets.DESCRIPTION[FertileLand Resource Tool]": "沃地資源工具",
+  "Assets.DESCRIPTION[GroundWater Resource Tool]": "地下水資源工具",
+  "Options.SECTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT]": "額外景觀工具",
+  "Options.OPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedFertilityResource]": "補充枯竭的沃地資源",
+  "Options.OPTION_DESCRIPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedFertilityResource]": "補充整張地圖上枯竭的沃地資源。",
+  "Options.OPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedOreResource]": "補充枯竭的礦物資源",
+  "Options.OPTION_DESCRIPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedOreResource]": "補充整張地圖上枯竭的礦物資源。",
+  "Options.OPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedOilResource]": "補充枯竭的石油資源",
+  "Options.OPTION_DESCRIPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedOilResource]": "補充整張地圖上枯竭的石油資源。",
+  "Options.OPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedFishResource]": "補充枯竭的漁業資源",
+  "Options.OPTION_DESCRIPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedFishResource]": "補充整張地圖上枯竭的漁業資源。"
+}
