@@ -10,8 +10,7 @@
     "sync:dev": "ts-node src/tools/sync.ts",
     "gen": "node dist/tools/changelog-gen.js",
     "check": "node dist/tools/check-mod-update.js",
-    "contributors": "node dist/tools/get-language-authors.js",
-    "validate": "node dist/tools/validate-json.js"
+    "contributors": "node dist/tools/get-language-authors.js"
   },
   "keywords": [],
   "author": "",
@@ -24,8 +23,8 @@
     "unzipper": "^0.12.3"
   },
   "devDependencies": {
+    "@j178/prek": "^0.3.0",
     "@types/node": "^20.19.30",
-    "husky": "^9.1.7",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   }
