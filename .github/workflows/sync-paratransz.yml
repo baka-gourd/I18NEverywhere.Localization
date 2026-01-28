@@ -31,7 +31,13 @@ jobs:
               run: pnpm build
 
             - name: Sync Paratransz
-              run: pnpm sync "Bearer ${{ secrets.PARATRANSZ }}" 
+              run: pnpm sync "Bearer ${{ secrets.PARATRANSZ }}"
+
+            - name: Prek auto-fix
+              run: pnpm prek run -a || true
+
+            - name: Prek validate
+              run: pnpm prek run -a
 
             - name: Commit zh-HANS
               uses: EndBug/add-and-commit@v9
