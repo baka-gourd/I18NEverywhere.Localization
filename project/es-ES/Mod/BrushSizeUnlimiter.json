@@ -1,4 +1,4 @@
-﻿{
+{
   "Options.SECTION[BrushSizeUnlimiter.BrushSizeUnlimiter.Mod]": "Brush Size Unlimiter",
   "Options.OPTION[BrushSizeUnlimiter.BrushSizeUnlimiter.Mod.MyOptions.MaxBrushSize]": "Tamaño máximo del pincel",
   "Options.OPTION_DESCRIPTION[BrushSizeUnlimiter.BrushSizeUnlimiter.Mod.MyOptions.MaxBrushSize]": "Establece el tamaño máximo que puede tener el pincel, tanto en el juego como en el editor.\r\n**Atención:** Cuanto más grande el tamaño del pincel, más se degrada la performance.",

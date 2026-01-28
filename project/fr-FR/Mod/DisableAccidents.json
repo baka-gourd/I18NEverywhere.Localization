@@ -1,4 +1,4 @@
-﻿{
+{
   "Options.SECTION[DisableAccidents.DisableAccidents.Mod]": "Désactiver les accidents",
   "Options.OPTION[DisableAccidents.DisableAccidents.Mod.Setting.ModEnabled]": "Activer la prévention des accidents",
   "Options.OPTION_DESCRIPTION[DisableAccidents.DisableAccidents.Mod.Setting.ModEnabled]": "Lorsque qu'activé, tous les accidents sont évités."

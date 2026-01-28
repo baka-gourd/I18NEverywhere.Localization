@@ -1,4 +1,4 @@
-﻿{
+{
   "Options.SECTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod]": "Transit Capacity Multiplier",
   "Options.TAB[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.CapacitySection]": "Général",
   "Options.GROUP[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.CapacityGroup]": "Capacité des véhicules de transport en commun",
