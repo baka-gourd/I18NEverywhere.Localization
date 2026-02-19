@@ -23,7 +23,7 @@
     "unzipper": "^0.12.3"
   },
   "devDependencies": {
-    "@j178/prek": "^0.3.2",
+    "@j178/prek": "^0.3.3",
     "@types/node": "^20.19.33",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
