@@ -1,0 +1,6 @@
+[[repos]]
+repo = "builtin"
+hooks = [
+  { id = "fix-byte-order-marker", files = "\\.json$" },
+  { id = "check-json", files = "\\.json$" },
+]
