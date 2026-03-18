@@ -1,6 +1,5 @@
 {
   "AREA_BUCKT_TOOL.Active": "Remplissage de surface",
-  "AREA_BUCKT_TOOL.DESC.Active": "Activer/désactiver l’outil de remplissage de surface",
   "AREA_BUCKT_TOOL.DetectCrossing": "Détecter le dépassement des limites",
   "AREA_BUCKT_TOOL.DESC.DetectCrossing": "Détecter le dépassement des limites et corrige certains problèmes de trous dans le remplissage (impacte les performances).",
   "AREA_BUCKT_TOOL.BoundaryMask": "Limites utilisées",

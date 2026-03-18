@@ -84,8 +84,6 @@
   "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.settings_choice]": "Modifie tous les paramètres du mod. Performance : met à jour les paramètres pour améliorer les performances, comme dans le jeu Vanilla. Balancement : la plupart des fonctionnalités de ce mod sont activées, mais certaines d'entre elles qui ont un impact important sur les performances sont désactivées. Paramètres par pays : des données réelles ont été collectées pour quelques pays, la sélection de l'un d'entre eux rendra le jeu plus réaliste mais peut avoir un impact sur les performances.",
   "Options.OPTION[Time2Work.Time2Work.Mod.Setting.peak_spread]": "Heure de pointe étalée",
   "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.peak_spread]": "Si cette option est activée, les employés qui ont une longue distance à parcourir pour aller au travail partiront plus tôt de chez eux pour éviter le trafic.",
-  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.night_trucks]": "Camionnage plus réaliste",
-  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.night_trucks]": "Réduit la quantité de trafic de camions en journée, et l’augmente la nuit et au petit matin.",
   "Options.Time2Work.Time2Work.Mod.SETTINGSENUM[Performance]": "Performance",
   "Options.Time2Work.Time2Work.Mod.SETTINGSENUM[Balanced]": "Équilibré",
   "Options.OPTION[Time2Work.Time2Work.Mod.Setting.DTText]": "Changer les paramètres ci-dessous requérera un redémarrage du jeu.",
