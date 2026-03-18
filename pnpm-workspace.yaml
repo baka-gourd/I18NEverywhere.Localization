@@ -1,2 +1,2 @@
-onlyBuiltDependencies:
-  - '@j178/prek'
+allowBuilds:
+  '@j178/prek': true

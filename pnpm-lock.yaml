@@ -25,14 +25,14 @@ importers:
         version: 0.12.3
     devDependencies:
       '@j178/prek':
-        specifier: ^0.3.3
-        version: 0.3.3
+        specifier: ^0.3.6
+        version: 0.3.6
       '@types/node':
-        specifier: ^20.19.33
-        version: 20.19.33
+        specifier: ^20.19.37
+        version: 20.19.37
       ts-node:
         specifier: ^10.9.2
-        version: 10.9.2(@types/node@20.19.33)(typescript@5.9.3)
+        version: 10.9.2(@types/node@20.19.37)(typescript@5.9.3)
       typescript:
         specifier: ^5.9.3
         version: 5.9.3
@@ -43,8 +43,8 @@ packages:
     resolution: {integrity: sha512-IchNf6dN4tHoMFIn/7OE8LWZ19Y6q/67Bmf6vnGREv8RSbBVb9LPJxEcnwrcwX6ixSvaiGoomAUvu4YSxXrVgw==}
     engines: {node: '>=12'}
 
-  '@j178/prek@0.3.3':
-    resolution: {integrity: sha512-HEvtTx550b6WkbIUySlCP/CpTEqjdKWBr8LWHUNse8H60iNf+ICDRCIM8cxcqqPqDJLC+HenTR8s54VrHwJ0jQ==}
+  '@j178/prek@0.3.6':
+    resolution: {integrity: sha512-+INLkoAR2axZ8MXbHMxcGOv6RIgyGGErAFMpsTcHoNtocEIjGAdTVhAz+JpHC3I6yBmIDYG4ztzuOV1Q2mYvFQ==}
     engines: {node: '>=14', npm: '>=6'}
     hasBin: true
 
@@ -70,8 +70,8 @@ packages:
   '@tsconfig/node16@1.0.4':
     resolution: {integrity: sha512-vxhUy4J8lyeyinH7Azl1pdd43GJhZH/tP2weN8TntQblOY+A0XbT8DJk1/oCPuOOyg/Ja757rG0CgHcWC8OfMA==}
 
-  '@types/node@20.19.33':
-    resolution: {integrity: sha512-Rs1bVAIdBs5gbTIKza/tgpMuG1k3U/UMJLWecIMxNdJFDMzcM5LOiLVRYh3PilWEYDIeUDv7bpiHPLPsbydGcw==}
+  '@types/node@20.19.37':
+    resolution: {integrity: sha512-8kzdPJ3FsNsVIurqBs7oodNnCEVbni9yUEkaHbgptDACOPW04jimGagZ51E6+lXUwJjgnBw+hyko/lkFWCldqw==}
 
   '@types/unzipper@0.10.11':
     resolution: {integrity: sha512-D25im2zjyMCcgL9ag6N46+wbtJBnXIr7SI4zHf9eJD2Dw2tEB5e+p5MYkrxKIVRscs5QV0EhtU9rgXSPx90oJg==}
@@ -377,7 +377,7 @@ snapshots:
     dependencies:
       '@jridgewell/trace-mapping': 0.3.9
 
-  '@j178/prek@0.3.3':
+  '@j178/prek@0.3.6':
     dependencies:
       axios: 1.13.5
       axios-proxy-builder: 0.1.2
@@ -404,13 +404,13 @@ snapshots:
 
   '@tsconfig/node16@1.0.4': {}
 
-  '@types/node@20.19.33':
+  '@types/node@20.19.37':
     dependencies:
       undici-types: 6.21.0
 
   '@types/unzipper@0.10.11':
     dependencies:
-      '@types/node': 20.19.33
+      '@types/node': 20.19.37
 
   acorn-walk@8.3.4:
     dependencies:
@@ -646,14 +646,14 @@ snapshots:
     dependencies:
       safe-buffer: 5.1.2
 
-  ts-node@10.9.2(@types/node@20.19.33)(typescript@5.9.3):
+  ts-node@10.9.2(@types/node@20.19.37)(typescript@5.9.3):
     dependencies:
       '@cspotcode/source-map-support': 0.8.1
       '@tsconfig/node10': 1.0.12
       '@tsconfig/node12': 1.0.11
       '@tsconfig/node14': 1.0.3
       '@tsconfig/node16': 1.0.4
-      '@types/node': 20.19.33
+      '@types/node': 20.19.37
       acorn: 8.15.0
       acorn-walk: 8.3.4
       arg: 4.1.3
