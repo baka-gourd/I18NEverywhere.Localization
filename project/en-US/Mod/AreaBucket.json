@@ -1,6 +1,10 @@
 {
   "AREA_BUCKT_TOOL.Active": "Area Bucket",
-  "AREA_BUCKT_TOOL.DESC.Active": "Enable/Disable Area Bucket Tool",
+  "AREA_BUCKT_TOOL.DESC.Active": "Switch Area Bucket Tools",
+  "AREA_BUCKT_TOOL.ActiveAreaBucket": "Area Bucket",
+  "AREA_BUCKT_TOOL.DESC.ActiveAreaBucket": "Enable/Disable Area Bucket Tool",
+  "AREA_BUCKT_TOOL.ActiveAreaReplacement": "Area Replacement",
+  "AREA_BUCKT_TOOL.DESC.ActiveAreaReplacement": "Enable/Disable Area Replacement Tool",
   "AREA_BUCKT_TOOL.DetectCrossing": "Detect Boundaries Crossing",
   "AREA_BUCKT_TOOL.DESC.DetectCrossing": "Detect boundaries crossing and fix some filling gaps (performance issue)",
   "AREA_BUCKT_TOOL.FloodingDepth": "Flooding Depth",
@@ -23,5 +27,7 @@
   "Options.OPTION[AreaBucket.AreaBucket.Mod.Setting.PreviewSurface]": "Preview Surface",
   "Options.OPTION_DESCRIPTION[AreaBucket.AreaBucket.Mod.Setting.PreviewSurface]": "Preview surface texture when using buckect tool",
   "Options.OPTION[AreaBucket.AreaBucket.Mod.Setting.UseExperientalOption]": "Experimental Options",
-  "Options.OPTION_DESCRIPTION[AreaBucket.AreaBucket.Mod.Setting.UseExperientalOption]": "Use Experimental Options (May have performance or other issue)"
+  "Options.OPTION_DESCRIPTION[AreaBucket.AreaBucket.Mod.Setting.UseExperientalOption]": "Use Experimental Options (May have performance or other issue)",
+  "Options.OPTION_DESCRIPTION[AreaBucket.AreaBucket.Mod.Setting.Version]": "Version",
+  "Options.OPTION[AreaBucket.AreaBucket.Mod.Setting.Version]": "Version"
 }

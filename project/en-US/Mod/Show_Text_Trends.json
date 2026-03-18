@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[Show Text Trends.Show_Text_Trends.Mod]": "Show Text Trends",
+  "Options.TAB[Show Text Trends.Show_Text_Trends.Mod.Main]": "Main",
+  "Options.GROUP[Show Text Trends.Show_Text_Trends.Mod.Money Display]": "Money Display",
+  "Options.OPTION[Show Text Trends.Show_Text_Trends.Mod.Setting.MoneyDisplayMode]": "Money Display Mode",
+  "Options.OPTION_DESCRIPTION[Show Text Trends.Show_Text_Trends.Mod.Setting.MoneyDisplayMode]": "Choose whether to display money changes per hour or per month",
+  "Options.Show Text Trends.Show_Text_Trends.Mod.EMONEYDISPLAYMODE[Hourly]": "Hourly (/h)",
+  "Options.Show Text Trends.Show_Text_Trends.Mod.EMONEYDISPLAYMODE[Monthly]": "Monthly (/m)"
+}
