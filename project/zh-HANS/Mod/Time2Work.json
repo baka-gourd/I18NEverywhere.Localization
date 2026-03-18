@@ -84,8 +84,6 @@
   "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.settings_choice]": "使用模组预设覆盖设置。性能：与原版游戏相近以获得最佳性能；平衡：启用大部分功能，禁用少部分严重影响性能的选项；基于国家的设置：基于国家的真实数据，选择其中之一会使游戏更加逼真，但可能会影响性能。",
   "Options.OPTION[Time2Work.Time2Work.Mod.Setting.peak_spread]": "高峰分散",
   "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.peak_spread]": "启用该选项后，通勤时间较长的人会提早出门，避免堵车。",
-  "Options.OPTION[Time2Work.Time2Work.Mod.Setting.night_trucks]": "更真实的卡车交通",
-  "Options.OPTION_DESCRIPTION[Time2Work.Time2Work.Mod.Setting.night_trucks]": "在白天减少卡车流量，在夜晚和凌晨增加卡车流量。",
   "Options.Time2Work.Time2Work.Mod.SETTINGSENUM[Performance]": "性能",
   "Options.Time2Work.Time2Work.Mod.SETTINGSENUM[Balanced]": "平衡",
   "Options.OPTION[Time2Work.Time2Work.Mod.Setting.DTText]": "重启游戏后更改的参数才会生效",

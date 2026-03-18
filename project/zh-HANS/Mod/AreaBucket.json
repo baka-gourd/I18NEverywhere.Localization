@@ -1,6 +1,5 @@
 {
   "AREA_BUCKT_TOOL.Active": "地皮油漆桶",
-  "AREA_BUCKT_TOOL.DESC.Active": "启用/禁用 地皮油漆桶工具",
   "AREA_BUCKT_TOOL.DetectCrossing": "检测边界重叠",
   "AREA_BUCKT_TOOL.DESC.DetectCrossing": "检测边界重叠并修复一些填充间隙问题（可能导致性能问题）",
   "AREA_BUCKT_TOOL.BoundaryMask": "使用边界",
