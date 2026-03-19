@@ -1,1 +1,6 @@
-﻿{}
+{
+  "Options.SECTION[CustomChirps.CustomChirps.Mod]": "自定义微谈",
+  "Options.TAB[CustomChirps.CustomChirps.Mod.SettingsSection]": "设置",
+  "Options.OPTION[CustomChirps.CustomChirps.Mod.Setting.disable_vanilla_chirps]": "关闭原版微谈",
+  "Options.OPTION_DESCRIPTION[CustomChirps.CustomChirps.Mod.Setting.disable_vanilla_chirps]": "关闭原版的微谈消息，只有模组的微谈消息会被显示"
+}
