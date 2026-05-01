@@ -1,1 +1,12 @@
-﻿{}
+{
+  "Options.SECTION[BetterTransitView.BetterTransitView.Mod]": "更好的公共交通视图",
+  "Options.TAB[BetterTransitView.BetterTransitView.Mod.Main]": "综合",
+  "Options.GROUP[BetterTransitView.BetterTransitView.Mod.KeyBinding]": "控制",
+  "Options.OPTION[BetterTransitView.BetterTransitView.Mod.ModSettings.ToggleToolBinding]": "切换更好的公共交通视图",
+  "Options.OPTION_DESCRIPTION[BetterTransitView.BetterTransitView.Mod.ModSettings.ToggleToolBinding]": "按此键切换更好的公共交通视图",
+  "Options.OPTION[BetterTransitView.BetterTransitView.Mod/BetterTransitView_Toggle/binding]": "切换",
+  "Options.INPUT_MAP[BetterTransitView.BetterTransitView.Mod]": "更好的公共交通视图",
+  "Infoviews.NAME[BetterTransitViewCustomView]": "更好的公共交通视图",
+  "Infoviews.DESC[BetterTransitViewCustomView]": "自定义公共交通概览",
+  "Infoviews.INFOMODE[BetterTransitViewStations]": "显示站点"
+}
