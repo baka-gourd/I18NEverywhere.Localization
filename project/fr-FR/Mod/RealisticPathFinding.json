@@ -20,7 +20,6 @@
   "Options.OPTION_DESCRIPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.transfer_penalty]": "Multiplicateur appliqué au temps d'attente à chaque transfert (par exemple, 1,5 = +50 % d'attente perçue lors des transferts).",
   "Options.OPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.scheduled_wt_factor]": "Facteur d'attente en mode planifié",
   "Options.OPTION_DESCRIPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.scheduled_wt_factor]": "Multiplicateur pour les modes réguliers (train/bateau/avion). Exemple : 0,5 réduit de moitié le temps d'attente perçu pour ces modes.",
-  "Options.OPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.crowdness_factor]": "Facteur d’affluence (attente supplémentaire maximum)",
   "Options.OPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.crowdness_stop_threashold]": "Seuil d’affluence (ratio de chargement)",
   "Options.OPTION_DESCRIPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.bus_mode_weight]": "Multiplicateur appliqué au temps passé dans le bus (1,0 = aucun changement).",
   "Options.OPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.tram_mode_weight]": "Poids du temps passé dans le tramway",
