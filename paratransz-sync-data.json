@@ -31,7 +31,7 @@
       "Mod/Population_Rebalance.json": "a896a8ae88bc288223c3b801b1be1b5f",
       "Mod/PrefabUpdateMod.json": "92b0d8eeb85b0686d12c437fbc6717f9",
       "Mod/RealisticParking.json": "c5a2b2b8ea5e0f110224209c2d9ce52b",
-      "Mod/RealisticWorkplacesAndHouseholds.json": "22ee9a54d82ac2bbe25098dabc2bc868",
+      "Mod/RealisticWorkplacesAndHouseholds.json": "bc82f2c564bd5fe6de03a96ffa537ace",
       "Mod/RealLife.json": "ba197a2be607c691eb85704871082d35",
       "Mod/RoadWearAdjuster.json": "4a5f02fd8dc2c9b938b7ac478f31e188",
       "Mod/SchoolCapacityBalancer.json": "09f665b64e78af368157ecc7410f68b3",
@@ -47,11 +47,12 @@
       "Vanilla/Vanilla.json": "45fa7c9941b9f0463795f31f2991d95c",
       "Mod/BetterMoonLight.json": "99914b932bd37a50b983c5e7c90ae93b",
       "Mod/ParkingMonitor.json": "99914b932bd37a50b983c5e7c90ae93b",
-      "Mod/RealisticPathFinding.json": "99914b932bd37a50b983c5e7c90ae93b",
+      "Mod/RealisticPathFinding.json": "203079c378de9d2471f137ed9ad6a673",
       "Mod/EvenBetterSaveList.json": "99914b932bd37a50b983c5e7c90ae93b",
       "Mod/CustomChirps.json": "91618e988a079eaa8512e2579d4ee9a2",
       "Mod/Show_Text_Trends.json": "4041dbb873d300e6ba8bc573e0ab7108",
-      "Mod/NodeController.json": "99914b932bd37a50b983c5e7c90ae93b"
+      "Mod/NodeController.json": "99914b932bd37a50b983c5e7c90ae93b",
+      "Mod/BetterTransitView.json": "a51b0ee504baa78ec20349eab24790f2"
     },
     "9797": {
       "Mod/AllAboard.json": "a1744451a24870261d9550c7a8fda349",
@@ -83,7 +84,7 @@
       "Mod/Population_Rebalance.json": "02d76d71a91794c285bd399db08dc2ed",
       "Mod/PrefabUpdateMod.json": "234256cb5516864f8d5975e1bdeaf2b9",
       "Mod/RealisticParking.json": "3d00c1d628de443efb02969421895dc7",
-      "Mod/RealisticPathFinding.json": "ab31dda631be922b332d39d07431882f",
+      "Mod/RealisticPathFinding.json": "7d328765ab020205ae7d1d4aa1946bdb",
       "Mod/RealisticWorkplacesAndHouseholds.json": "69858c30252ac90e4ea7a0aba5fbaa4b",
       "Mod/RealLife.json": "6f34cb977d154e17d6dd50879aaf844e",
       "Mod/RoadWearAdjuster.json": "379343bcbeba1980edb26276db8d8cf8",
@@ -100,7 +101,8 @@
       "Vanilla/Vanilla.json": "99914b932bd37a50b983c5e7c90ae93b",
       "Mod/CustomChirps.json": "99914b932bd37a50b983c5e7c90ae93b",
       "Mod/Show_Text_Trends.json": "99914b932bd37a50b983c5e7c90ae93b",
-      "Mod/NodeController.json": "99914b932bd37a50b983c5e7c90ae93b"
+      "Mod/NodeController.json": "99914b932bd37a50b983c5e7c90ae93b",
+      "Mod/BetterTransitView.json": "057671d91413133a13a89fd6525c9bc3"
     }
   }
 }
