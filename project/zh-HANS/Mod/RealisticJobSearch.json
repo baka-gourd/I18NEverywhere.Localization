@@ -1,0 +1,18 @@
+{
+  "Options.SECTION[RealisticJobSearch.RealisticJobSearch.Mod]": "真实求职",
+  "Options.TAB[RealisticJobSearch.RealisticJobSearch.Mod.SettingsSection]": "设置",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.debug]": "输出调试文件",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.debug]": "将通勤统计数据导出为CSV，保存到ModsData文件夹。",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_free_jobs]": "权重：现有空位",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_free_jobs]": "优先选择有空缺岗位的建筑，数值越高越偏向空位多的地方。",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_total_jobs]": "权重：建筑规模",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_total_jobs]": "优先选择岗位总数多的大型建筑，数值越高越偏向大企业。",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.alpha_jobs]": "岗位吸引力加成",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.alpha_jobs]": "岗位空缺对求职吸引力的影响强度，数值越高大型建筑吸引力越强。",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.beta_minute]": "通勤敏感度",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.beta_minute]": "距离越长吸引力下降越快，数值越高越排斥远距离通勤。",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.min_accept]": "最低接受概率",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.min_accept]": "求职的最低接受概率，避免稀有岗位被完全排除。",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.max_accept]": "最高接受概率",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.max_accept]": "完美岗位的最高接受概率，保留一定随机多样性。"
+}
