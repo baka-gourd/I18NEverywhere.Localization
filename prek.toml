@@ -2,5 +2,6 @@
 repo = "builtin"
 hooks = [
   { id = "fix-byte-order-marker", files = "\\.json$" },
+  { id = "pretty-format-json", files = "^project/.*\\.json$", args = ["--autofix", "--no-ensure-ascii"] },
   { id = "check-json", files = "\\.json$" },
 ]

@@ -1,5 +1,5 @@
 {
-  "Options.SECTION[MagicalHearse.MagicalHearse.Mod]": "Magical Hearse",
   "Options.OPTION[MagicalHearse.MagicalHearse.Mod.Setting.EnableMagicalHearse]": "Activar Cóche Fúnebre Mágico",
-  "Options.OPTION_DESCRIPTION[MagicalHearse.MagicalHearse.Mod.Setting.EnableMagicalHearse]": "Al estar activado, los ciudadanos muertos desaparecerán automaticamente."
+  "Options.OPTION_DESCRIPTION[MagicalHearse.MagicalHearse.Mod.Setting.EnableMagicalHearse]": "Al estar activado, los ciudadanos muertos desaparecerán automaticamente.",
+  "Options.SECTION[MagicalHearse.MagicalHearse.Mod]": "Magical Hearse"
 }
