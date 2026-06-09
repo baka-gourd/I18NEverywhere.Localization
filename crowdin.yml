@@ -1,0 +1,3 @@
+files:
+  - source: /project/en-US/Mod/**/*.json
+    translation: /project/%locale%/Mod/**/%original_file_name%
