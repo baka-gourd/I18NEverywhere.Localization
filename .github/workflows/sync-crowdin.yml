@@ -16,39 +16,47 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        language:
-          - ja-JP
-          - zh-HANS
-          - zh-HANT
-          - ko-KR
-          - fr-FR
-          - ru-RU
-          - es-ES
+        include:
+          - crowdin: ja
+            repo: ja-JP
+          - crowdin: zh-CN
+            repo: zh-HANS
+          - crowdin: zh-TW
+            repo: zh-HANT
+          - crowdin: ko
+            repo: ko-KR
+          - crowdin: fr
+            repo: fr-FR
+          - crowdin: ru
+            repo: ru-RU
+          - crowdin: es-ES
+            repo: es-ES
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download Crowdin translations for ${{ matrix.language }}
+      - name: Download Crowdin translations for ${{ matrix.repo }}
         uses: crowdin/github-action@v2
         with:
           upload_sources: false
           upload_translations: false
 
           download_translations: true
-          download_language: ${{ matrix.language }}
+          download_language: ${{ matrix.crowdin }}
 
-          skip_untranslated_files: true
-          export_only_approved: true
+          skip_untranslated_strings: true
+          #   skip_untranslated_files: true
+          export_only_approved: false
 
-          localization_branch_name: thirdparty/crowdin-${{ matrix.language }}
+          localization_branch_name: thirdparty/crowdin-${{ matrix.repo }}
           create_pull_request: true
-          pull_request_title: "translate(${{ matrix.language }}): sync ${{ matrix.language }} translations"
+          pull_request_title: "translate(${{ matrix.repo }}): sync ${{ matrix.repo }} translations"
           pull_request_body: |
             Automated Crowdin translation update.
 
-            Language: ${{ matrix.language }}
+            Language: ${{ matrix.repo }}
           pull_request_base_branch_name: main
-          commit_message: "translate(${{ matrix.language }}): sync ${{ matrix.language }} translations"
+          commit_message: "translate(${{ matrix.repo }}): sync ${{ matrix.repo }} translations"
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
