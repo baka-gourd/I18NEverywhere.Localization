@@ -1,6 +1,5 @@
 {
   "Options.GROUP[NoPollution.NoPollution.Mod.Air Pollution]": "대기 오염",
-  "Options.GROUP[NoPollution.NoPollution.Mod.Building Pollution]": "건물 오염",
   "Options.GROUP[NoPollution.NoPollution.Mod.Fades]": "감소 변수",
   "Options.GROUP[NoPollution.NoPollution.Mod.Ground Pollution]": "토양 오염",
   "Options.GROUP[NoPollution.NoPollution.Mod.Groundwater Pollution]": "하수관 오염",
@@ -23,7 +22,6 @@
   "Options.OPTION[NoPollution.NoPollution.Mod.Setting.AirPollutionSlider]": "대기 오염 슬라이더",
   "Options.OPTION[NoPollution.NoPollution.Mod.Setting.AirPollutionToggle]": "대기 오염 금지",
   "Options.OPTION[NoPollution.NoPollution.Mod.Setting.AirRadius]": "대기 오염 반경",
-  "Options.OPTION[NoPollution.NoPollution.Mod.Setting.BuildingPollutionToggle]": "건물 오염 시스템",
   "Options.OPTION[NoPollution.NoPollution.Mod.Setting.DistanceExponent]": "거리 지수",
   "Options.OPTION[NoPollution.NoPollution.Mod.Setting.FertilityGroundMultiplier]": "비옥도 변수",
   "Options.OPTION[NoPollution.NoPollution.Mod.Setting.GroundFade]": "토양 오염 감소",
@@ -66,7 +64,6 @@
   "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.Setting.AirPollutionSlider]": "대기 오염 원인지에서 얼마나 많은 오염을 발생시킬지 제어합니다.",
   "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.Setting.AirPollutionToggle]": "활성화시 공해/오염이 발생하지 않으며 비활성화시 슬라이더 기준으로 오염이 발생됩니다.",
   "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.Setting.AirRadius]": "대기 오염 반경을 설정합니다. 기본값은 100이며 0은 오염이 없습니다",
-  "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.Setting.BuildingPollutionToggle]": "건물 오염 시스템 활/비활성화(체크 해제 시 소음, 대기 및 토양 오염과 관련된 건물 오염이 맵에서 생성되지 않습니다)",
   "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.Setting.DistanceExponent]": "대기 오염의 거리지수(발원지에서 소음 공해 구름이 떨어지는 거리)입니다. 기본값은 1.5입니다",
   "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.Setting.FertilityGroundMultiplier]": "비옥도 변수를 설정합니다. 기본값은 1이며 0은 없습니다",
   "Options.OPTION_DESCRIPTION[NoPollution.NoPollution.Mod.Setting.GroundFade]": "토양 오염 감소를 설정합니다. 기본값은 4000 (100%)이며 0은 감소가 없고 8000 (200%)은 감소값을 증가시킵니다",
