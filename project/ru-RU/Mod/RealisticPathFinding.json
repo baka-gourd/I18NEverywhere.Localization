@@ -9,7 +9,6 @@
   "Options.GROUP[RealisticPathFinding.RealisticPathFinding.Mod.RoadBias]": "Предпочтение дорог",
   "Options.GROUP[RealisticPathFinding.RealisticPathFinding.Mod.Taxi]": "Такси",
   "Options.GROUP[RealisticPathFinding.RealisticPathFinding.Mod.TurnPenalty]": "Штраф за поворот",
-  "Options.GROUP[RealisticPathFinding.RealisticPathFinding.Mod.WaitingTine]": "Время ожидания",
   "Options.OPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.Button]": "Сброс настроек",
   "Options.OPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.alleyway_bias]": "Предпочтение переулков/очень локальных дорог",
   "Options.OPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.average_walk_speed_adult]": "Скорость ходьбы взрослых (миль/ч)",
