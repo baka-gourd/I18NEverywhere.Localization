@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "0 2 * * *"
 
+concurrency:
+  group: crowdin-sync-translations
+  cancel-in-progress: false
+
 permissions:
   contents: write
   pull-requests: write
@@ -15,6 +19,7 @@ jobs:
 
     strategy:
       fail-fast: false
+      max-parallel: 1
       matrix:
         include:
           - crowdin: ja
@@ -35,14 +40,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download Crowdin translations for ${{ matrix.repo }}
+      - name: Sync Crowdin translations for ${{ matrix.repo }}
         uses: crowdin/github-action@v2
         with:
+          crowdin_branch_name: main
           upload_sources: false
           upload_translations: false
 
           download_translations: true
           download_language: ${{ matrix.crowdin }}
+          download_translations_args: "--all"
 
           skip_untranslated_strings: true
           #   skip_untranslated_files: true
@@ -56,6 +63,7 @@ jobs:
 
             Language: ${{ matrix.repo }}
           pull_request_base_branch_name: main
+          pull_request_labels: "crowdin"
           commit_message: "translate(${{ matrix.repo }}): sync ${{ matrix.repo }} translations"
 
         env:

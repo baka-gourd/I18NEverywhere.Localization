@@ -1,3 +1,18 @@
+base_path: "."
+preserve_hierarchy: true
+
 files:
   - source: /project/en-US/Mod/**/*.json
     translation: /project/%locale%/Mod/**/%original_file_name%
+
+    skip_untranslated_strings: true
+
+    languages_mapping:
+      locale:
+        ja: ja-JP
+        ko: ko-KR
+        fr: fr-FR
+        ru: ru-RU
+        zh-CN: zh-HANS
+        zh-TW: zh-HANT
+        es-ES: es-ES
