@@ -1,0 +1,56 @@
+name: Sync Crowdin translations
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  crowdin-download:
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+      matrix:
+        language:
+          - ja-JP
+          - zh-HANS
+          - zh-HANT
+          - ko-KR
+          - fr-FR
+          - ru-RU
+          - es-ES
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download Crowdin translations for ${{ matrix.language }}
+        uses: crowdin/github-action@v2
+        with:
+          upload_sources: false
+          upload_translations: false
+
+          download_translations: true
+          download_language: ${{ matrix.language }}
+
+          skip_untranslated_files: true
+          export_only_approved: true
+
+          localization_branch_name: thirdparty/crowdin-${{ matrix.language }}
+          create_pull_request: true
+          pull_request_title: "translate(${{ matrix.language }}): sync ${{ matrix.language }} translations"
+          pull_request_body: |
+            Automated Crowdin translation update.
+
+            Language: ${{ matrix.language }}
+          pull_request_base_branch_name: main
+          commit_message: "translate(${{ matrix.language }}): sync ${{ matrix.language }} translations"
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
