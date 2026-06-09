@@ -1,5 +1,7 @@
 # I18N Everywhere
 
+Project now available on [Crowdin](https://crowdin.com/project/i18n-everywhere).
+
 This is where the entire language file is stored, and to keep the repository tidy, please contribute as follows.
 
 ## How to contribute(optional)
