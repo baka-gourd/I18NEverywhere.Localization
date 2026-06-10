@@ -37,14 +37,14 @@
     },
     {
       "referenceFileName": "RealisticWorkplacesAndHouseholds",
-      "link": "https://mods.paradoxplaza.com/mods/87755/Windows",
+      "path": "project/en-US/Mod/RealisticWorkplacesAndHouseholds.json",
       "name": "Realistic Workplaces And Households",
+      "link": "https://mods.paradoxplaza.com/mods/87755/Windows",
       "aka": [
         "RealisticWorkplacesAndHouseholds.LocaleEN"
       ],
-      "frozen": false,
-      "path": "project/en-US/Mod/RealisticWorkplacesAndHouseholds.json",
-      "updatedAt": "2026-06-10T12:04:50.218Z",
+      "frozen": true,
+      "updatedAt": "2026-06-10T12:05:20.325Z",
       "updatedBy": {
         "id": 36119339,
         "login": "baka-gourd",
