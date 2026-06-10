@@ -4,7 +4,6 @@
   "Options.GROUP[PathfindingCustomizer.PathfindingCustomizer.Mod.Vehicle Settings]": "차량 설정",
   "Options.GROUP[PathfindingCustomizer.PathfindingCustomizer.Mod.Version Details & Support]": "상세 버전 및 지원",
   "Options.OPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.Author]": "제작자",
-  "Options.OPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.ComingSoon]": "",
   "Options.OPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.CrossingSlider]": "횡단보도 값",
   "Options.OPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.DrivingSlider]": "운전 값",
   "Options.OPTION[PathfindingCustomizer.PathfindingCustomizer.Mod.Setting.ForbiddenSlider]": "금지된 회전 값",

@@ -45,7 +45,6 @@
   "Options.OPTION_DESCRIPTION[SmartTransportation.SmartTransportation.Mod.Setting.disable_Tram]": "동적 가격 및 빈도를 비활성화하고 표준 값을 사용합니다. ",
   "Options.OPTION_DESCRIPTION[SmartTransportation.SmartTransportation.Mod.Setting.disable_bus]": "동적 가격 및 빈도를 비활성화하고 표준 값을 사용합니다. ",
   "Options.OPTION_DESCRIPTION[SmartTransportation.SmartTransportation.Mod.Setting.max_ticket_discount_Subway]": "최대 티켓 감소값으로, 비수요 시간대에 더 많은 승객을 유치하기 위해 감소합니다.",
-  "Options.OPTION_DESCRIPTION[SmartTransportation.SmartTransportation.Mod.Setting.max_ticket_discount_Train]": "최대 티켓 감소값으로, 비수요 시간대에 더 많은 승객을 유치하기 위해 감소합니다.",
   "Options.OPTION_DESCRIPTION[SmartTransportation.SmartTransportation.Mod.Setting.max_ticket_discount_Tram]": "최대 티켓 감소값으로, 비수요 시간대에 더 많은 승객을 유치하기 위해 감소합니다.",
   "Options.OPTION_DESCRIPTION[SmartTransportation.SmartTransportation.Mod.Setting.max_ticket_discount_bus]": "최대 티켓 감소값으로, 비수요 시간대에 더 많은 승객을 유치하기 위해 감소합니다.",
   "Options.OPTION_DESCRIPTION[SmartTransportation.SmartTransportation.Mod.Setting.max_ticket_increase_Subway]": "최대 티켓 증가값으로, 러시아워에 더 많은 수익을 창출하고 혼잡시간대에 교통 수간을 이용하지 않도록 러시아워 시간에 티켓 가격을 인상합니다.",
