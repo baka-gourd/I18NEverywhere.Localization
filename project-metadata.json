@@ -3,14 +3,14 @@
   "projects": [
     {
       "referenceFileName": "RealisticPathFinding",
-      "link": "https://mods.paradoxplaza.com/mods/121226/Windows",
+      "path": "project/en-US/Mod/RealisticPathFinding.json",
       "name": "Realistic PathFinding",
+      "link": "https://mods.paradoxplaza.com/mods/121226/Windows",
       "aka": [
         "RealisticPathFinding.LocaleEN"
       ],
-      "frozen": false,
-      "path": "project/en-US/Mod/RealisticPathFinding.json",
-      "updatedAt": "2026-06-10T06:37:46.421Z",
+      "frozen": true,
+      "updatedAt": "2026-06-10T06:38:59.987Z",
       "updatedBy": {
         "id": 36119339,
         "login": "baka-gourd",
