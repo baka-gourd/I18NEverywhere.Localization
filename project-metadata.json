@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "referenceFileName": "RealisticPathFinding",
+      "link": "https://mods.paradoxplaza.com/mods/121226/Windows",
+      "name": "Realistic PathFinding",
+      "aka": [
+        "RealisticPathFinding.LocaleEN"
+      ],
+      "frozen": false,
+      "path": "project/en-US/Mod/RealisticPathFinding.json",
+      "updatedAt": "2026-06-10T06:37:46.421Z",
+      "updatedBy": {
+        "id": 36119339,
+        "login": "baka-gourd",
+        "name": "baka-gourd",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36119339?v=4"
+      }
+    }
+  ]
+}
