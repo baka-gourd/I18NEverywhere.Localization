@@ -1,6 +1,5 @@
 {
   "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Settings]": "설정",
-  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Main]": "메인",
   "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "커스텀 아이콘 폴더 열기",
   "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "기존 아이콘 덮어쓰기",
   "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "바닐라 또는 '에셋 아이콘 라이브러리' 아이콘에 개인 맞춤형 아이콘을 적용할 폴더를 엽니다.",
