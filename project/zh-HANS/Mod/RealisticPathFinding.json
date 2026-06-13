@@ -105,7 +105,7 @@
   "Options.OPTION_DESCRIPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.train_mode_weight]": "应用于城际/通勤铁路车内时间的乘数。",
   "Options.OPTION_DESCRIPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.tram_mode_weight]": "应用于有轨电车车内时间的乘数。",
   "Options.OPTION_DESCRIPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.transfer_penalty]": "应用于每次换乘等待时间的乘数（例如，1.5 = 换乘感知等待增加 50%）。",
-  "Options.OPTION_DESCRIPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.uturn_sec_penalty]": "当转弯角度超过掉头阈值时额外增加的秒数。",
+  "Options.OPTION_DESCRIPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.uturn_sec_penalty]": "当转弯角度超过掉头阈值时额外增加的秒数。为 0 时关闭。",
   "Options.OPTION_DESCRIPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.uturn_threshold_deg]": "若计算出的转弯角度达到或超过此值，则施加掉头额外惩罚。",
   "Options.OPTION_DESCRIPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.waiting_time_factor]": "应用于初始公交站等待时间的乘数。",
   "Options.OPTION_DESCRIPTION[RealisticPathFinding.RealisticPathFinding.Mod.Setting.walk_long_comfort_m]": "在此起终点直线距离（米）以内无惩罚。超过此距离后，乘数开始降低。",
