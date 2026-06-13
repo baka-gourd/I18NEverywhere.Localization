@@ -1,1 +1,12 @@
-{}
+{
+  "Infoviews.DESC[BetterTransitViewCustomView]": "Resumen de tránsito personalizado.",
+  "Infoviews.INFOMODE[BetterTransitViewStations]": "Mostrar estaciones",
+  "Infoviews.NAME[BetterTransitViewCustomView]": "Better Transit View",
+  "Options.GROUP[BetterTransitView.BetterTransitView.Mod.KeyBinding]": "Controles",
+  "Options.INPUT_MAP[BetterTransitView.BetterTransitView.Mod]": "Better Transit View",
+  "Options.OPTION[BetterTransitView.BetterTransitView.Mod.ModSettings.ToggleToolBinding]": "Activar Better Transit View",
+  "Options.OPTION[BetterTransitView.BetterTransitView.Mod/BetterTransitView_Toggle/binding]": "Asignación de tecla para activar",
+  "Options.OPTION_DESCRIPTION[BetterTransitView.BetterTransitView.Mod.ModSettings.ToggleToolBinding]": "Al presionar esta tecla se activará Better Transit View.",
+  "Options.SECTION[BetterTransitView.BetterTransitView.Mod]": "Better Transit View",
+  "Options.TAB[BetterTransitView.BetterTransitView.Mod.Main]": "Principal"
+}

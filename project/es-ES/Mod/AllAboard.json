@@ -1,1 +1,11 @@
-{}
+{
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.ApplyButton]": "Aplicar",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "Retraso máximo del Bus (minutos del juego)",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TestPathfindingCleanup]": "Limpieza experimental de búsqueda de rutas",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "Retraso máximo del Tren (minutos del juego)",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.ApplyButton]": "Aplicar ajustes",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "Cantidad máxima de tiempo (dentro del juego) para permitir que un autobús \"espere\" más allá de su marco de salida programada. ",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TestPathfindingCleanup]": "Intento de limpiar pasajeros después de forzar la salida del tren. No lo habilite a menos que esté probando la funcionalidad.",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "Cantidad máxima de tiempo (dentro del juego) para permitir que un autobús (Metro, tranvía) \"espere\" más allá de su marco de salida programada. ",
+  "Options.SECTION[AllAboard.AllAboard.Mod]": "All Aboard!"
+}
