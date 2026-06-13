@@ -1,2 +1,4 @@
 allowBuilds:
   '@j178/prek': true
+minimumReleaseAgeExclude:
+  - form-data@4.0.6

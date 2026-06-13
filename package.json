@@ -17,18 +17,18 @@
   },
   "dependencies": {
     "@types/unzipper": "^0.10.11",
-    "form-data": "^4.0.5",
+    "form-data": "^4.0.6",
     "hasha": "^7.0.0",
     "node-fetch": "^3.3.2",
-    "oxfmt": "^0.43.0",
-    "oxlint": "^1.68.0",
-    "oxlint-tsgolint": "^0.19.0",
+    "oxfmt": "^0.54.0",
+    "oxlint": "^1.69.0",
+    "oxlint-tsgolint": "^0.23.0",
     "unzipper": "^0.12.3"
   },
   "devDependencies": {
-    "@j178/prek": "^0.3.13",
-    "@types/node": "^20.19.42",
+    "@j178/prek": "^0.4.4",
+    "@types/node": "^25.9.3",
     "ts-node": "^10.9.2",
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.3"
   }
 }
