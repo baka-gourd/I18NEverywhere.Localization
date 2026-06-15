@@ -4,6 +4,17 @@ import path from "path";
 
 const exec = promisify(execCb);
 
+function getProjectLanguage(filePath: string) {
+  const normalizedPath = filePath.replace(/\\/g, "/");
+  const match = /^project\/([^/]+)\/.+/.exec(normalizedPath);
+
+  if (!match || match[1] === "en-US") {
+    return null;
+  }
+
+  return match[1];
+}
+
 async function getLatestTagName() {
   try {
     const { stdout } = await exec("git describe --tags --abbrev=0");
@@ -45,11 +56,9 @@ async function generateChangelog() {
       ) {
         if (line.startsWith("R")) {
           const parts = line.split(/\s+/);
-          if (!parts[1].includes("project")) return;
-          if (!parts[2].includes("project")) return;
-          const match = /project\/([^\/]+)\/.+/.exec(parts[1]);
-          const language = match ? match[1] : "";
-          if (language === "en-US") return;
+          const language = getProjectLanguage(parts[1]);
+          if (!language) return;
+          if (!getProjectLanguage(parts[2])) return;
           changelog += `- ${language}: mov ${path.basename(
             parts[1],
             ".json"
@@ -58,10 +67,8 @@ async function generateChangelog() {
           const type =
             line[0] === "A" ? "add" : line[0] === "M" ? "upd" : "del";
           const filePath = line.substring(2).trim();
-          if (!filePath.includes("project")) return;
-          const match = /project\/([^\/]+)\/.+/.exec(filePath);
-          const language = match ? match[1] : "";
-          if (language === "en-US") return;
+          const language = getProjectLanguage(filePath);
+          if (!language) return;
           changelog += `- ${language}: ${type} ${path.basename(
             filePath,
             ".json"
