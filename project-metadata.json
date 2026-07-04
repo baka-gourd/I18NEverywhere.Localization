@@ -3,14 +3,14 @@
   "projects": [
     {
       "referenceFileName": "BetterEducationInfoview",
-      "link": "https://mods.paradoxplaza.com/mods/149918/Windows",
+      "path": "project/en-US/Mod/BetterEducationInfoview.json",
       "name": "Better Education Infoview",
+      "link": "https://mods.paradoxplaza.com/mods/149918/Windows",
       "aka": [
         "BetterEducationInfoView.LocaleEN"
       ],
-      "frozen": false,
-      "path": "project/en-US/Mod/BetterEducationInfoview.json",
-      "updatedAt": "2026-07-04T09:50:15.193Z",
+      "frozen": true,
+      "updatedAt": "2026-07-04T09:57:27.216Z",
       "updatedBy": {
         "id": 36119339,
         "login": "baka-gourd",
