@@ -42,7 +42,7 @@
       "aka": [
         "CustomChirps.LocaleEN"
       ],
-      "frozen": false,
+      "frozen": true,
       "path": "project/en-US/Mod/CustomChirps.json",
       "updatedAt": "2026-07-04T10:18:36.652Z",
       "updatedBy": {
@@ -59,7 +59,7 @@
       "aka": [
         "FlexibleSubBuildings.LocaleEN"
       ],
-      "frozen": false,
+      "frozen": true,
       "path": "project/en-US/Mod/FlexibleSubBuildings.json",
       "updatedAt": "2026-07-04T10:15:03.167Z",
       "updatedBy": {
@@ -76,7 +76,7 @@
       "aka": [
         "RealisticJobSearch.LocaleEN"
       ],
-      "frozen": false,
+      "frozen": true,
       "path": "project/en-US/Mod/RealisticJobSearch.json",
       "updatedAt": "2026-07-04T10:17:27.274Z",
       "updatedBy": {
@@ -93,7 +93,7 @@
       "aka": [
         "RealisticParking.LocaleEN"
       ],
-      "frozen": false,
+      "frozen": true,
       "path": "project/en-US/Mod/RealisticParking.json",
       "updatedAt": "2026-07-04T10:13:41.118Z",
       "updatedBy": {
@@ -144,7 +144,7 @@
       "aka": [
         "RealLife.LocaleEN"
       ],
-      "frozen": false,
+      "frozen": true,
       "path": "project/en-US/Mod/RealLife.json",
       "updatedAt": "2026-07-04T10:16:21.944Z",
       "updatedBy": {
@@ -161,7 +161,7 @@
       "aka": [
         "SmartTransportation.LocaleEN"
       ],
-      "frozen": false,
+      "frozen": true,
       "path": "project/en-US/Mod/SmartTransportation.json",
       "updatedAt": "2026-07-04T10:22:39.953Z",
       "updatedBy": {
@@ -195,7 +195,7 @@
       "aka": [
         "TripsDataView.LocaleEN"
       ],
-      "frozen": false,
+      "frozen": true,
       "path": "project/en-US/Mod/TripsView.json",
       "updatedAt": "2026-07-04T10:21:21.869Z",
       "updatedBy": {
