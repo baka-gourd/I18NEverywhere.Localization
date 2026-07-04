@@ -1,0 +1,7 @@
+{
+  "Options.GROUP[FlexibleSubBuildings.FlexibleSubBuildings.Mod.LoggingGroup]": "Logging",
+  "Options.OPTION[FlexibleSubBuildings.FlexibleSubBuildings.Mod.Setting.DetailedLogging]": "Detailed logging",
+  "Options.OPTION_DESCRIPTION[FlexibleSubBuildings.FlexibleSubBuildings.Mod.Setting.DetailedLogging]": "Write one log line for every service upgrade decision. Leave this disabled unless debugging compatibility.",
+  "Options.SECTION[FlexibleSubBuildings.FlexibleSubBuildings.Mod]": "Flexible Sub Buildings",
+  "Options.TAB[FlexibleSubBuildings.FlexibleSubBuildings.Mod.GeneralSection]": "General"
+}
