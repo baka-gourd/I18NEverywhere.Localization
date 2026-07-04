@@ -172,6 +172,23 @@
       }
     },
     {
+      "referenceFileName": "TripsView",
+      "link": "https://mods.paradoxplaza.com/mods/96619/Windows",
+      "name": "Trips View",
+      "aka": [
+        "TripsDataView.LocaleEN"
+      ],
+      "frozen": false,
+      "path": "project/en-US/Mod/TripsView.json",
+      "updatedAt": "2026-07-04T10:21:21.869Z",
+      "updatedBy": {
+        "id": 36119339,
+        "login": "baka-gourd",
+        "name": "baka-gourd",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36119339?v=4"
+      }
+    },
+    {
       "referenceFileName": "UrbanInequality",
       "path": "project/en-US/Mod/UrbanInequality.json",
       "name": "UrbanInequality",

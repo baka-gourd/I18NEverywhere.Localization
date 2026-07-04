@@ -1,0 +1,10 @@
+{
+  "Options.GROUP[TripsDataView.TripsDataView.Mod.Settings]": "Settings",
+  "Options.OPTION[TripsDataView.TripsDataView.Mod.Setting.MultilineText]": "Output Folder:\nC:/Users/fanng/AppData/LocalLow/Colossal Order/Cities Skylines II\\ModsData\\TripsDataView",
+  "Options.OPTION[TripsDataView.TripsDataView.Mod.Setting.numOutputs]": "Number of output files to keep saved",
+  "Options.OPTION[TripsDataView.TripsDataView.Mod.Setting.saveDuringAutoSaves]": "Save Trip Purpose file on auto-saves",
+  "Options.OPTION_DESCRIPTION[TripsDataView.TripsDataView.Mod.Setting.numOutputs]": "Number of output files to keep saved",
+  "Options.OPTION_DESCRIPTION[TripsDataView.TripsDataView.Mod.Setting.saveDuringAutoSaves]": "If enabled, the temporary trip-purpose file is written during auto-saves. That file is necessary to show correct Trip Purpose plot in case the game is restarted but it may cause the auto-save to be slow in bigger cities",
+  "Options.SECTION[TripsDataView.TripsDataView.Mod]": "Trips View",
+  "Options.TAB[TripsDataView.TripsDataView.Mod.Settings]": "Settings"
+}
