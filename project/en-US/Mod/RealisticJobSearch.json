@@ -1,0 +1,18 @@
+{
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.alpha_jobs]": "Job Availability Boost",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.beta_minute]": "Commute Time Sensitivity",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.debug]": "Print Debug File",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.max_accept]": "Acceptance Cap",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.min_accept]": "Acceptance Floor",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_free_jobs]": "Weight: Open Jobs Now",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_total_jobs]": "Weight: Workplace Size",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.alpha_jobs]": "How strongly job availability increases the chance a job is accepted. Higher = big workplaces pull more strongly.",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.beta_minute]": "How quickly long trips become unattractive. Higher = avoids long commutes more aggressively.",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.debug]": "Writes a CSV with commute stats to the ModsData folder.",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.max_accept]": "Highest possible chance to accept even a perfect job. Lowers this to keep some variety/randomness.",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.min_accept]": "Lowest possible chance to accept any job. Raises this to keep rare options from being fully ruled out.",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_free_jobs]": "How much to favor workplaces that currently have free positions. Higher = more bias to places with open slots.",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_total_jobs]": "How much to favor larger workplaces (more total jobs), even if not all are open. Higher = more bias to big employers.",
+  "Options.SECTION[RealisticJobSearch.RealisticJobSearch.Mod]": "Realistic JobSearch",
+  "Options.TAB[RealisticJobSearch.RealisticJobSearch.Mod.SettingsSection]": "Settings"
+}
