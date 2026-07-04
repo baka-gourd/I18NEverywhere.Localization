@@ -36,6 +36,23 @@
       }
     },
     {
+      "referenceFileName": "CustomChirps",
+      "link": "https://mods.paradoxplaza.com/mods/121812/Windows",
+      "name": "Custom Chirps",
+      "aka": [
+        "CustomChirps.LocaleEN"
+      ],
+      "frozen": false,
+      "path": "project/en-US/Mod/CustomChirps.json",
+      "updatedAt": "2026-07-04T10:18:36.652Z",
+      "updatedBy": {
+        "id": 36119339,
+        "login": "baka-gourd",
+        "name": "baka-gourd",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36119339?v=4"
+      }
+    },
+    {
       "referenceFileName": "FlexibleSubBuildings",
       "link": "https://mods.paradoxplaza.com/mods/146263/Windows",
       "name": "Flexible Sub Buildings",

@@ -1,6 +1,8 @@
 {
   "Options.OPTION[CustomChirps.CustomChirps.Mod.Setting.disable_vanilla_chirps]": "Disable Vanilla Chirps",
-  "Options.OPTION_DESCRIPTION[CustomChirps.CustomChirps.Mod.Setting.disable_vanilla_chirps]": "Disables vanillas chirps. Chirps from other mods will still be shown",
+  "Options.OPTION[CustomChirps.CustomChirps.Mod.Setting.hide_vanilla_chirps_in_chirper_panel]": "Hide Vanilla Chirps In Chirper Panel",
+  "Options.OPTION_DESCRIPTION[CustomChirps.CustomChirps.Mod.Setting.disable_vanilla_chirps]": "Disables vanilla chirp pop-ups. Chirps from other mods will still be shown",
+  "Options.OPTION_DESCRIPTION[CustomChirps.CustomChirps.Mod.Setting.hide_vanilla_chirps_in_chirper_panel]": "Shows only custom chirps when opening the chirper panel",
   "Options.SECTION[CustomChirps.CustomChirps.Mod]": "Custom Chirps",
   "Options.TAB[CustomChirps.CustomChirps.Mod.SettingsSection]": "Settings"
 }
