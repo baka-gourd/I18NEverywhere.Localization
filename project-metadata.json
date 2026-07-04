@@ -85,6 +85,23 @@
         "name": "baka-gourd",
         "avatarUrl": "https://avatars.githubusercontent.com/u/36119339?v=4"
       }
+    },
+    {
+      "referenceFileName": "UrbanInequality",
+      "link": "https://mods.paradoxplaza.com/mods/110245/Windows",
+      "name": "UrbanInequality",
+      "aka": [
+        "UrbanInequality.Setting-LocaleEN"
+      ],
+      "frozen": false,
+      "path": "project/en-US/Mod/UrbanInequality.json",
+      "updatedAt": "2026-07-04T09:56:59.269Z",
+      "updatedBy": {
+        "id": 36119339,
+        "login": "baka-gourd",
+        "name": "baka-gourd",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36119339?v=4"
+      }
     }
   ]
 }
