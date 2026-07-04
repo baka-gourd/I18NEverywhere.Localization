@@ -2,6 +2,23 @@
   "version": 1,
   "projects": [
     {
+      "referenceFileName": "BetterEducationInfoview",
+      "link": "https://mods.paradoxplaza.com/mods/149918/Windows",
+      "name": "Better Education Infoview",
+      "aka": [
+        "BetterEducationInfoView.LocaleEN"
+      ],
+      "frozen": false,
+      "path": "project/en-US/Mod/BetterEducationInfoview.json",
+      "updatedAt": "2026-07-04T09:50:15.193Z",
+      "updatedBy": {
+        "id": 36119339,
+        "login": "baka-gourd",
+        "name": "baka-gourd",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36119339?v=4"
+      }
+    },
+    {
       "referenceFileName": "BetterTransitView",
       "path": "project/en-US/Mod/BetterTransitView.json",
       "name": "Better Transit View",

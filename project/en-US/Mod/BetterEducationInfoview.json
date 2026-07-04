@@ -1,0 +1,16 @@
+{
+  "Options.GROUP[BetterEducationInfoView.BetterEducationInfoView.Mod.Overlay]": "Overlay",
+  "Options.GROUP[BetterEducationInfoView.BetterEducationInfoView.Mod.Thresholds]": "Thresholds",
+  "Options.OPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.HideEmptySchools]": "Hide empty schools",
+  "Options.OPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.OverlayEnabled]": "Show school capacity overlay",
+  "Options.OPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.OverlayScale]": "Overlay scale",
+  "Options.OPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.RedThreshold]": "Red threshold",
+  "Options.OPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.YellowThreshold]": "Yellow threshold",
+  "Options.OPTION_DESCRIPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.HideEmptySchools]": "Only shows labels for schools that currently have students.",
+  "Options.OPTION_DESCRIPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.OverlayEnabled]": "Shows student/capacity labels when the Education infoview is active.",
+  "Options.OPTION_DESCRIPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.OverlayScale]": "Scales the school capacity labels up or down.",
+  "Options.OPTION_DESCRIPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.RedThreshold]": "Capacity percentage where labels turn red.",
+  "Options.OPTION_DESCRIPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.YellowThreshold]": "Capacity percentage where labels turn yellow.",
+  "Options.SECTION[BetterEducationInfoView.BetterEducationInfoView.Mod]": "Better Education Infoview",
+  "Options.TAB[BetterEducationInfoView.BetterEducationInfoView.Mod.Main]": "Main"
+}
