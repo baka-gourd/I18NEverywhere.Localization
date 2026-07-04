@@ -155,6 +155,23 @@
       }
     },
     {
+      "referenceFileName": "SmartTransportation",
+      "link": "https://mods.paradoxplaza.com/mods/90264/Windows",
+      "name": "SmartTransportation",
+      "aka": [
+        "SmartTransportation.LocaleEN"
+      ],
+      "frozen": false,
+      "path": "project/en-US/Mod/SmartTransportation.json",
+      "updatedAt": "2026-07-04T10:22:39.953Z",
+      "updatedBy": {
+        "id": 36119339,
+        "login": "baka-gourd",
+        "name": "baka-gourd",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36119339?v=4"
+      }
+    },
+    {
       "referenceFileName": "Time2Work",
       "path": "project/en-US/Mod/Time2Work.json",
       "name": "Realistic Trips",
