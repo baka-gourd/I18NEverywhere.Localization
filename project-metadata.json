@@ -36,6 +36,23 @@
       }
     },
     {
+      "referenceFileName": "RealisticParking",
+      "link": "https://mods.paradoxplaza.com/mods/87313/Windows",
+      "name": "Realistic Parking",
+      "aka": [
+        "RealisticParking.LocaleEN"
+      ],
+      "frozen": false,
+      "path": "project/en-US/Mod/RealisticParking.json",
+      "updatedAt": "2026-07-04T10:13:41.118Z",
+      "updatedBy": {
+        "id": 36119339,
+        "login": "baka-gourd",
+        "name": "baka-gourd",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36119339?v=4"
+      }
+    },
+    {
       "referenceFileName": "RealisticPathFinding",
       "path": "project/en-US/Mod/RealisticPathFinding.json",
       "name": "Realistic PathFinding",
