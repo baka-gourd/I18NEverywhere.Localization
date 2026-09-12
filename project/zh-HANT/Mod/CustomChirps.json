@@ -1,1 +1,8 @@
-{}
+{
+  "Options.OPTION[CustomChirps.CustomChirps.Mod.Setting.disable_vanilla_chirps]": "停用原版啾啾",
+  "Options.OPTION[CustomChirps.CustomChirps.Mod.Setting.hide_vanilla_chirps_in_chirper_panel]": "在啾啾面板中隱藏原版啾啾",
+  "Options.OPTION_DESCRIPTION[CustomChirps.CustomChirps.Mod.Setting.disable_vanilla_chirps]": "停用原版啾啾彈出視窗。其他模組的啾啾仍會顯示",
+  "Options.OPTION_DESCRIPTION[CustomChirps.CustomChirps.Mod.Setting.hide_vanilla_chirps_in_chirper_panel]": "開啟啾啾面板時僅顯示自訂啾啾",
+  "Options.SECTION[CustomChirps.CustomChirps.Mod]": "自訂啾啾",
+  "Options.TAB[CustomChirps.CustomChirps.Mod.SettingsSection]": "設定"
+}

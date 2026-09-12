@@ -1,1 +1,7 @@
-{}
+{
+  "EvenBetterSaveList.Sort.CityName": "城市名稱 ",
+  "EvenBetterSaveList.Sort.Save": "存檔",
+  "Options.OPTION[EvenBetterSaveList.EvenBetterSaveList.Mod.Setting.Enabled]": "啟用",
+  "Options.OPTION_DESCRIPTION[EvenBetterSaveList.EvenBetterSaveList.Mod.Setting.Enabled]": "啟用",
+  "Options.SECTION[EvenBetterSaveList.EvenBetterSaveList.Mod]": "更好的存檔清單"
+}

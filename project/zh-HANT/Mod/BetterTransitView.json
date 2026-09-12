@@ -1,1 +1,12 @@
-{}
+{
+  "Infoviews.DESC[BetterTransitViewCustomView]": "自訂大眾運輸概覽。",
+  "Infoviews.INFOMODE[BetterTransitViewStations]": "顯示站點",
+  "Infoviews.NAME[BetterTransitViewCustomView]": "更好的大眾運輸檢視",
+  "Options.GROUP[BetterTransitView.BetterTransitView.Mod.KeyBinding]": "控制",
+  "Options.INPUT_MAP[BetterTransitView.BetterTransitView.Mod]": "更好的大眾運輸檢視",
+  "Options.OPTION[BetterTransitView.BetterTransitView.Mod.ModSettings.ToggleToolBinding]": "啟用 Better Transit View",
+  "Options.OPTION[BetterTransitView.BetterTransitView.Mod/BetterTransitView_Toggle/binding]": "啟用鍵",
+  "Options.OPTION_DESCRIPTION[BetterTransitView.BetterTransitView.Mod.ModSettings.ToggleToolBinding]": "按下此按鍵以啟用更好的大眾運輸檢視。",
+  "Options.SECTION[BetterTransitView.BetterTransitView.Mod]": "更好的大眾運輸檢視(Better Transit View)",
+  "Options.TAB[BetterTransitView.BetterTransitView.Mod.Main]": "主要"
+}

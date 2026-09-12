@@ -1,1 +1,15 @@
-{}
+{
+  "Options.GROUP[DepotCapacityChanger.DepotCapacityChanger.Mod.Student Capacity]": "機廠容量",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "公車調度場",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "地鐵機廠",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "計程車調度場",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "火車機廠",
+  "Options.OPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "路面電車機廠",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.BusSlider]": "設定公車調度場建築相對於原版容量的車輛容量。",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.SubwaySlider]": "設定地鐵機廠建築相對於原版容量的車輛容量。",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TaxiSlider]": "設定計程車調度場建築相對於原版容量的車輛容量。",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TrainSlider]": "設定火車機廠建築相對於原版容量的車輛容量。",
+  "Options.OPTION_DESCRIPTION[DepotCapacityChanger.DepotCapacityChanger.Mod.Setting.TramSlider]": "設定路面電車機廠建築相對於原版容量的車輛容量。",
+  "Options.SECTION[DepotCapacityChanger.DepotCapacityChanger.Mod]": "機廠容量修改器(Depot Capacity Changer)",
+  "Options.TAB[DepotCapacityChanger.DepotCapacityChanger.Mod.Modify Depot Capacity]": "主要"
+}

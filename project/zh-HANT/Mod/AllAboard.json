@@ -1,1 +1,11 @@
-{}
+{
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.ApplyButton]": "套用",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "公車最大停站延遲（遊戲內分鐘）",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TestPathfindingCleanup]": "實驗性尋路清理",
+  "Options.OPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "列車最大停站延遲（遊戲內分鐘）",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.ApplyButton]": "套用設定",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.BusMaxDwellDelaySlider]": "允許公車超出預定發車時間繼續「停站」的最大（遊戲內）時間。 ",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TestPathfindingCleanup]": "在強制列車出發後嘗試清理乘客。除非正在測試此功能，否則請勿啟用。",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.Mod.Setting.TrainMaxDwellDelaySlider]": "允許列車（地鐵、輕軌／路面電車）超出預定發車時間繼續「停站」的最大（遊戲內）時間。 ",
+  "Options.SECTION[AllAboard.AllAboard.Mod]": "全員上車！(All Aboard! )"
+}

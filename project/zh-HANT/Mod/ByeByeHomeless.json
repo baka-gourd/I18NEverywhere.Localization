@@ -1,1 +1,15 @@
-{}
+{
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ApplyHomelessnessFix]": "套用無家可歸錯誤修正",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ArrestHomeless]": "逮捕無家可歸者",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeportHomeless]": "驅逐無家可歸者",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "驅逐幽靈公司",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveAllHomeless]": "移除所有無家可歸者",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveStuckHomeless]": "移除卡住的無家可歸者",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ApplyHomelessnessFix]": "此狀態表示已套用無家可歸錯誤修正。",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ArrestHomeless]": "派出警察將無家可歸者逮捕入獄。",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeportHomeless]": "簽證取消！讓在公園露營的人立即想辦法離開這座城市。",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "【實驗性功能】勾選時，沒有工廠或辦公室的公司將會被驅逐。",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveAllHomeless]": "立即移除所有無家可歸的市民，包含位於公園內的市民。",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveStuckHomeless]": "立即移除卡在街上的無家可歸市民，不包含位於公園內的市民。",
+  "Options.SECTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod]": "告別無家可歸(Bye Bye Homeless)"
+}
