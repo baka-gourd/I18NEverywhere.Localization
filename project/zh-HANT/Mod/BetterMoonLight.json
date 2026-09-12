@@ -1,1 +1,26 @@
-{}
+{
+  "OPTIONS.BetterMoonLight.OverwriteAuroraLevel[0]": "不覆寫",
+  "OPTIONS.BetterMoonLight.OverwriteAuroraLevel[1]": "覆寫基本",
+  "OPTIONS.BetterMoonLight.OverwriteAuroraLevel[2]": "覆寫相片模式",
+  "Options.GROUP[BetterMoonLight.BetterMoonLight.Mod.Aurora]": "極光",
+  "Options.GROUP[BetterMoonLight.BetterMoonLight.Mod.Basic]": "基本",
+  "Options.GROUP[BetterMoonLight.BetterMoonLight.Mod.Night]": "夜間設定",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.AmbientLight]": "夜間環境光強度",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.AuroraIntensity]": "極光強度",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.AuroraOverwriteLevel]": "覆寫極光",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.MoonDirectionalLight]": "月球定向光強度",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.MoonDiskIntensity]": "月盤強度",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.MoonDiskSize]": "月盤大小",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.MoonLightAveragerStrength]": "月光均化強度",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.MoonLightIntensityBalance]": "平衡月光強度",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.MoonTemperature]": "月光色溫",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.NightLightTemperature]": "夜間光線色溫",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.NightSkyLight]": "夜空光照強度",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.OverwriteNightLighting]": "覆寫夜間光照",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.ResetModSettings]": "重設為預設值",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.ShowOptionsInDeveloperPanel]": "在開發者面板中顯示選項",
+  "Options.OPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.StarfieldEmmisionStrength]": "星空放射強度",
+  "Options.OPTION_DESCRIPTION[BetterMoonLight.BetterMoonLight.Mod.Setting.ShowOptionsInDeveloperPanel]": "在開發者面板中顯示相同的設定（使用「-developerMode」參數啟動遊戲並透過 Tab 鍵開啟）。開啟後您可以在面板中看到新的「BetterMoonLight」分頁",
+  "Options.SECTION[BetterMoonLight.BetterMoonLight.Mod]": "更好的月光(Better Moon Light)",
+  "Options.WARNING[BetterMoonLight.BetterMoonLight.Mod.Setting.ResetModSettings]": "確定要重設為預設值嗎？"
+}

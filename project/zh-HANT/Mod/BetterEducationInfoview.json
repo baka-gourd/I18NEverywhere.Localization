@@ -1,1 +1,16 @@
-{}
+{
+  "Options.GROUP[BetterEducationInfoView.BetterEducationInfoView.Mod.Overlay]": "覆蓋層",
+  "Options.GROUP[BetterEducationInfoView.BetterEducationInfoView.Mod.Thresholds]": "門檻值",
+  "Options.OPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.HideEmptySchools]": "隱藏空學校",
+  "Options.OPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.OverlayEnabled]": "顯示學校容量覆蓋層",
+  "Options.OPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.OverlayScale]": "覆蓋層縮放比例",
+  "Options.OPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.RedThreshold]": "紅色門檻值",
+  "Options.OPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.YellowThreshold]": "黃色門檻值",
+  "Options.OPTION_DESCRIPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.HideEmptySchools]": "僅顯示目前有學生的學校標籤。",
+  "Options.OPTION_DESCRIPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.OverlayEnabled]": "在啟用「教育」資訊檢視時顯示學生/容量標籤。",
+  "Options.OPTION_DESCRIPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.OverlayScale]": "放大或縮小學校容量標籤。",
+  "Options.OPTION_DESCRIPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.RedThreshold]": "標籤變為紅色的容量百分比。",
+  "Options.OPTION_DESCRIPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.YellowThreshold]": "標籤變為黃色的容量百分比。",
+  "Options.SECTION[BetterEducationInfoView.BetterEducationInfoView.Mod]": "更好的教育資訊面板(Better Education Infoview)",
+  "Options.TAB[BetterEducationInfoView.BetterEducationInfoView.Mod.Main]": "主要"
+}

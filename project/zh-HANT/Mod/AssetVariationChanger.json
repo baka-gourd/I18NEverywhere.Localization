@@ -1,1 +1,15 @@
-{}
+{
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "啟用變體選擇器",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "下一個變體",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousVariationBinding]": "上一個變體",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ResetBindings]": "重設按鍵綁定",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "切換變體選擇器",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod/NextVariationBinding/binding]": "下一個資產變體",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod/PreviousVariationBinding/binding]": "上一個資產變體",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod/ToggleVariationChooserBinding/binding]": "切換變體選擇器",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "若啟用，模組將會正常運作；若停用，模組將不執行任何動作。如果您想要使用原版的隨機行為，這項設定會很有用",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "此按鍵將綁定為選取下一個資產變體",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousVariationBinding]": "此按鍵將綁定為選取上一個資產變體",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "使用此按鍵綁定可在不開啟選單的情況下切換模組開關",
+  "Options.SECTION[AssetVariationChanger.AssetVariationChanger.Mod]": "資產變體切換器(Asset Variation Changer)"
+}
