@@ -15,6 +15,7 @@ module.exports = {
       { value: "ko-KR", name: "Korean" },
       { value: "es-ES", name: "Spanish" },
       { value: "ru-RU", name: "Russian" },
+      { value: "de-DE", name: "German" },
     ],
   },
 };

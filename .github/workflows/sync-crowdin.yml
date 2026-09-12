@@ -24,6 +24,8 @@ jobs:
         include:
           - crowdin: ja
             repo: ja-JP
+          - crowdin: de
+            repo: de-DE
           - crowdin: zh-CN
             repo: zh-HANS
           - crowdin: zh-TW

@@ -1,0 +1,12 @@
+{
+  "Options.GROUP[BetterEducationInfoView.BetterEducationInfoView.Mod.Overlay]": "叠加层",
+  "Options.GROUP[BetterEducationInfoView.BetterEducationInfoView.Mod.Thresholds]": "阈值",
+  "Options.OPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.HideEmptySchools]": "隐藏空学校",
+  "Options.OPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.OverlayEnabled]": "显示学校容量叠加层",
+  "Options.OPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.OverlayScale]": "缩放比例",
+  "Options.OPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.RedThreshold]": "红色阈值",
+  "Options.OPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.YellowThreshold]": "黄色阈值",
+  "Options.OPTION_DESCRIPTION[BetterEducationInfoView.BetterEducationInfoView.Mod.Setting.HideEmptySchools]": "仅对目前有学生的学校显示标签。",
+  "Options.SECTION[BetterEducationInfoView.BetterEducationInfoView.Mod]": "更好的教育视图",
+  "Options.TAB[BetterEducationInfoView.BetterEducationInfoView.Mod.Main]": "主要"
+}

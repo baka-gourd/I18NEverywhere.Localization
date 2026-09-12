@@ -1,5 +1,5 @@
 base_path: .
-preserve_hierarchy: 1
+preserve_hierarchy: true
 files:
   - source: /project/en-US/Mod/**/*.json
     translation: /project/%locale%/Mod/**/%original_file_name%
