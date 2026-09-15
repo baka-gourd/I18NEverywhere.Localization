@@ -1,1 +1,10 @@
-{}
+{
+  "Options.GROUP[TripsDataView.TripsDataView.Mod.Settings]": "設定",
+  "Options.OPTION[TripsDataView.TripsDataView.Mod.Setting.MultilineText]": "輸出資料夾：\nC:/Users/fanng/AppData/LocalLow/Colossal Order/Cities Skylines II\\ModsData\\TripsDataView",
+  "Options.OPTION[TripsDataView.TripsDataView.Mod.Setting.numOutputs]": "保留的輸出檔案數量",
+  "Options.OPTION[TripsDataView.TripsDataView.Mod.Setting.saveDuringAutoSaves]": "自動存檔時一併儲存出行目的檔案",
+  "Options.OPTION_DESCRIPTION[TripsDataView.TripsDataView.Mod.Setting.numOutputs]": "保留在儲存空間中的記錄檔案數量上限",
+  "Options.OPTION_DESCRIPTION[TripsDataView.TripsDataView.Mod.Setting.saveDuringAutoSaves]": "啟用後，系統會在自動存檔時寫入暫存的出行目的資料。若遊戲重啟，必須依賴此檔案才能正確繪製出行目的圖表；但在大型城市中，開啟此選項可能會稍微拉長自動存檔時間",
+  "Options.SECTION[TripsDataView.TripsDataView.Mod]": "出行檢視 (Trips View)",
+  "Options.TAB[TripsDataView.TripsDataView.Mod.Settings]": "設定"
+}

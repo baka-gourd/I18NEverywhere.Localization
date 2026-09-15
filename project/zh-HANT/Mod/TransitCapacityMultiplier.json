@@ -1,1 +1,19 @@
-{}
+{
+  "Options.GROUP[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.CapacityGroup]": "大眾運輸載具容量",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.AirplaneSlider]": "飛機",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.BusSlider]": "公車",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.ShipSlider]": "船運",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.SubwaySlider]": "地鐵",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TaxiSlider]": "計程車",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TrainSlider]": "火車",
+  "Options.OPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TramSlider]": "路面電車",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.AirplaneSlider]": "設定相較於原版預設數值的飛機載具容量倍率。",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.BusSlider]": "設定相較於原版預設數值的公車載具容量倍率。",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.ShipSlider]": "設定相較於原版預設數值的客輪載具容量倍率。",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.SubwaySlider]": "設定相較於原版預設數值的地鐵載具容量倍率。",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TaxiSlider]": "設定相較於原版預設數值的計程車載具容量倍率。",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TrainSlider]": "設定相較於原版預設數值的火車載具容量倍率。",
+  "Options.OPTION_DESCRIPTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.Setting.TramSlider]": "設定相較於原版預設數值的路面電車載具容量倍率。",
+  "Options.SECTION[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod]": "大眾運輸容量倍率 (Transit Capacity Multiplier)",
+  "Options.TAB[TransitCapacityMultiplier.TransitCapacityMultiplier.Mod.CapacitySection]": "主要"
+}

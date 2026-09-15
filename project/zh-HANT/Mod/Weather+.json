@@ -1,1 +1,25 @@
-{}
+{
+  "Options.GROUP[WeatherPlus.WeatherPlus.Mod.Dropdown]": "選擇自訂時間",
+  "Options.GROUP[WeatherPlus.WeatherPlus.Mod.Slider]": "變更目前天氣",
+  "Options.OPTION[WeatherPlus.WeatherPlus.Mod.Setting.Cloudiness]": "目前雲量",
+  "Options.OPTION[WeatherPlus.WeatherPlus.Mod.Setting.EnableCloudiness]": "啟用自訂雲量？",
+  "Options.OPTION[WeatherPlus.WeatherPlus.Mod.Setting.EnablePrecipitation]": "啟用自訂降水量？",
+  "Options.OPTION[WeatherPlus.WeatherPlus.Mod.Setting.EnableTemperature]": "啟用自訂氣溫？",
+  "Options.OPTION[WeatherPlus.WeatherPlus.Mod.Setting.Precipitation]": "目前降水量（降雨）",
+  "Options.OPTION[WeatherPlus.WeatherPlus.Mod.Setting.Temperature]": "目前氣溫",
+  "Options.OPTION[WeatherPlus.WeatherPlus.Mod.Setting.TimeOfDay]": "強制指定時間",
+  "Options.OPTION_DESCRIPTION[WeatherPlus.WeatherPlus.Mod.Setting.Cloudiness]": "使用此滑桿設定目前的雲量覆蓋程度。",
+  "Options.OPTION_DESCRIPTION[WeatherPlus.WeatherPlus.Mod.Setting.EnableCloudiness]": "勾選以啟用手動自訂雲量數值",
+  "Options.OPTION_DESCRIPTION[WeatherPlus.WeatherPlus.Mod.Setting.EnablePrecipitation]": "勾選以啟用手動自訂降水量數值",
+  "Options.OPTION_DESCRIPTION[WeatherPlus.WeatherPlus.Mod.Setting.EnableTemperature]": "勾選以啟用手動自訂氣溫數值",
+  "Options.OPTION_DESCRIPTION[WeatherPlus.WeatherPlus.Mod.Setting.Precipitation]": "使用此滑桿設定目前的降水量（降雨量）。",
+  "Options.OPTION_DESCRIPTION[WeatherPlus.WeatherPlus.Mod.Setting.Temperature]": "使用此滑桿調整目前的環境氣溫（-50℃ 至 +50℃）。",
+  "Options.OPTION_DESCRIPTION[WeatherPlus.WeatherPlus.Mod.Setting.TimeOfDay]": "選擇預設時段以強制鎖定一天中的時間。設為「關閉」以恢復正常遊戲時間流動。",
+  "Options.SECTION[WeatherPlus.WeatherPlus.Mod]": "天氣增強 (WeatherPlus)",
+  "Options.TAB[WeatherPlus.WeatherPlus.Mod.Main]": "天氣設定",
+  "Options.TAB[WeatherPlus.WeatherPlus.Mod.Time]": "時間設定",
+  "Options.WeatherPlus.WeatherPlus.Mod.TIMEOFDAYOVERRIDE[Day]": "白天",
+  "Options.WeatherPlus.WeatherPlus.Mod.TIMEOFDAYOVERRIDE[GoldenHour]": "魔幻時刻 / 黃金時刻（開發中）",
+  "Options.WeatherPlus.WeatherPlus.Mod.TIMEOFDAYOVERRIDE[Night]": "夜晚",
+  "Options.WeatherPlus.WeatherPlus.Mod.TIMEOFDAYOVERRIDE[Off]": "關閉"
+}

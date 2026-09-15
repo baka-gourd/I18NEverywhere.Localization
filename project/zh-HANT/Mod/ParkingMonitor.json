@@ -1,1 +1,18 @@
-{}
+{
+  "Options.GROUP[ParkingMonitor.ParkingMonitor.Mod.Settings]": "設定",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.defaultRowsPerDistrict]": "每個區域預設列數",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.districtSortOrder]": "區域排序方式",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.initialState]": "監視器初始啟用狀態",
+  "Options.OPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.parkingRowCount]": "顯示停車地點上限",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.defaultRowsPerDistrict]": "每個區域預設顯示的停車場數量。",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.districtSortOrder]": "停車監控面板中區域的排序方式",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.initialState]": "遊戲開始時停車監視器是否處於啟用狀態。監視器必須處於「啟用」或「暫停」狀態才能記錄資料。",
+  "Options.OPTION_DESCRIPTION[ParkingMonitor.ParkingMonitor.Mod.Setting.parkingRowCount]": "停車監視面板中顯示計數的最大停車地點數量。",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.INITIALVALUE[ACTIVE]": "啟用",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.INITIALVALUE[PAUSED]": "暫停",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.INITIALVALUE[STOPPED]": "停止",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.SORTORDER[COUNT]": "最多停車嘗試次數",
+  "Options.ParkingMonitor.ParkingMonitor.Mod.SORTORDER[NAME]": "名稱",
+  "Options.SECTION[ParkingMonitor.ParkingMonitor.Mod]": "停車監控(Parking Monitor)",
+  "Options.TAB[ParkingMonitor.ParkingMonitor.Mod.Main]": "主要"
+}

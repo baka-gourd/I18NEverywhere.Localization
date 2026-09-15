@@ -1,1 +1,5 @@
-{}
+{
+  "Options.OPTION[DisableAccidents.DisableAccidents.Mod.Setting.ModEnabled]": "切換防止事故",
+  "Options.OPTION_DESCRIPTION[DisableAccidents.DisableAccidents.Mod.Setting.ModEnabled]": "啟用此開關時，將防止所有事故發生。",
+  "Options.SECTION[DisableAccidents.DisableAccidents.Mod]": "停用事故"
+}

@@ -1,1 +1,9 @@
-{}
+{
+  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.DampingModifier]": "阻尼係數",
+  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.ResetToDefault]": "重設為預設值",
+  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.StiffnessModifier]": "懸吊剛性係數",
+  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.DampingModifier]": "所有車輛的懸吊阻尼係數。遊戲原版為 1.0，本模組預設值為 2.0。數值越高車輛上下彈跳越明顯；數值越低則越硬朗平穩。",
+  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.ResetToDefault]": "將所有調節係數重設回預設數值。",
+  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.StiffnessModifier]": "所有車輛的最大傾斜剛性係數。遊戲原版為 1.0，本模組預設值為 3.0。數值越高車身側傾幅度越小，但晃動視覺效果可能顯得較生硬。",
+  "Options.SECTION[StifferVehicles.StifferVehicles.Mod]": "車輛懸吊剛性 (Stiffer Vehicles)"
+}
