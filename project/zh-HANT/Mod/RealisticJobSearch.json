@@ -1,1 +1,18 @@
-{}
+{
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.alpha_jobs]": "職缺吸引力加成",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.beta_minute]": "通勤時間敏感度",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.debug]": "輸出偵錯檔案",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.max_accept]": "錄取接受率上限",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.min_accept]": "錄取接受率下限",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_free_jobs]": "權重：目前現有職缺",
+  "Options.OPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_total_jobs]": "權重：工作場所規模",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.alpha_jobs]": "職缺可用性提高職位被接受機率的程度。數值越高，大型工作場所的吸引力越強。",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.beta_minute]": "長途通勤失去吸引力的速率。數值越高，市民越強烈抗拒遠距離通勤。",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.debug]": "將包含通勤統計資料的 CSV 檔案寫入 ModsData 資料夾。",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.max_accept]": "即使是條件完全相符的工作，其被接受的最高機率上限。調低可保留求職的多樣性與隨機性。",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.min_accept]": "接受任何工作的最低機率下限。調高可避免某些職缺被市民徹底忽略。",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_free_jobs]": "偏好目前有職位空缺之工作場所的程度。數值越高，越傾向前往有現成空缺的地點。",
+  "Options.OPTION_DESCRIPTION[RealisticJobSearch.RealisticJobSearch.Mod.Setting.weight_total_jobs]": "偏好大型工作場所（總職缺數較多）的程度（即便職位尚未開放）。數值越高，越偏向大型雇主。",
+  "Options.SECTION[RealisticJobSearch.RealisticJobSearch.Mod]": "擬真求職 (Realistic JobSearch)",
+  "Options.TAB[RealisticJobSearch.RealisticJobSearch.Mod.SettingsSection]": "設定"
+}

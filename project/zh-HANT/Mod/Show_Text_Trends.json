@@ -1,1 +1,9 @@
-{}
+{
+  "Options.GROUP[Show Text Trends.Show_Text_Trends.Mod.Money Display]": "金錢顯示",
+  "Options.OPTION[Show Text Trends.Show_Text_Trends.Mod.Setting.MoneyDisplayMode]": "金錢顯示模式",
+  "Options.OPTION_DESCRIPTION[Show Text Trends.Show_Text_Trends.Mod.Setting.MoneyDisplayMode]": "選擇按小時或按月顯示金錢收支變動",
+  "Options.SECTION[Show Text Trends.Show_Text_Trends.Mod]": "文字趨勢顯示(Show Text Trends)",
+  "Options.Show Text Trends.Show_Text_Trends.Mod.EMONEYDISPLAYMODE[Hourly]": "每小時 (/h)",
+  "Options.Show Text Trends.Show_Text_Trends.Mod.EMONEYDISPLAYMODE[Monthly]": "每月 (/m)",
+  "Options.TAB[Show Text Trends.Show_Text_Trends.Mod.Main]": "主要"
+}

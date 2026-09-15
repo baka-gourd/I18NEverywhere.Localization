@@ -1,1 +1,7 @@
-{}
+{
+  "Options.GROUP[FlexibleSubBuildings.FlexibleSubBuildings.Mod.LoggingGroup]": "記錄",
+  "Options.OPTION[FlexibleSubBuildings.FlexibleSubBuildings.Mod.Setting.DetailedLogging]": "詳細記錄",
+  "Options.OPTION_DESCRIPTION[FlexibleSubBuildings.FlexibleSubBuildings.Mod.Setting.DetailedLogging]": "為每次市政服務升級判定寫入一行記錄。除非正在除錯相容性問題，否則請保持停用。",
+  "Options.SECTION[FlexibleSubBuildings.FlexibleSubBuildings.Mod]": "彈性子建築",
+  "Options.TAB[FlexibleSubBuildings.FlexibleSubBuildings.Mod.GeneralSection]": "一般"
+}

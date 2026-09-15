@@ -1,1 +1,20 @@
-{}
+{
+  "Options.GROUP[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Additional Options]": "其他選項",
+  "Options.GROUP[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Student Capacity]": "學生容量",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.CollegeSlider]": "專科院校",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ElementarySlider]": "小學",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSchoolSlider]": "中學",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToModDefault]": "重設為平衡預設值",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToVanilla]": "重設為原版數值",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ScaleUpkeepWithCapacity]": "維護費用依容量等比例調整",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.UniversitySlider]": "大學",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.CollegeSlider]": "設定專科院校建築相對於原版的學生容量比例。",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ElementarySlider]": "設定小學校舍相對於原版的學生容量比例。",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSchoolSlider]": "設定中學校舍相對於原版的學生容量比例。",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToModDefault]": "將所有學校容量重設為模組建議的平衡預設值。",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToVanilla]": "將所有學校容量重設為原版 100%。",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ScaleUpkeepWithCapacity]": "若啟用，學校維護費用將隨容量設定按比例調整。變更此設定需要重新啟動遊戲。",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.UniversitySlider]": "設定大學建築相對於原版的學生容量比例。",
+  "Options.SECTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod]": "學校容量平衡器 (School Capacity Balancer)",
+  "Options.TAB[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Modify School Capacity]": "主要"
+}

@@ -1,1 +1,15 @@
-{}
+{
+  "Options.GROUP[Overpopulated.Overpopulated.Mod.Options]": "選項",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureDumpToLog]": "啟用導出至記錄檔",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureGizmo]": "啟用超額人口標記工具",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureLoadingFix]": "啟用載入修正",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureRenterFix]": "啟用租戶修正",
+  "Options.OPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureSeparatedSystems]": "啟用獨立移除系統",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureDumpToLog]": "載入存檔時，將戶數超過其容量上限的建築清單導出至記錄檔。",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureGizmo]": "啟用可顯示戶數超過其容量上限建築的標記工具。",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureLoadingFix]": "修補存檔載入流程，避免產生戶數或公司數量超過其容量上限的建築。",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureRenterFix]": "修補住戶移除系統，避免產生與房產脫鉤的房產租戶。",
+  "Options.OPTION_DESCRIPTION[Overpopulated.Overpopulated.Mod.Setting.FeatureSeparatedSystems]": "將住戶與市民的移除流程分開處理。這可防止罕見的競爭條件導致更頻繁的租戶問題。僅在啟用「租戶修正」時有效。",
+  "Options.SECTION[Overpopulated.Overpopulated.Mod]": "超額人口標記與修正 1.2.0.0",
+  "Options.TAB[Overpopulated.Overpopulated.Mod.Main]": "主要"
+}

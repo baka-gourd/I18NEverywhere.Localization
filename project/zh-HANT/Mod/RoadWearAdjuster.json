@@ -1,1 +1,19 @@
-{}
+{
+  "Options.GROUP[RoadWearAdjuster.RoadWearAdjuster.Mod.Configure]": "設定",
+  "Options.GROUP[RoadWearAdjuster.RoadWearAdjuster.Mod.Presets]": "預設集",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "重設為預設值",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureBrightness]": "貼圖亮度",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureOpacity]": "貼圖不透明度",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureSmoothness]": "貼圖平滑度",
+  "Options.OPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureVariant]": "貼圖變體",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "將此預設集套用至您的設定",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureBrightness]": "修改所選貼圖基底顏色的亮度",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureOpacity]": "修改所選貼圖的不透明度",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureSmoothness]": "修改所選貼圖的整體平滑度",
+  "Options.OPTION_DESCRIPTION[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.TextureVariant]": "選擇您偏好的道路磨損貼圖",
+  "Options.RoadWearAdjuster.RoadWearAdjuster.Mod.TEXTUREVARIANTENUM[Reflavoured]": "特製改版",
+  "Options.RoadWearAdjuster.RoadWearAdjuster.Mod.TEXTUREVARIANTENUM[Vanilla]": "原版",
+  "Options.SECTION[RoadWearAdjuster.RoadWearAdjuster.Mod]": "道路磨損調整器 (Road Wear Adjuster)",
+  "Options.TAB[RoadWearAdjuster.RoadWearAdjuster.Mod.Main]": "主要",
+  "Options.WARNING[RoadWearAdjuster.RoadWearAdjuster.Mod.Setting.PresetDefault]": "確定要套用此預設集嗎？您現有的設定將會被覆蓋。"
+}
